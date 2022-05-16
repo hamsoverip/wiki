@@ -1,6 +1,5 @@
 site_name: Ham's Over IP Wiki
 site_url: https://hamsoverip.github.io/wiki
-repo_url: https://github.com/selfhostedshow/wiki
 theme:
   name: 'material'
   font:
