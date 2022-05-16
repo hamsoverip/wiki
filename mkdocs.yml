@@ -21,9 +21,9 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 nav:
-  - Section:
-    - section/index.md
-    - Page 1: section/text.md
+  - Welcome!: index.md
+  - Wiki:
+    - Contributing: wiki/text.md
 
 extra:
   social:
