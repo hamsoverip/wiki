@@ -20,6 +20,11 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
 nav:
   - Welcome!: index.md
   - Wiki:
