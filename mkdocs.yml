@@ -20,6 +20,11 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+nav:
+  - Section:
+    - section/index.md
+    - Page 1: section/text.md
+
 extra:
   social:
     - icon: 'fontawesome/brands/discord'
