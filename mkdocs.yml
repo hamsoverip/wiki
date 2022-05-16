@@ -27,8 +27,16 @@ markdown_extensions:
 
 nav:
   - Welcome!: index.md
+  - Endpoints:
+    - Hard Phones:
+      - Cisco:
+        - Cisco 525g: endpoints/hard_phones/cisco-525g.md
+    - Soft Phones: 
+      - Groundwire: endpoints/soft_phones/groundwire.md
+    - PBX Trunks:
+      - FreePBX: endpoints/pbx/freepbx.md
   - Wiki:
-    - Contributing: wiki/text.md
+    - Contributing: wiki/contributing.md
 
 extra:
   social:
