@@ -1,0 +1,44 @@
+site_name: Ham's Over IP Wiki
+site_url: https://hamsoverip.github.io/wiki
+repo_url: https://github.com/selfhostedshow/wiki
+theme:
+  name: 'material'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: light
+      primary: 'amber'
+      accent: 'orange'
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Embrace the dark side
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: 'deep orange'
+      accent: 'amber'
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+extra:
+  social:
+
+    - icon: 'fontawesome/brands/discord'
+      link: 'https://discord.gg/n49fgkp'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - footnotes
+  - mdx_include:
+      base_path: docs
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
