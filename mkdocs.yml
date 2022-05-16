@@ -30,18 +30,3 @@ extra:
     - icon: 'fontawesome/brands/discord'
       link: 'https://discord.gg/n49fgkp'
 
-markdown_extensions:
-  - admonition
-  - codehilite:
-      guess_lang: false
-  - toc:
-      permalink: true
-  - footnotes
-  - mdx_include:
-      base_path: docs
-
-plugins:
-  - search
-  - minify:
-      minify_html: true
-
