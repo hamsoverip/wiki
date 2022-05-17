@@ -7,6 +7,7 @@ This guide will provide methods to make submissions to the wiki as well as the p
 ## Goals
 
 Rememeber, there are some things that you need to keep in mind when submitting new things or changes to the wiki:
+
 * The directions must be clear and concise.
 * It must be able to be replicated by someone else. Someone should be able to take your document and starting at the top, they should be able to move step by step through it and at the end have the same thing setup as you have. 
 * Don't be discouraged if your changes or new item is rejected. It just didn't fit what we needed at the time. If it was rejected, you will be told why and what needs to be done to fix it for it to be included.
