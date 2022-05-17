@@ -23,6 +23,9 @@ theme:
         name: Switch to light mode
 
 markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
   - toc:
       permalink: true
 
