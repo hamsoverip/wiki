@@ -3,7 +3,7 @@ HOIP allows extensions to be tied to an RF connection to allow others to dial in
 
 Note that this does not enable Autopatch from the RF connection. This is a one way connection from HOIP to your RF system, basically a reverse autopatch if you will.
 
-All RF-Link Extensions will be in the format of ```15XXX```.
+All RF-Link Extensions will be in the format of ```15XXX```, ```25XXX``` or ```35000```.
 
 ## Creating an RF Connection
 To create a connection , you first need to have a properly configured AllStar Node. Asterisk is needed to connect to the HOIP system as the HOIP system is based on Asterisk (FreePBX is the GUI front End to Asterisk) as well. There is plenty of documentation online on configuring an Allstar Node, so that is outside the scope of this document.
