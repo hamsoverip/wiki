@@ -62,15 +62,19 @@ Once you have your node configured, you will need to request an RF-Link Extensio
 * Select the ```RF-Link Request``` Help Topic.
 * Just note in the ```Issue Summary``` part that this is a request for a RF-Link
 * You will need to make sure to include an IAX2 Dial string that includes the stanza information you setup for your node’s connections in the details part of the ```Issue Summary``` box. Make sure to modify this example IAX Dial String to match your system correctly.
+  
   * The IAX2 Dial String is formatted like this:
   ```bash
   IAX2/username:password@domain:port/node number to connect to
   ```
+  
   * So for an example:
   ```bash
   IAX2/usrname:paswrd@my.node.com:4569/1999
   ```
+
   * This is the most important part. Without this, we are not able to connect to your system.
+  
 * Finally fill out the rest of the requested information in the ```RF-Link Request``` area.
 
 Once your extension is provisioned, you will be contacted with your extension number (which will be the next sequential number in the list) to test and make sure that you can connect to your node.

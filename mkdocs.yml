@@ -33,7 +33,7 @@ markdown_extensions:
 nav:
   - Welcome!: index.md
 
-  - Main Website (https://hamsoverip.com): https://hamsoverip.com
+  - Main Website: https://hamsoverip.com
 
   - Policies:
     - Terms of Service: General/coming-soon.md
