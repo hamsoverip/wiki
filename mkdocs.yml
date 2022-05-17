@@ -24,6 +24,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - def_list
   - codehilite:
       guess_lang: false
   - toc:
