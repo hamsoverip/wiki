@@ -1,5 +1,6 @@
 site_name: Ham's Over IP Wiki
 site_url: https://hamsoverip.github.io/wiki
+repo_url: https://github.com/hamsoverip/wiki
 theme:
   name: 'material'
   font:
@@ -27,19 +28,41 @@ markdown_extensions:
 
 nav:
   - Welcome!: index.md
-  - Endpoints:
-    - Hard Phones:
-      - Cisco:
-        - Cisco 525g: endpoints/hard_phones/cisco-525g.md
-    - Soft Phones: 
-      - Groundwire: endpoints/soft_phones/groundwire.md
-    - PBX Trunks:
-      - FreePBX: endpoints/pbx/freepbx.md
+
+  - Main Website (https://hamsoverip.com): https://hamsoverip.com
+
+  - Policies:
+    - Terms of Service: General/coming-soon.md
+    - User Agreement: General/coming-soon.md
+  
+  - General User Guides:
+    - Joining our Discord Server: General/user_guides/discord.md
+    - Finding Help: General/user_guides/support.md
+    - Getting Started: General/user_guides/getting-started.md
+
+  - Configuration Guides:
+    - Endpoints:
+      - Hard Phones:
+        - Cisco:
+          - Cisco 504G: General/coming-soon.md
+          - Cisco 525g: General/coming-soon.md
+      - Soft Phones: 
+        - Groundwire: General/coming-soon.md
+      - PBX Trunks:
+        - FreePBX: 
+          - Configure FreePBX Trunk: General/coming-soon.md
+          - Configure "Auto DND" on FreePBX: General/coming-soon.md
+    - Other:
+      - Configure an RF Link: endpoints/other/rf-links.md
+      - Configure Audio Services: General/coming-soon.md
+  
   - Wiki:
-    - Contributing: wiki/contributing.md
+    - Contributing: 
+      - Overview of the Wiki: wiki/overview.md
+      - How to Contribute: wiki/contributing.md
 
 extra:
   social:
     - icon: 'fontawesome/brands/discord'
-      link: 'https://discord.gg/n49fgkp'
+      link: 'https://discord.gg/6VgdWw3vM4'
 
