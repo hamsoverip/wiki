@@ -54,6 +54,7 @@ exten => 47374,n,rpt(47374|P)
 ### Connecting to Ham's Over IP
 
 Once you have your node configured, you will need to request an RF-Link Extension on the HOIP system through the HOIP ticketing system. 
+
 * Go to [https://hamsoverip.com/](https://hamsoverip.com/) and click "Request a Line". 
 * If you have an account, sign in and then select ```Open a New Ticket```.
 * If you do not have an account, then just select ```Open a New Ticket```.
