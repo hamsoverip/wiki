@@ -22,7 +22,7 @@ In your ```iax.conf``` you will need to configure a stanza similar to this:
 [hoipphone]
 username=<Choose a username> 
 type=user
-context=hhphone
+context=hoipphone
 host=dynamic
 auth=md5
 secret=<choose a password> 
