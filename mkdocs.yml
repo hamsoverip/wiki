@@ -64,7 +64,7 @@ nav:
     - Contributing: 
       - Overview of the Wiki: wiki/overview.md
       - How to Contribute: wiki/contributing.md
-  - Changelog: General/changelong.md
+  - Changelog: General/changelog.md
 
 extra:
   social:
