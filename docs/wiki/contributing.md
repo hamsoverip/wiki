@@ -20,6 +20,8 @@ If you are familiar with how Git and Github works, or you have used Github befor
 
 This is good for both new items and change requests.
 
+If you have cloned a previous version of the repo, ***PLEASE*** make sure that you do a ```git pull``` prior to doing any local editing. This wiki is always in flux and if you do not do a pull prior to starting editing, you will either miss updates or overwrite things on the repo. It is always good practice to do a pull prior to starting work on a repo anyway. This makes sure you are on the most current ```main``` branch edits. 
+
 ### Non-Github related way
 
 If you are not familiar with Github, or do not have an account, that is ok. You can still contribute. 

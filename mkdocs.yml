@@ -51,7 +51,7 @@ nav:
           - Cisco 504G: General/coming-soon.md
           - Cisco 525g: General/coming-soon.md
       - Soft Phones: 
-        - Groundwire: General/coming-soon.md
+        - Groundwire: endpoints/soft_phones/groundwire/groundwire.md
       - PBX Trunks:
         - FreePBX: 
           - Configure FreePBX Trunk: General/coming-soon.md
@@ -59,11 +59,12 @@ nav:
     - Other:
       - Configure an RF Link: endpoints/other/rf-links.md
       - Configure Audio Services: General/coming-soon.md
-  
+      - Configure BLF on Cisco Phones: endpoints/other/blf.md  
   - Wiki:
     - Contributing: 
       - Overview of the Wiki: wiki/overview.md
       - How to Contribute: wiki/contributing.md
+  - Changelog: General/changelong.md
 
 extra:
   social:
