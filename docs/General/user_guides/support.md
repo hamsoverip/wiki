@@ -10,3 +10,5 @@ If you need help, here are some steps to take:
 * You can ask for help in the [Discord Server](https://hamsoverip.github.io/General/user_guides/discord.md). Keep in mind though you will get alot of answers and it will not be a tracked issue.
 
 The biggest key here is to make sure to put a ticket in so that issues and problems can be tracked easier.
+
+Last Updated: 05/23/2022

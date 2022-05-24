@@ -36,7 +36,7 @@ This sets up Push Notifications for Groundwire.
 
 ## Troubleshooting
 
-* If the circle goes red, this indicates that the account is not registered on the server. Try turning off your home wifi on your phone and letting it connect via cellular. If it connects, it's an issue with your home wifi. If it does not register, it is a configuration error 
+* If the circle goes red, this indicates that the account is not registered on the server. Try turning off your home wifi on your phone and letting it connect via cellular. If it connects, it's an issue with your home wifi. If it does not register, it is a configuration error. 
+* If you are having a configuration problem, double check your settings on the account screen. Make sure if you copy and pasted there are no spaces in the username or password or anything. This will cause a registration issue.
 
-
-
+Last Updated: 05/23/2022

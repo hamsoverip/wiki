@@ -16,3 +16,5 @@ After joining, we ask that you do a couple of things:
       * Go to ```Edit Server Profile```
       * Change the field that says ```Server Nickname```
       * If it says you need to pay for Discord Nitro, you are doing it wrong. Server Nicknames are free to set.
+
+Last Updated: 05/23/2022

@@ -54,12 +54,14 @@ nav:
         - Groundwire: endpoints/soft_phones/groundwire/groundwire.md
       - PBX Trunks:
         - FreePBX: 
-          - Configure FreePBX Trunk: General/coming-soon.md
-          - Configure "Auto DND" on FreePBX: General/coming-soon.md
+          - Configure FreePBX Trunk: endpoints/pbx/freepbx/configure-trunk.ms
     - Other:
-      - Configure an RF Link: endpoints/other/rf-links.md
+      - Configure an RF Link: other/rf-links.md
       - Configure Audio Services: General/coming-soon.md
-      - Configure BLF on Cisco Phones: endpoints/other/blf.md  
+      - Configure BLF on Cisco Phones: other/blf.md
+  - Files (Right Click and Select Save File As):
+    - Side Car Template: files/SideCar_Template_A4.xls
+    - Phone Wallpaper: wallpaper/wallpaper.md 
   - Wiki:
     - Contributing: 
       - Overview of the Wiki: wiki/overview.md

@@ -27,3 +27,4 @@ So an example function string would be:
 fnc=sd+blf;ext=1234@$PROXY;nme=Joe, WA1ABC;vid=2
 ```
 
+Last Updated: 05/23/2022
