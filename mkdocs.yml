@@ -54,7 +54,7 @@ nav:
         - Groundwire: endpoints/soft_phones/groundwire/groundwire.md
       - PBX Trunks:
         - FreePBX: 
-          - Configure FreePBX Trunk: endpoints/pbx/freepbx/configure-trunk.ms
+          - Configure FreePBX Trunk: endpoints/pbx/freepbx/configure-trunk.md
     - Other:
       - Configure an RF Link: other/rf-links.md
       - Configure Audio Services: General/coming-soon.md
