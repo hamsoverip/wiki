@@ -10,6 +10,8 @@ The preview link will allow you to click on it and see the actual Image.
 
 The URL is what can be used to pull the image to your phone. If the image is ever updated, it should automatically update your phone.
 
+You could also download the image if you want to have it by Right Clicking on the Preview Link and choosing Save File As.
+
 *** NOTE: DO NOT DO A PULL REQUEST TO UPDATE THIS PAGE. WALLPAPERS SHOULD ONLY BE CONTRIBUTED VIA DISCORD. ANY PULL REQUESTS TO UPDATE THIS PAGE WILL BE DENIED. ***
 
 | Filename | Preview | URL | Contributor |
