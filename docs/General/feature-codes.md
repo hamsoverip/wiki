@@ -19,37 +19,37 @@ These are special commands that allow a user to do certain functions via Asteris
 *740 – Call Forward Toggle
 
 **Call Waiting**
-*70 – Call Waiting – Activate
-*71 – Call Waiting – Deactivate
+    *70 – Call Waiting – Activate
+    *71 – Call Waiting – Deactivate
 
 **Core**
-7777 – Simulate Incoming Call
+    7777 – Simulate Incoming Call
 
 **Do-Not-Disturb (DND)**
-*78 – DND Activate
-*79 – DND Deactivate
-*76 – DND Toggle
+    *78 – DND Activate
+    *79 – DND Deactivate
+    *76 – DND Toggle
 
 **Follow Me**
-*21 – Findme Follow Toggle
+    *21 – Findme Follow Toggle
 
 **Info Services**
-*69 – Call Trace
-*43 – Echo Test
-*65 – Speak Your Exten Number
-*60 – Speaking Clock
+    *69 – Call Trace
+    *43 – Echo Test
+    *65 – Speak Your Exten Number
+    *60 – Speaking Clock
 
 **Paging and Intercom**
-*80 – Intercom prefix
-*54 – User Intercom Allow
-*55 – User Intercom Disallow
+    *80 – Intercom prefix
+    *54 – User Intercom Allow
+    *55 – User Intercom Disallow
 
 **Speed Dial Functions**
-*75 – Set user speed dial
-*0 – Speeddial prefix
+    *75 – Set user speed dial
+    *0 – Speeddial prefix
 
 **Voicemail**
-*98 – Dial Voicemail
-*97 – My Voicemail
+    *98 – Dial Voicemail
+    *97 – My Voicemail
 
 Last Updated: 06/08/2022
