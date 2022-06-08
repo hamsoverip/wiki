@@ -2,6 +2,7 @@
 
 * 06/08/2022 - Jeff, N8ACl
     * Added List of Feature Codes
+    * Moved Getting Started up the list in the General Category
 
 * 05/23/2022 - Jeff, N8ACL
     * Added - Configure FreePBX Trunk
