@@ -1,5 +1,8 @@
 # Changelog
 
+* 06/08/2022 - Jeff, N8ACl
+    * Added List of Feature Codes
+
 * 05/23/2022 - Jeff, N8ACL
     * Added - Configure FreePBX Trunk
     * Added - Side Car Template (Jordan, K4AVG)

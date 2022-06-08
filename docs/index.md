@@ -8,7 +8,7 @@ Within these pages you will find a wealth of information about the network and a
 
 We are of course looking for contributions to this wiki to expand the use of the system. To contribute, please make sure to look at the [Contributing Section](https://hamsoverip.github.io/wiki/wiki/overview) of the wiki on how to contribute.
 
-The Mainainer of the Wiki is: Jeff, N8ACL
+The Maintainer of the Wiki is: Jeff, N8ACL
 
 Questions? There are multiple ways to ask them:
 
