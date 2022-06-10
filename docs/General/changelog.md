@@ -2,6 +2,7 @@
 
 * 06/10/2022 - Jeff, N8ACL
     * Expanded the navigation menu for easier navigation
+    * Moved the Getting up topic up for better flow in the General category
 
 * 06/08/2022 - Jeff, N8ACl
     * Added List of Feature Codes

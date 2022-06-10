@@ -43,8 +43,8 @@ nav:
   
   - General User Guides:
     - Getting Started: General/user_guides/getting-started.md
-    - Joining our Discord Server: General/user_guides/discord.md
     - Finding Help: General/user_guides/support.md
+    - Joining our Discord Server: General/user_guides/discord.md
     - FreePBX/Asterisk Feature Codes: General/feature-codes.md
 
   - Configuration Guides:
