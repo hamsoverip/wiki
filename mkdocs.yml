@@ -52,7 +52,7 @@ nav:
       - Hard Phones:
         - Cisco:
           - Cisco 504G: General/coming-soon.md
-          - Cisco 525g: General/coming-soon.md
+          - Cisco 525g: endpoints/hardphones/Cisco525.md
       - Soft Phones: 
         - Groundwire: endpoints/soft_phones/groundwire/groundwire.md
       - PBX Trunks:
