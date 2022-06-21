@@ -1,5 +1,9 @@
 # Changelog
 
+* 06/21/2022
+    * Creation of Cisco 525G Configureation Guide - Jeff, N8EMA
+    * Conversion to Markdown - Conner, K9SLV PR#4
+
 * 06/10/2022 - Jeff, N8ACL
     * Expanded the navigation menu for easier navigation
     * Moved the Getting up topic up for better flow in the General category
