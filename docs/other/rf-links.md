@@ -82,7 +82,7 @@ Once you have your node configured, you will need to request an RF-Link Extensio
   
 * Finally fill out the rest of the requested information in the ```RF-Link Request``` area.
 
-Once your extension is provisioned, you will be contacted with your extension number (which will be the next sequential number in the list) to test and make sure that you can connect to your node.
+Once your extension is provisioned, you will be emailed with your extension number (which will be the next sequential number in the list) to test and make sure that you can connect to your node.
 
 
 Last Updated: 06/26/2022
