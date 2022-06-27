@@ -49,7 +49,7 @@ exten => 47374,n,Playback(digits/4)
 exten => 47374,n,Playback(rpt/connected)
 exten => 47374,n,Set(CALLSIGN=HOIP-${CALLERID(name)})
 exten => 47374,n,rpt(47374|P|${CALLSIGN}) 
-exten => 47374,n,rpt(47374|P)
+exten => 47374,n,rpt,47374|P
 ```
 
 Please be sure you have an FQDN for your network.  If you don't know what an FQDN is, please google it.  NO IP ADDRESS WILL BE ACCEPTED, as they can change dynamically.
