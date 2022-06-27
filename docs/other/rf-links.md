@@ -18,6 +18,7 @@ You will need to edit the ```IAX.conf``` and ```extensions.conf``` files.
 
 In your ```iax.conf``` you will need to configure a stanza similar to this:
 
+```
 [stanza-must-match-username]
 username=<username-must-match-stanza> 
 type=user
@@ -31,6 +32,7 @@ allow=g726aal2
 allow=gsm
 codecpriority=host
 transfer=no 
+```
 
 In your ```extensions.conf``` you need to configure a stanza similar to below. 
 * ***Note***: you need to change the node numbers shown below to the node that you are having the connection dial into. So, if you configured a private node and if, for example, that node number is 1999, then you would use 1999 in place of 47374 below:
