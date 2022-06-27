@@ -37,6 +37,7 @@ transfer=no
 In your ```extensions.conf``` you need to configure a stanza similar to below. 
 * ***Note***: you need to change the node numbers shown below to the node that you are having the connection dial into. So, if you configured a private node and if, for example, that node number is 1999, then you would use 1999 in place of 47374 below:
 
+```
 [hoipphone]
 exten => 47374,1,answer()
 exten => 47374,n,Playback(rpt/node) 
@@ -49,6 +50,7 @@ exten => 47374,n,Playback(rpt/connected)
 exten => 47374,n,Set(CALLSIGN=HOIP-${CALLERID(name)})
 exten => 47374,n,rpt(47374|P|${CALLSIGN}) 
 exten => 47374,n,rpt(47374|P)
+```
 
 ### Connecting to Ham's Over IP
 
