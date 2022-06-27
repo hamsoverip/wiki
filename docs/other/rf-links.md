@@ -52,9 +52,11 @@ exten => 47374,n,rpt(47374|P|${CALLSIGN})
 exten => 47374,n,rpt(47374|P)
 ```
 
-### Connecting to Ham's Over IP
-
 Please be sure you have an FQDN for your network.  If you don't know what an FQDN is, please google it.  NO IP ADDRESS WILL BE ACCEPTED, as they can change dynamically.
+
+Please use an IAX client and test your credentials that you used for HOIP from outside of your network to ensure connectivity.
+
+### Connecting to Ham's Over IP
 
 Once you have your node configured, you will need to request an RF-Link Extension on the HOIP system through the HOIP ticketing system. 
 
