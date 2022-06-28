@@ -1,14 +1,18 @@
 # Changelog
 
+* 06/28/2022
+    * Updates to the RF-Link Guide - Jessie, WH6AV PR#5
+    * Added HOIP Allstar System Rules - Jeff, N8ACL
+
 * 06/21/2022
-    * Creation of Cisco 525G Configureation Guide - Jeff, N8EMA
+    * Creation of Cisco 525G Configuration Guide - Jeff, N8EMA
     * Conversion to Markdown - Conner, K9SLV PR#4
 
 * 06/10/2022 - Jeff, N8ACL
     * Expanded the navigation menu for easier navigation
     * Moved the Getting up topic up for better flow in the General category
 
-* 06/08/2022 - Jeff, N8ACl
+* 06/08/2022 - Jeff, N8ACL
     * Added List of Feature Codes
     * Moved Getting Started up the list in the General Category
 

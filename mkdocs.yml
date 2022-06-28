@@ -40,12 +40,13 @@ nav:
   - Policies:
     - Terms of Service: General/coming-soon.md
     - User Agreement: General/coming-soon.md
+    - HOIP Allstar System Rules: General/Policies/hoip-allstar.md
   
   - General User Guides:
     - Getting Started: General/user_guides/getting-started.md
     - Finding Help: General/user_guides/support.md
     - Joining our Discord Server: General/user_guides/discord.md
-    - FreePBX/Asterisk Feature Codes: General/feature-codes.md
+    - FreePBX/Asterisk Feature Codes: General/user_guides/feature-codes.md
 
   - Configuration Guides:
     - Endpoints:

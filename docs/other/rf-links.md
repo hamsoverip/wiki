@@ -70,12 +70,12 @@ Once you have your node configured, you will need to request an RF-Link Extensio
   
   - The IAX2 Dial String is formatted like this:
   
-  IAX2/username:password@fqdn:port/node-number
+  ```IAX2/username:password@fqdn:port/node-number```
 
   
   * So for an example:
 
-  IAX2/username:password@fqdn:4569/1999
+  ```IAX2/username:password@fqdn:4569/1999```
 
 
   * This is the most important part. Without this, we are not able to connect to your system.
@@ -85,4 +85,4 @@ Once you have your node configured, you will need to request an RF-Link Extensio
 Once your extension is provisioned, you will be emailed with your extension number (which will be the next sequential number in the list) to test and make sure that you can connect to your node.
 
 
-Last Updated: 06/26/2022
+Last Updated: 06/28/2022
