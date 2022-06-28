@@ -18,14 +18,18 @@ c. Scroll to view IP Address. This is the IP address of your phone.
 
 You should now have a number which is similar to 192.168.xxx.xxx
 ## Step 2
+
 **Logging in to the Phone Web User Interface**
-    * On your PC, open a Web browser window. Your PC must be on the same subnetwork as the phone.
-    * Enter the IP address in the browser address bar.
+* On your PC, open a Web browser window. Your PC must be on the same subnetwork as the phone.
+* Enter the IP address in the browser address bar.
+
 You will now see this screen:
 ![Top menu Bar of Cisco SPA525](https://user-images.githubusercontent.com/65520146/174688789-60893e08-7f8d-4e08-9691-ab2cad8105e7.png)
 Click on the **"Admin Login"** button near the top right side of the screen, then click on the **"Ext 1"** tab. This could be **"EXT 2"** if you already have a current extenstion.
 ![Admin Menu Bar](https://user-images.githubusercontent.com/65520146/174689423-1052c960-17d2-4505-a134-7b06f9099991.png)
+
 ## Step 3
+
 **Configure with your Hams over IP account**
 Find the following fields on the "Ext" tab and configure accordingly.
 

@@ -67,18 +67,9 @@ Once you have your node configured, you will need to request an RF-Link Extensio
 * Select the ```RF-Link Request``` Help Topic.
 * Just note in the ```Issue Summary``` part that this is a request for a RF-Link
 * You will need to make sure to include an IAX2 Dial string that includes the stanza information you setup for your node’s connections in the details part of the ```Issue Summary``` box. Make sure to modify this example IAX Dial String to match your system correctly.
-  
-  - The IAX2 Dial String is formatted like this:
-  
-  ```IAX2/username:password@fqdn:port/node-number```
-
-  
-  * So for an example:
-
-  ```IAX2/username:password@fqdn:4569/1999```
-
-
-  * This is the most important part. Without this, we are not able to connect to your system.
+    * The IAX2 Dial String is formatted like this: ```IAX2/username:password@fqdn:port/node-number```
+    * So for an example: ```IAX2/username:password@fqdn:4569/1999```
+    * This is the most important part. Without this, we are not able to connect to your system.
   
 * Finally fill out the rest of the requested information in the ```RF-Link Request``` area.
 

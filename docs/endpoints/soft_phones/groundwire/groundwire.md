@@ -16,11 +16,11 @@ Groundwire is available for iOS and Android platforms at the following links:
 * On the Settings screen, tap the ```Accounts``` Option and then click the ```+``` in the upper right hand corner top add a new account.
 * On the next screen, select the ```Generic SIP Account``` Option.
 * You should now be on the ```New Account``` Screen. Here is where you will configure the account to connect to HOIP. You will need to enter the following in the fields:
-  * ```Title``` - This is the name of the account you are setting up. Suggested is your extension number (the actual extension) on HOIP.
-  * ```Username``` - This is the (actual) extension number of your account.
-  * ```Password``` - This is the password sent in your user credentials email from the HOIP system.
-  * ```Domain``` - This is the ```domain:port``` of the server you are getting an account on. This will be in the email you received from the HOIP system. An example would be ```pbx-us1.hamsoverip.com:5160```.
-  * ```Display Name``` - This is optional, but this would be the name you would want displayed on the other end.
+    * ```Title``` - This is the name of the account you are setting up. Suggested is your extension number (the actual extension) on HOIP.
+    * ```Username``` - This is the (actual) extension number of your account.
+    * ```Password``` - This is the password sent in your user credentials email from the HOIP system.
+    * ```Domain``` - This is the ```domain:port``` of the server you are getting an account on. This will be in the email you received from the HOIP system. An example would be ```pbx-us1.hamsoverip.com:5160```.
+    * ```Display Name``` - This is optional, but this would be the name you would want displayed on the other end.
 * Once you have all of these set, Tap ```Save```.
 * Then tap ```Settings``` in the upper left corner.
 * Finally tap ```Done``` in the upper right corner.

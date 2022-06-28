@@ -27,7 +27,7 @@ Also note that rules are subject to change as use of the system grows. Make sure
 * Please do not connect to other major systems (HUBnet, PAPA, etc)
 * Do not cross connect this system with any conference bridges.
 * This system can also be used for Nets, however, these need to be cleared with N8ACL to make sure there is not a conflict with scheduling. Preferably HOIP related/sponsored nets, but other nets will be considered.
-  * We will not link the system to other existing nets. There are other ways to connect to other nets out there. **IE:** We will not link the system to nets like the Alaska Morning Net or the East Coast Reflector Nets, etc.
+    * We will not link the system to other existing nets. There are other ways to connect to other nets out there. **IE:** We will not link the system to nets like the Alaska Morning Net or the East Coast Reflector Nets, etc.
 * I hate to put this out there since we are all adults, however, abuse of the system and disregard for Radio Regulations (in any country) along with not following the rules of the system will result in removal of access to the Discord voice channel as well as blocked access via other means to the node and no reconsideration will be given. Since this is currently being run under my callsign (N8ACL), I will not allow problems to arrise. Consider this your **one** and **only** warning.
 
 ### To use the Discord Channel:
