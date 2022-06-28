@@ -5,7 +5,8 @@
     * Added HOIP Allstar System Rules - Jeff, N8ACL
     * Updated Groundwire Configuration - Jeff, N8ACL
         * Added Voicemail Configuration
-
+    * Update Contributing Guide - Jeff, N8ACL
+ 
 * 06/21/2022
     * Creation of Cisco 525G Configuration Guide - Jeff, N8EMA
     * Conversion to Markdown - Conner, K9SLV PR#4

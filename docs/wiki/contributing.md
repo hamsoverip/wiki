@@ -53,4 +53,7 @@ This process is in place to make sure we have very good and complete documentati
 * If you have questions, ask. That is what the Wiki Chat is for in Discord. Or reach out to Jeff, N8ACL on Discord directly (@Ravendos#7364).
 * Please do not submit anything other then a Markdown Document. This will get your submission rejected right off the bat till it is in the correct format.
 
-Last Updated: 05/23/2022
+## Tips and Tricks Learned about MKDocs
+* Typically in Markdown, you only need to indent 2 spaces for nested lists. Apparently in MKDocs, you need to indent 4 Spaces. The upstream provider for the Markdown Plugin for MKDocs has decided to die on a hill and say this is not a bug, which sadly it is. So when doing nested lists (sub points in a list) make sure to indent them 4 spaces.
+
+Last Updated: 06/28/2022
