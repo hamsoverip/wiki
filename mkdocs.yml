@@ -26,8 +26,8 @@ theme:
 
 markdown_extensions:
   - admonition
-  - def_list
-  - mdx-truly-sane-lists
+  #- def_list
+  - mdx_truly_sane_lists
   - codehilite:
       guess_lang: false
   - toc:
