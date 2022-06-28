@@ -55,7 +55,7 @@ nav:
           - Cisco 504G: General/coming-soon.md
           - Cisco 525g: endpoints/hard_phones/Cisco525.md
       - Soft Phones: 
-        - Groundwire: endpoints/soft_phones/groundwire/groundwire.md
+        - Groundwire: endpoints/soft_phones/groundwire.md
       - PBX Trunks:
         - FreePBX: 
           - Configure FreePBX Trunk: endpoints/pbx/freepbx/configure-trunk.md
