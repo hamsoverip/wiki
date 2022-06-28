@@ -39,7 +39,7 @@ Also note that rules are subject to change as use of the system grows. Make sure
 
 If you have questions, comments or problems, please reach out to Jeff, N8ACL in one of the following ways:
 
-Discord: Ravendos#7364 (Preferred way)
-Email: n8acl@qsl.net
+* Discord: Ravendos#7364 (Preferred way)
+* Email: n8acl@qsl.net
 
 Last Updated: 06/28/2022
