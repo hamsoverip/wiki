@@ -34,11 +34,13 @@
         * Change Log
     * Update of Contributing Overview - Jeff, N8ACL
         * Added link from that page to the Contributing Guide
+
     * Update of Contributing Guide - Jeff, N8ACL
         * Added comment to make sure to do a git pull to get current repo changes.
 
 * 05/18/2022
     * Update of Index.md - Scott, W8UFO - PR#3
+
         * Corrects the “Contributing Section” link on the overview page (it was resulting in a 404 error).
 
 * 05/17/2022
