@@ -34,9 +34,27 @@ You should now be back at the main screen. In the upper left, there should be a 
 
 This sets up Push Notifications for Groundwire.
 
+## Configure Voicemail
+
+This one is a bit tricky. It doesn't make sense on why all these switches are in different places, but here goes.
+
+* Click the gear in the upper right hand corner of the screen.
+* Tap ```Preferences```
+* Tap ```Controls```
+* Scroll down till you see ```Always show Voicemail button``` and enable that switch.
+* Hit ```Done```
+* Go back into the ```Settings``` Gear.
+* Tap ```Accounts```.
+* Tap the little blue ```information``` circle next to the account you want to edit.
+* Tap ```Advanced Settings```
+* Scroll down to ```Voicemail Number``` and enter \*97 there.
+* Tap ```Done```
+* Tap ```Settings``` and then Tap ```Done``` and this will bring you back to the main dial screen.
+* You should now have a blue voicemail button at the bottom of your dial pad screen. If you tap this, it will dial your voicemail box and let you retreieve voicemails.
+
 ## Troubleshooting
 
 * If the circle goes red, this indicates that the account is not registered on the server. Try turning off your home wifi on your phone and letting it connect via cellular. If it connects, it's an issue with your home wifi. If it does not register, it is a configuration error. 
 * If you are having a configuration problem, double check your settings on the account screen. Make sure if you copy and pasted there are no spaces in the username or password or anything. This will cause a registration issue.
 
-Last Updated: 05/23/2022
+Last Updated: 06/28/2022

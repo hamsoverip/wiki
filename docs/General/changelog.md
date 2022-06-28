@@ -3,6 +3,8 @@
 * 06/28/2022
     * Updates to the RF-Link Guide - Jessie, WH6AV PR#5
     * Added HOIP Allstar System Rules - Jeff, N8ACL
+    * Updated Groundwire Configuration - Jeff, N8ACL
+        * Added Voicemail Configuration
 
 * 06/21/2022
     * Creation of Cisco 525G Configuration Guide - Jeff, N8EMA
