@@ -7,14 +7,14 @@ Note that this system is run on N8ACL's Home Lab and is subject to be up and dow
 Also note that rules are subject to change as use of the system grows. Make sure you review these rules on a regular basis. You need to be familiar with them at all times.
 
 ### Current Connections:
-Allstarlink: Node 479142 (This is the main hub for all connections)
-TGIF DMR: TG 4647 (Spells HOIP)
-Discord: Allstarlink (HOIP) voice channel
-HOIP: Ext. 15017
+* Allstarlink: Node 479142 (This is the main hub for all connections)
+* TGIF DMR: TG 4647 (Spells HOIP)
+* Discord: Allstarlink (HOIP) voice channel
+* HOIP: Ext. 15017
 
 ### Future Enhancements:
-P25
-YSF
+* P25
+* YSF
 
 ### System Dashboard:
 [http://hoip.ddns.net:8587](http://hoip.ddns.net:8587)
