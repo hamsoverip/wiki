@@ -1,5 +1,9 @@
 # Changelog
 
+* 06/30/2022 - Jeff, N8ACL
+    * Addition of Conference Bridge Contact Reference
+    * Addition of RF Link Contact Reference
+
 * 06/29/2022 - Jeff, N8ACL
     * Moved FreePBX Feature codes down with other FreePBX Guides
     * Added 3CX Trunk Configuration Guide

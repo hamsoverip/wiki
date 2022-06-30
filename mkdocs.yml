@@ -46,6 +46,10 @@ nav:
     - Getting Started: General/user_guides/getting-started.md
     - Finding Help: General/user_guides/support.md
     - Joining our Discord Server: General/user_guides/discord.md
+  
+  - System Guides:
+    - Conference Bridge Reference: other/conference-bridge-list.md
+    - RF-Link Reference: other/rf-links-list.md
 
   - Configuration Guides:
     - Endpoints:
@@ -62,16 +66,19 @@ nav:
         - 3CX PBX:
           - Configure 3CX Trunk: endpoints/pbx/3cx/configure-3cx-trunk.md
     - Other:
-      - Configure an RF Link: other/rf-links.md
+      - Configure an RF Link: other/configure-rf-links.md
       - Configure Audio Services: General/coming-soon.md
-      - Configure BLF on Cisco Phones: other/blf.md
+      - Configure BLF on Cisco Phones: other/configure-blf.md
+
   - Files (Right Click and Select Save File As):
     - Side Car Template: files/SideCar_Template_A4.xls
     - Phone Wallpaper: wallpaper/wallpaper.md 
+
   - Wiki:
     - Contributing: 
       - Overview of the Wiki: wiki/overview.md
       - How to Contribute: wiki/contributing.md
+
   - Changelog: General/changelog.md
 
 extra:
