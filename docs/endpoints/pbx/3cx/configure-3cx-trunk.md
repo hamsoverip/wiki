@@ -13,6 +13,7 @@ This guide assumes that you already have a 3CX PBX setup and ready and have also
 ## Configuring the Trunk
 
 ### Create the Trunk
+
 * Log into your 3CX PBX Management Console.
 * Click on ```SIP Trunks``` in the left hand column.
 * Click ```Add SIP Trunk```.
@@ -63,6 +64,7 @@ Now pickup a phone and call an extension on HOIP to test it and also see if you 
 ### Voicemail Options
 
 The nice thing about 3CX is you can have the PBX handle your voicemail, or you can have HOIP handle the voicemail.
+
 * If you want HOIP to handle voicemail, just disable the voicemail options for the extension that incoming HOIP calls are being routed to on 3CX.
 * If you want to handle voicemail your self, you have two additional options for this:
     * You can have your HOIP Voicemail box disabled and have everything roll to your PBX
