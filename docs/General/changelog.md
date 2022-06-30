@@ -1,5 +1,9 @@
 # Changelog
 
+* 06/29/2022 - Jeff, N8ACL
+    * Moved FreePBX Feature codes down with other FreePBX Guides
+    * Added 3CX Trunk Configuration Guide
+
 * 06/28/2022
     * Updates to the RF-Link Guide - Jessie, WH6AV PR#5
     * Added HOIP Allstar System Rules - Jeff, N8ACL

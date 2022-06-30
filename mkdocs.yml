@@ -46,7 +46,6 @@ nav:
     - Getting Started: General/user_guides/getting-started.md
     - Finding Help: General/user_guides/support.md
     - Joining our Discord Server: General/user_guides/discord.md
-    - FreePBX/Asterisk Feature Codes: General/user_guides/feature-codes.md
 
   - Configuration Guides:
     - Endpoints:
@@ -59,6 +58,9 @@ nav:
       - PBX Trunks:
         - FreePBX: 
           - Configure FreePBX Trunk: endpoints/pbx/freepbx/configure-trunk.md
+          - FreePBX/Asterisk Feature Codes: endpoints/pbx/freepbx/feature-codes.md
+        - 3CX PBX:
+          - Configure 3CX Trunk: endpoints/pbx/3cx/configure-3cx-trunk.md
     - Other:
       - Configure an RF Link: other/rf-links.md
       - Configure Audio Services: General/coming-soon.md
@@ -75,5 +77,5 @@ nav:
 extra:
   social:
     - icon: 'fontawesome/brands/discord'
-      link: 'https://discord.gg/6VgdWw3vM4'
+      link: 'https://discord.gg/npwFgnj2vU'
 
