@@ -31,7 +31,7 @@ Link Owners/Admins: We need your help in keeping this list up to date. You have 
 | 15013 |W4EDP/N4LMC ALLSTAR 46145 |  | Emmett, W4EDP</br>Ext: 100127</br>Email: w4edp@arrl.net | 
 | 15014 |W4EDP/W4GTA ALLSTAR 46331 |  | Emmett, W4EDP</br>Ext: 100127</br>Email: w4edp@arrl.net | 
 | 15015 |W4EDP/N4LMC ALLSTAR 46292 |  | Emmett, W4EDP</br>Ext: 100127</br>Email: w4edp@arrl.net | 
-| 15016 |KO4WIL ALLSTAR 56135 |  | William, KO4WIL</br>Ext: 100178</br>Email: ko4wiltn@gmail.com | 
+| 15016 |KO4WIL ALLSTAR 56135 | Typically connected to the W4KEV repeater system but can be connected to others at times. I dial in to this node mostly from my office to listen to the W4KEV repeater network.  | William, KO4WIL</br>Ext: 100178</br>Email: ko4wiltn@gmail.com | 
 | 15017 |HOIP SERVICE ALLSTAR | Allstar System for HOIP | Jeff, N8ACL</br>Ext: 100070</br>Email: n8acl@qsl.net | 
 | 15018 |ALLSTAR 49230 BOREDOM BREAKERS NET |  | John, WX5OU</br>Ext: 100182</br>Email: john@wx5ou.com | 
 | 25001 |DV SCOTLAND GROUP |  | Andrew, MM0DXE </br>Ext: 200042</br>Email: ai@st-m.co.uk | 
