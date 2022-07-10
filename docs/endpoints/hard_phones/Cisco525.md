@@ -39,7 +39,7 @@ Find the following fields on the "Ext" tab and configure accordingly.
 
 **Proxy**: pbx-us1.hamsoverip.com:5160 (use the one of the multiple servers you were emailed)
 
-**Register Expires**: 300
+**Register Expires**: 3600
 
 **User ID**: 100000 (Replace with your 6 digits Main account extension and **Password**: ******** (Hams over ip Account Password)
 
