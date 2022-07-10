@@ -51,4 +51,4 @@ Find the following fields on the "Ext" tab and configure accordingly.
 ![Extenstion Part 2](https://user-images.githubusercontent.com/65520146/174689834-822579c8-d276-41db-aebc-496cfc401797.png)
 
 Written by Jeff N8EMA
-Last Updated: 06/20/2022
+Last Updated: 07/10/2022
