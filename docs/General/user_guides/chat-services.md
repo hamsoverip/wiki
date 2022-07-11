@@ -6,6 +6,7 @@ Currently, we use the following platforms:
 
 * Discord
 * Telegram
+* Matrix
 
 ## Code of Conduct
 
@@ -45,5 +46,9 @@ After joining, we ask that you do a couple of things:
 We also have a Telegram Group that users can use if they choose to. This group is bridged into the ```lobby``` channel of the Discord server so that everyone in each group can participate in conversations or seek help.
 
 To join the Telegram group, please follow this link: [https://t.me/hamsoverip](https://t.me/hamsoverip)
+
+## Matrix Room
+
+We also have a public room on the matrix.org public instance. You can join our room at #hamsoverip:matrix.org. This room is also bridged into our Discord server in the lobby channel.
 
 Last Updated: 07/11/2022

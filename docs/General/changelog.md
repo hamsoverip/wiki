@@ -4,7 +4,7 @@
     * Updated Discord Guide to adding Telegram group and renaming to Chat Services Guide.
     * Updated Social Media links at bottom of wiki.
     * Updated Support Guide to point to our Chat Services Guide.
-    * Updated Getting Started Guide to point to our CHat Services Guide.
+    * Updated Getting Started Guide to point to our Chat Services Guide.
     * Fixed List indenting on the Wiki Overview page
     * Update to Allstar Use and Rules Guide
     * Added MeshPhone Dialing Guide
