@@ -34,6 +34,7 @@ Also note that rules are subject to change as use of the system grows. Make sure
 * To be granted access to the Allstarlink Voice Channel, you must have your Server nickname set as CALLSIGN-Name-Extension. This way it will be easy to grant access to properly Licensed Hams in the Server for the admins.
 * To be able to talk in the Discord voice channel, you will need to setup a Push to Talk Keybind. No one will have Voice Activity Enabled (VOX)
 * Text in Voice chat is also enabled. This will allow you to text chat with others in the same voice channel. Note that Text to Speech is turned off in that channel so that nothing would go out over the air, but please, do not try to use Text to Speech.
+* Video can also be used in the same channel, however, please only use this function during nets and please do not use this as a video hangout as any voice transmissions will go out over the radio system.
 
 ### Questions, Comments, Problems
 
@@ -42,4 +43,4 @@ If you have questions, comments or problems, please reach out to Jeff, N8ACL in 
 * Discord: Ravendos#7364 (Preferred way)
 * Email: n8acl@qsl.net
 
-Last Updated: 06/28/2022
+Last Updated: 07/11/2022

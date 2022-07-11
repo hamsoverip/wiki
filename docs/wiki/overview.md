@@ -16,9 +16,9 @@ In order to contribute to the wiki, you need to understand what the wiki is and 
 **What we are not trying to do**
 
 * We are not looking to include all steps and references for everything
-  * For example, while we provide the ability to connect an Allstar Node to the system, we are not going to include how to setup an Allstar Node from scratch. There are plenty of other guides on the internet on how to do that.
+    * For example, while we provide the ability to connect an Allstar Node to the system, we are not going to include how to setup an Allstar Node from scratch. There are plenty of other guides on the internet on how to do that.
 * We are not trying to be the end all and be all for other VOIP system support.
 
 Ultimately we are trying to provide a place where we can encourage the alternative use of existing technology in Amateur Radio Applications.
 
-Last Updated: 05/23/2022
+Last Updated: 07/11/2022

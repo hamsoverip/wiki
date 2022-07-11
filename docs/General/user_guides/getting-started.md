@@ -10,6 +10,6 @@ Some things to keep in mind:
 
 * Once your extension is provisioned, you will get sent an email with your credentials. 
 * When configuration screens ask for a user name, your user name is your extension number.
-* You can use whatever device you want, but you will need to know how to configure it. Also know that we can support alot of phones, but there are a few that we receommend to make helping the end user easier.
+* You can use whatever device you want, but you will need to know how to configure it. Also know that we can support alot of phones, but there are a few that we receommend to make helping the end user easier. However, by joining one of our [chat services](https://hamsoverip.github.io/General/user_guides/chat-services.md), you may be able to find help on phones too.
 
-Last Updated: 05/23/2022
+Last Updated: 07/11/2022
