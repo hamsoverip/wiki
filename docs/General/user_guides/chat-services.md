@@ -49,6 +49,6 @@ To join the Telegram group, please follow this link: [https://t.me/hamsoverip](h
 
 ## Matrix Room
 
-We also have a public room on the matrix.org public instance. You can join our room at #hamsoverip:matrix.org. This room is also bridged into our Discord server in the lobby channel.
+We also have a public room on the matrix.org public instance. You can join our room at #hamsoverip:matrix.org or use this link [https://matrix.to/#/#hamsoverip:matrix.org](https://matrix.to/#/#hamsoverip:matrix.org). This room is also bridged into our Discord server in the lobby channel.
 
 Last Updated: 07/11/2022
