@@ -3,6 +3,7 @@
 Realtime communication is one of the keys off our organization. In addition to the phone service, we have setup a chat network that allows users to communication with use via chat and other means.
 
 Currently, we use the following platforms:
+
 * Discord
 * Telegram
 
