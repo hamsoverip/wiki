@@ -26,7 +26,7 @@ Link Owners/Admins: We need your help in keeping this list up to date. You have 
 | 15008 |M7DPD ALLSTAR 57206 |  | Carl, M7DPD</br>Ext: </br>Email: cwoodalluk@gmail.com | 
 | 15009 |NJ3H ALLSTAR 49246 |  | George, NJ3H</br>Ext: 100100</br>Email: nj3h@yahoo.com | 
 | 15010 |K8JTK ALLSTAR 50394 |  | Jeff, K8JTK</br>Ext: 100095</br>Email: K8JTK@arrl.net | 
-| 15011 |KG4BHR ALLSTAR 520990 |  | Shawn, KG4BHR</br>Ext: 100126</br>Email: kg4bhr@verizon.net | 
+| 15011 |KG4BHR ALLSTAR 520990 | Full-time connection to the KG4HOT 220Mhz linked repeater system | Shawn, KG4BHR</br>Ext: 100126</br>Email: kg4bhr@verizon.net | 
 | 15012 |W4EDP ALLSTAR 510131 |  | Emmett, W4EDP</br>Ext: 100127</br>Email: w4edp@arrl.net | 
 | 15013 |W4EDP/N4LMC ALLSTAR 46145 |  | Emmett, W4EDP</br>Ext: 100127</br>Email: w4edp@arrl.net | 
 | 15014 |W4EDP/W4GTA ALLSTAR 46331 |  | Emmett, W4EDP</br>Ext: 100127</br>Email: w4edp@arrl.net | 
