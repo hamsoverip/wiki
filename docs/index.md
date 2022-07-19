@@ -15,5 +15,6 @@ Questions? There are multiple ways to ask them:
 * In the Wiki Chat Channel on the Discord Server.
 * Reach out via DM on Discord to Jeff, N8ACL (@Ravendos#7364)
 * Email: n8acl@qsl.net
+* HOIP Ext: 100070 (leave a voicemail if no answer)
 
-Last Updated: 05/23/2022
+Last Updated: 07/18/2022
