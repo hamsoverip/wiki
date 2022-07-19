@@ -25,13 +25,13 @@ This guide assumes that you already have a FreePBX setup and ready. There are ma
     * On the ```Outgoing``` Tab:
         * ```Name``` - Suggested HOIP
         * ```Peer Details``` - This is where you will set all the login and peer details. You will need to include the following:
-            ```
-            username=< Your Extension >
-            type=friend
-            secret=< Your Password >
-            requirecalltoken=no
-            host=< the domain of the pbx server in your email >
-            ```
+            
+                username=<Your Extension>
+                type=friend
+                secret=<Your Password>
+                requirecalltoken=no
+                host=<the domain of the pbx server in your email>
+            
         * ```Username``` - This is the extension of your trunk line from the email
         * ```secret``` - This is the password of our trunk line from the email.
         * ```host``` - this is the domain of the PBX server from your email. ex. ```pbx-us1.hamsoverip.com```
