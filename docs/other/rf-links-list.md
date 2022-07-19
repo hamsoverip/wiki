@@ -38,4 +38,4 @@ Link Owners/Admins: We need your help in keeping this list up to date. You have 
 | 25002 |M7CWN ALLSTAR 56646 |  | Carl, M7CWN</br>Ext: 200055</br>Email:  | 
 
 
-Last Updated: 06/30/2022
+Last Updated: 07/18/2022
