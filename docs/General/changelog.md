@@ -1,5 +1,9 @@
 # Changelog
 
+* 07/18/2022 - Shawn, KG4BHR (PR#7)
+    * Updated Description for RF-Link on rf-link page.
+    * Request merged - Stephen, K1LNX
+
 * 07/11/2022 - Jeff, N8ACL
     * Updated Discord Guide to adding Telegram group and Matrix room information and renaming to Chat Services Guide.
     * Updated Social Media links at bottom of wiki.
