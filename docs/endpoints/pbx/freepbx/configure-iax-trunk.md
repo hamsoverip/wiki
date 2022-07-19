@@ -25,7 +25,7 @@ This guide assumes that you already have a FreePBX setup and ready. There are ma
     * On the ```Outgoing``` Tab:
         * ```Name``` - Suggested HOIP
         * ```Peer Details``` - This is where you will set all the login and peer details. You will need to include the following:
-            ```bash 
+            ```
             username=< Your Extension >
             type=friend
             secret=< Your Password >
@@ -39,7 +39,7 @@ This guide assumes that you already have a FreePBX setup and ready. There are ma
     * Once that is filled out go to the Incoming tab and fill out the following:
         * ```User Context``` - This should be ```from-<your extension>``` where < your extension > is the extension of your trunk line from the email.
         * Under ```User Details``` use the following. Just opy and paste this. There is nothing else to configure in the ```User Details``` section.
-            ```bash
+            ```
             type=friend
             qualify=yes
             forceencryption=no
@@ -49,10 +49,10 @@ This guide assumes that you already have a FreePBX setup and ready. There are ma
             allow=ulaw
             ```
         * ```Register String``` - should be something like the following:
-        ```bash
-        yourextension:password@domain
-        ```
-        Example: ```1234:fgn*%^2fb&bfk5437H@pbx-us1.hamsoverip.com```
+        ```yourextension:password@domain```
+
+            * Example: ```1234:fgn*%^2fb&bfk5437H@pbx-us1.hamsoverip.com```
+
     * Click ```Submit``` and then ```Apply Changes``` at the top right.
 
 ### Create Outbound Route
