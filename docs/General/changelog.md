@@ -1,8 +1,10 @@
 # Changelog
 
-* 07/18/2022 - Shawn, KG4BHR (PR#7)
-    * Updated Description for RF-Link on rf-link page.
+* 07/18/2022 
+    * Updated Description for RF-Link on rf-link page. - Shawn, KG4BHR (PR#7)
     * Request merged - Stephen, K1LNX
+    * Fixes to IAX Trunk guide and renaming to Configure FreePBX IAX Trunk - Jeff, N8ACL
+    * Addition of FreePBX SIP Trunk Guide - Jeff, N8ACL
 
 * 07/11/2022 - Jeff, N8ACL
     * Updated Discord Guide to adding Telegram group and Matrix room information and renaming to Chat Services Guide.

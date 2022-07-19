@@ -25,15 +25,13 @@ This guide assumes that you already have a FreePBX setup and ready. There are ma
     * On the ```Outgoing``` Tab:
         * ```Name``` - Suggested HOIP
         * ```Peer Details``` - This is where you will set all the login and peer details. You will need to include the following:
-  
-        ```bash
-        username=<Your Extension>
-        type=friend
-        secret=<Your Password>
-        requirecalltoken=no
-        host=<the domain of the pbx server in your email>
-        ```
-
+            ```bash 
+            username=< Your Extension >
+            type=friend
+            secret=< Your Password >
+            requirecalltoken=no
+            host=< the domain of the pbx server in your email >
+            ```
         * ```Username``` - This is the extension of your trunk line from the email
         * ```secret``` - This is the password of our trunk line from the email.
         * ```host``` - this is the domain of the PBX server from your email. ex. ```pbx-us1.hamsoverip.com```
@@ -41,15 +39,15 @@ This guide assumes that you already have a FreePBX setup and ready. There are ma
     * Once that is filled out go to the Incoming tab and fill out the following:
         * ```User Context``` - This should be ```from-<your extension>``` where < your extension > is the extension of your trunk line from the email.
         * Under ```User Details``` use the following. Just opy and paste this. There is nothing else to configure in the ```User Details``` section.
-        ```bash
-        type=friend
-        qualify=yes
-        forceencryption=no
-        disallow=all
-        context=from-pstn
-        canreinvite=no
-        allow=ulaw
-        ```
+            ```bash
+            type=friend
+            qualify=yes
+            forceencryption=no
+            disallow=all
+            context=from-pstn
+            canreinvite=no
+            allow=ulaw
+            ```
         * ```Register String``` - should be something like the following:
         ```bash
         yourextension:password@domain
@@ -65,12 +63,12 @@ Once you have the trunk created, you will need to configure an Outgoing Route in
 * Click ```Add Route```.
 * You should now be in the ```Edit Route``` Screen. You will need to fill in the fields as follows:
     * ```Route Name``` - This is the name you want to call your outgoing route. Suggested: HOIP
-    * Skip down to ```Trunk Sequence for Matched Routes``` and selec the ```HOIP Trunk``` you created earlier.
+    * Skip down to ```Trunk Sequence for Matched Routes``` and select the ```HOIP Trunk``` you created earlier.
 * Click ```Submit``` and then Click the red ```Apply Changes``` in the upper right corner of the screen.
 
 As long as this is the only route/trunk on your PBX system, you are good to move on. Otherwise, if this is not the only trunk on your system, you may want to setup a prefix to dial to get this trunk. (Very Similiar to the old "Dial 9 to get an outside line" thing back in the day.)
 
-If you want to set this up, click the ```Dial Patterns``` tab and then add a number for the prefix to dial, usually a single digit, in the prefix field for one of the dial patterns. Then ```Submit``` and ```Apply Changes```.
+If you want to set this up, click the ```Dial Patterns``` tab and then add a number for the prefix to dial, usually a single digit, in the prefix field for one of the dial patterns. Then add a ```.``` in the ```match pattern``` field next to it. Then ```Submit``` and ```Apply Changes```.
 
 Now to select that line, all you need to do is dial the prefix and then the number you want to call. Otherwise, if you do not set this up, all you will need to do is dial the HOIP number you want to call.
 
@@ -87,4 +85,4 @@ Now you will need to create an Inbound Route in order to receive calls on your p
 
 You should now be able to make and receive calls across your HOIP Trunk.
 
-Last Updated: 05/23/2022
+Last Updated: 07/18/2022
