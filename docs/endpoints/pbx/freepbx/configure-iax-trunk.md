@@ -39,16 +39,15 @@ This guide assumes that you already have a FreePBX setup and ready. There are ma
     * Once that is filled out go to the Incoming tab and fill out the following:
         * ```User Context``` - This should be ```from-<your extension>``` where < your extension > is the extension of your trunk line from the email.
         * Under ```User Details``` use the following. Just opy and paste this. There is nothing else to configure in the ```User Details``` section.
-            !!! note ""
-            ```bash
-            type=friend
-            qualify=yes
-            forceencryption=no
-            disallow=all
-            context=from-pstn
-            canreinvite=no
-            allow=ulaw
-            ```
+
+                type=friend
+                qualify=yes
+                forceencryption=no
+                disallow=all
+                context=from-pstn
+                canreinvite=no
+                allow=ulaw
+
         * ```Register String``` - should be something like the following:
         ```yourextension:password@domain```
 
