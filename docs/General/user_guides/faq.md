@@ -32,13 +32,15 @@ This is a long document, so to the right side of this page is a Table of Content
 
 ### How do I configure X phone to work with HOIP?
 
-Take a look through the Configuration Guides in the Wiki and see if your phone has a configuration guide. If not, you can ask on any of our [chat services](https://hamsoverip.github.io/wiki/General/user_guides/chat-services/) to see if someone has configured it. 
+!!! note ""
+    Take a look through the Configuration Guides in the Wiki and see if your phone has a configuration guide. If not, you can ask on any of our [chat services](https://hamsoverip.github.io/wiki/General/user_guides/chat-services/) to see if someone has configured it. 
 
-If there is not a configuration guide, you are also welcome to contribute to the Wiki and add a guide for your phone. That would help out others. To see how to contribute, look at the [Contributing Guide](https://hamsoverip.github.io/wiki/wiki/overview/).
+    If there is not a configuration guide, you are also welcome to contribute to the Wiki and add a guide for your phone. That would help out others. To see how to contribute, look at the [Contributing Guide](https://hamsoverip.github.io/wiki/wiki/overview/).
 
 ### I had to reprovision my phone or factory reset my phone and I cannot find/lost my credientals. What do I do?
 
-If you can't find your credentials, you can put a ticket into the [Helpdesk Ticketing](https://helpdesk.hamsoverip.com/osticket/) system and request your credentials be resent to you.
+!!! note ""
+    If you can't find your credentials, you can put a ticket into the [Helpdesk Ticketing](https://helpdesk.hamsoverip.com/osticket/) system and request your credentials be resent to you.
 
 
 ### I had to reprovision my phone (with HH) and now HOIP will not work. How do I fix this?
