@@ -73,6 +73,9 @@ nav:
       - Configure Audio Services: General/coming-soon.md
       - Configure BLF on Cisco Phones: other/configure-blf.md
 
+  - Troubleshooting Guides:
+    - Fix HH Induced Settings Issues: troubleshooting/fix-hh-settings-problems.md
+
   - Files (Right Click and Select Save File As):
     - Side Car Template: files/SideCar_Template_A4.xls
     - Phone Wallpaper: wallpaper/wallpaper.md 

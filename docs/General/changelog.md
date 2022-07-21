@@ -1,5 +1,9 @@
 # Changelog
 
+* 07/20/2022
+    * Added Troubleshooting Guides section to wiki - Jeff, N8ACl
+    * Added Fixing HH Induced Settings Problems Guide - Jeff, N8ACl (from Discord post by Jessie, WH6AV)
+
 * 07/18/2022 
     * Updated Description for RF-Link on rf-link page. - Shawn, KG4BHR (PR#7)
     * Request merged - Stephen, K1LNX
