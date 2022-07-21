@@ -1,5 +1,13 @@
 # Changelog
 
+* 07/21/2022
+    * Addition of RF link Information to the Rf-Links List page. - Russell, KV4S (PR#8)
+    * Formatting fixes to Chat Services Guide - Jeff, N8ACL
+    * Formatting fixes to Getting Started Guide - Jeff, N8ACL
+    * Created FAQ document - Jeff, N8ACL
+        * moved HH Setting fixes from Troubleshooting to FAQ 
+        * Added OS Ticket login issues to FAQ
+
 * 07/20/2022
     * Added Troubleshooting Guides section to wiki - Jeff, N8ACl
     * Added Fixing HH Induced Settings Problems Guide - Jeff, N8ACl (from Discord post by Jessie, WH6AV)

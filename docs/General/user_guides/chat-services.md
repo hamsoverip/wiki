@@ -24,7 +24,7 @@ For all of our communications, not just chat, we ask that you follow this Code o
 
 ## Discord Server
 
-Discord is our main/offical method of non VOIP communication. It is here where you can find support and help when setting up your phone and such. It has most all of our main communications channels in it for finding help.
+Discord is our main/official method of non VOIP phone communication. It is here where you can find support and help when setting up your phone and such. It has most all of our main communications channels in it for finding help.
 
 To join our Discord, use the following link:
 
@@ -49,6 +49,6 @@ To join the Telegram group, please follow this link: [https://t.me/hamsoverip](h
 
 ## Matrix Room
 
-We also have a public room on the matrix.org public instance. You can join our room at #hamsoverip:matrix.org or use this link [https://matrix.to/#/#hamsoverip:matrix.org](https://matrix.to/#/#hamsoverip:matrix.org). This room is also bridged into our Discord server in the lobby channel.
+We also have a public room on the matrix.org public instance. You can join our room at #hamsoverip:matrix.org or use this link [https://matrix.to/#/#hamsoverip:matrix.org](https://matrix.to/#/#hamsoverip:matrix.org). This room is also bridged into our Discord server in the ```lobby``` channel.
 
-Last Updated: 07/11/2022
+Last Updated: 07/21/2022
