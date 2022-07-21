@@ -27,6 +27,12 @@ theme:
 markdown_extensions:
   - admonition
   #- def_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
   - codehilite:
       guess_lang: false
   - toc:
@@ -36,6 +42,8 @@ nav:
   - Welcome!: index.md
 
   - Main Website: https://hamsoverip.com
+
+  - Frequently Asked Questions: General/user_guides/faq.md
 
   - Policies:
     - Terms of Service: General/coming-soon.md
