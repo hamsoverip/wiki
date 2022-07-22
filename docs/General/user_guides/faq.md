@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-Last Updated: 07/21/2022
+Last Updated: 07/22/2022
 
 This document is a place to put some of the more Frequently Asked Questions of the service that are quick, short answers. If an answer requires more indepth steps, a guide will be created in the Troubleshooting section and linked to from this document.
 
@@ -10,9 +10,27 @@ This is a long document, so to the right side of this page is a Table of Content
 
 ## General
 
-* How do I get started?
-* Where can I go for more help?
-* Can I contribute to the Wiki?
+### How do I get started?
+
+!!! note ""
+    First you will need to get a phone. As long as your phone will allow or handle SIP, you are good to go.
+
+    Then check out our [Getting Started Guide](https://hamsoverip.github.io/wiki/General/user_guides/getting-started/) to start the process.
+
+    You can also look through the rest of the Wiki to get an idea on how to get started.
+
+### Where can I go for more help?
+
+!!! note ""
+    You are already in the best place for getting more help! This Wiki. This is where alot of guides and information can be found about the service and things are added all the time.
+
+    Next place you can go is one of our [Chat Services](https://hamsoverip.github.io/wiki/General/user_guides/chat-services/). Our main form of communication is Discord, but some other chat services are bridged into it. 
+
+### Can I contribute to the Wiki?
+
+!!! note ""
+    Absolutely! We encourage our user community to contribute to the Wiki to help expand the knowledge here. To see how, check out our [Getting Started Guide](https://hamsoverip.github.io/wiki/General/user_guides/getting-started/)
+
 
 <hr />
 
@@ -57,13 +75,31 @@ This is a long document, so to the right side of this page is a Table of Content
 
 ## PBXs
 
-* What PBXs work with HOIP?
-* How do I configure my PBX to work with HOIP?
+### What PBXs work with HOIP?
 
+!!! note ""
+    Good Question. As of right now, we know that FreePBX and 3CX both work with the service. Both can connect via SIP Trunks and FreePBX is able to use IAX. But otherwise, we don't really know of more. If you know of others that use SIP Trunks and can configure them, we would like to know more about it. In fact, if you can create a configuration guide, please submit it. 
+
+    If you want to use FreePBX or 3CX, please check out the configuration guides for each here in the Wiki.
+
+
+### How do I configure my PBX to work with HOIP?
+
+!!! note ""
+    Good question! If it's one we have a guide for, check out the configuration guides for the PBXs. If it's one that we don't have a guide for, please write one up and submit it. 
 
 <hr />
 
 ## Website/Ticket System
 
-* I am a new user and just created an account in OS Ticket, but I am not able to log in.
-* I put a ticket in to get a new extension, but I have not gotten my credentials?
+### I am a new user and just created an account in OS Ticket, but I am not able to log in.
+
+!!! note ""
+    Chances are pretty good the verification email from the system was sent to your spam folder. There are some email providers that either block or mark the emails as spam. Check your spam folder. If it's not there, it might have been blocked. Reach out to an admin on Discord and see if they can activate your account. Once that is done, you should be able to log in and see your tickets.
+
+### I put a ticket in to get a new extension, but I have not gotten my credentials email?
+
+!!! note ""
+    This could be a couple of things:
+        * Remember we are all volunteers. We try to get to tickets as quick as we can, but we also have lives outside of this project. So it could take a day or two before we can get to the ticket
+        * Possibly the same reason as above. Your email provider spam foldered it or blocked it. Again, reach out to an admin on Discord and they can DM you your credentials.
