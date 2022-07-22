@@ -101,5 +101,6 @@ This is a long document, so to the right side of this page is a Table of Content
 
 !!! note ""
     This could be a couple of things:
+    
         * Remember we are all volunteers. We try to get to tickets as quick as we can, but we also have lives outside of this project. So it could take a day or two before we can get to the ticket
         * Possibly the same reason as above. Your email provider spam foldered it or blocked it. Again, reach out to an admin on Discord and they can DM you your credentials.
