@@ -1,5 +1,15 @@
 # Changelog
 
+* 07/28/2022 - Jeff, N8ACL
+    * Update of Chat services guide to include all the places that your Discord Server name can be found to change.
+    * Addition to Wallpaper Page of image contributed by CJ, KO4TEZ
+    * Fixed link to Social Media Page
+    * Added Reddit link to Social Media Icons at the bottom of the wiki.
+    * Fixed some verbage and added some things on the FAQ Page
+    * Updates to the Finding Help Guide
+    * Updates to Conference Bridge List
+    * Updates to RF-Link List
+
 * 07/22/2022
     * Addition of RF link Information to the Rf-Links List page. - Russell, KV4S (PR#8)
     * Formatting fixes to Chat Services Guide - Jeff, N8ACL
@@ -8,8 +18,8 @@
         * moved HH Setting fixes from Troubleshooting to FAQ 
 
 * 07/20/2022
-    * Added Troubleshooting Guides section to wiki - Jeff, N8ACl
-    * Added Fixing HH Induced Settings Problems Guide - Jeff, N8ACl (from Discord post by Jessie, WH6AV)
+    * Added Troubleshooting Guides section to wiki - Jeff, N8ACL
+    * Added Fixing HH Induced Settings Problems Guide - Jeff, N8ACL (from Discord post by Jessie, WH6AV)
 
 * 07/18/2022 
     * Updated Description for RF-Link on rf-link page. - Shawn, KG4BHR (PR#7)

@@ -1,8 +1,8 @@
 # Frequently Asked Questions
 
-Last Updated: 07/22/2022
+Last Updated: 07/28/2022
 
-This document is a place to put some of the more Frequently Asked Questions of the service that are quick, short answers. If an answer requires more indepth steps, a guide will be created in the Troubleshooting section and linked to from this document.
+This document is a place to put some of the more Frequently Asked Questions of the service that are quick, short answers. If an answer requires more indepth steps, a guide will be created and linked to from this document.
 
 This is a long document, so to the right side of this page is a Table of Contents that will link you to the sections and within each section is a smaller Table of Contents that will link you to the question you have and the answer. You can also do a search by doing ```Ctrl``` + ```F``` on Windows and Linux or ```Cmd``` + ```F``` on Mac.
 
@@ -31,6 +31,10 @@ This is a long document, so to the right side of this page is a Table of Content
 !!! note ""
     Absolutely! We encourage our user community to contribute to the Wiki to help expand the knowledge here. To see how, check out our [Getting Started Guide](https://hamsoverip.github.io/wiki/General/user_guides/getting-started/)
 
+### What Feature Codes can I use on the system?
+
+!!! note ""
+    All Feature Codes can be found in the [Feature Codes Guide](https://hamsoverip.github.io/wiki/endpoints/pbx/freepbx/feature-codes/)
 
 <hr />
 
@@ -71,6 +75,11 @@ This is a long document, so to the right side of this page is a Table of Content
     * Make sure you have your HOIP extension configured with the proper credentials.
     * Submit changes and reboot.
 
+### How do I access my Voicemail?
+
+!!!note ""
+    Dial ```*97``` from your phone or hit the voicemail button. This will drop you into your mailbox. If this is the first time accessing your mailbox, the system will walk you through setting up your outgoing voicemail messages and make you change your pin. Once you have all this setup, all you need to do is dial ```*97``` from your phone, or hit the voicemail button and it will just drop you into your box to let you retreive messages.
+
 <hr />
 
 ## PBXs
@@ -101,6 +110,6 @@ This is a long document, so to the right side of this page is a Table of Content
 
 !!! note ""
     This could be a couple of things:
-    
-        * Remember we are all volunteers. We try to get to tickets as quick as we can, but we also have lives outside of this project. So it could take a day or two before we can get to the ticket
-        * Possibly the same reason as above. Your email provider spam foldered it or blocked it. Again, reach out to an admin on Discord and they can DM you your credentials.
+   
+    * Remember we are all volunteers. We try to get to tickets as quick as we can, but we also have lives outside of this project. So it could take a day or two before we can get to the ticket
+    * Possibly the same reason as above. Your email provider spam foldered it or blocked it. Again, reach out to an admin on Discord and they can DM you your credentials.

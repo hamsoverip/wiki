@@ -1,6 +1,8 @@
 # Finding Help (Getting Support)
 
-If you need help, never fear. We are here to help.
+If you need help, never fear. We are here.
+
+## Where to go
 
 If you need help, here are some steps to take:
 
@@ -11,4 +13,14 @@ If you need help, here are some steps to take:
 
 The biggest key here is to make sure to put a ticket in so that issues and problems can be tracked easier.
 
-Last Updated: 07/11/2022
+## When asking for help
+
+Help us to help you. If you are at the point of reaching out via Discord/Telegram/Matrix or putting in a ticket, there are some things that will be helpful to know:
+
+* Your Phone Model
+* Are you using your own PBX?
+* Your ISP you are using
+* What steps have you already taken to try to solve the problem (looked through the wiki, rebooted, check configurations, etc)?
+* Do you have any other VOIP phone services on the phone (Ham Radio or otherwise)?
+
+Last Updated: 07/28/2022

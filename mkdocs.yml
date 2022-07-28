@@ -54,7 +54,7 @@ nav:
     - Getting Started: General/user_guides/getting-started.md
     - Finding Help: General/user_guides/support.md
     - Joining our Chat Servers: General/user_guides/chat-services.md
-    - Our Social Media: other/social-media.md
+    - Our Social Media: General/user_guides/social-media.md
     - Calling the MeshPhone Network: other/meshphone.md
   
   - System Guides:
@@ -105,5 +105,7 @@ extra:
     - icon: 'fontawesome/brands/facebook'
       link: 'https://www.facebook.com/hamsoverip'
     - icon: 'fontawesome/brands/snapchat'
-      link: 'https://www.snapchat.com/add/hamsoverip?share_id=Zb3vtgDNUCU&locale=en-US'        
+      link: 'https://www.snapchat.com/add/hamsoverip?share_id=Zb3vtgDNUCU&locale=en-US'  
+    - icon: 'fontawesome/brands/reddit'
+      link: 'https://www.reddit.com/r/hamsoverip/'      
 

@@ -30,5 +30,6 @@ You could also download the image if you want to have it by Right Clicking on th
 | skullSm.jpg | [Preview](https://hamsoverip.github.io/wiki/wallpaper/images/skullSm.jpg) | https://hamsoverip.github.io/wiki/wallpaper/images/skullSm.jpg | Doug, KE5CDK |
 | HOIP_TEST.jpg | [Preview](https://hamsoverip.github.io/wiki/wallpaper/images/HOIP_TEST.jpg) | https://hamsoverip.github.io/wiki/wallpaper/images/HOIP_TEST.jpg | Doug, KE5CDK |
 | HOIP_TEST2.jpg | [Preview](https://hamsoverip.github.io/wiki/wallpaper/images/HOIP_TEST2.jpg) | https://hamsoverip.github.io/wiki/wallpaper/images/HOIP_TEST2.jpg | Doug, KE5CDK |
+| 525G_KO4TEZ.jpg | [Preview](https://hamsoverip.github.io/wiki/wallpaper/images/525G_KO4TEZ.jpg) | https://hamsoverip.github.io/wiki/wallpaper/images/525G_KO4TEZ.jpg | CJ, KO4TEZ |
 
-Last Updated: 05/23/2022
+Last Updated: 07/28/2022
