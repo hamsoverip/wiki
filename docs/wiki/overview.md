@@ -1,6 +1,6 @@
 # Wiki Overview
 
-See the [Contributing Guide]([https://hamsoverip.github.io/wiki/wiki/contributing.md) on how to submit content to the wiki.
+See the [Contributing Guide](https://hamsoverip.github.io/wiki/wiki/contributing/) on how to submit content to the wiki.
 
 ## Objectives of This Wiki
 
