@@ -10,11 +10,18 @@ We are of course looking for contributions to this wiki to expand the use of the
 
 The Maintainer of the Wiki is: Jeff, N8ACL
 
-Questions? There are multiple ways to ask them:
+Questions about the Wiki? There are multiple ways to ask them:
 
 * In the Wiki Chat Channel on the Discord Server.
 * Reach out via DM on Discord to Jeff, N8ACL (@Ravendos#7364)
 * Email: n8acl@qsl.net
 * HOIP Ext: 100070 (leave a voicemail if no answer)
 
-Last Updated: 07/18/2022
+The Maintainer of the Website is Jordan, K4AVG
+
+Questions/Issues/Concerns about the Website:
+
+* Reach out Via DM on Discord to Jordan, K4AVG (@k4avg)
+* Extension 100005
+
+Last Updated: 07/29/2022
