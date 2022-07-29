@@ -23,4 +23,4 @@ Help us to help you. If you are at the point of reaching out via Discord/Telegra
 * What steps have you already taken to try to solve the problem (looked through the wiki, rebooted, check configurations, etc)?
 * Do you have any other VOIP phone services on the phone (Ham Radio or otherwise)?
 
-Last Updated: 07/28/2022
+Last Updated: 07/29/2022
