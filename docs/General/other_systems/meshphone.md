@@ -4,7 +4,8 @@
 
 * A local PBX supplying sip dialtone to a number of users in the area.
 * A network service that links together a number of other pbx's out on the Mesh with a common dial plan amongst everyone. This allows anyone on the network to call anyone else on the network by dialing 7 digits. This 7-digit number is called a "MeshPhone Number" and is the same number anywhere on the network."
-    * From the [Meshphone Website](http://ntwomh.ddns.net:5894/meshphone/)
+
+* From the [Meshphone Website](http://ntwomh.ddns.net:5894/meshphone/)
 
 MeshPhone is a VOIP Telephone Network, much the same as the Hams Over IP Network, but they use the AREDN mesh network to connect their system. They have been around for a long while. There are a lot of users and PBX's on the MeshPhone Network. This network was concieved and is maintained by Mark, N2MH and other volunteers. 
 
