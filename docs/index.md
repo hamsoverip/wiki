@@ -8,6 +8,8 @@ Within these pages you will find a wealth of information about the network and a
 
 We are of course looking for contributions to this wiki to expand the use of the system. To contribute, please make sure to look at the [Contributing Section](https://hamsoverip.github.io/wiki/wiki/overview) of the wiki on how to contribute.
 
+<hr/>
+
 The Maintainer of the Wiki is: Jeff, N8ACL
 
 Questions about the Wiki? There are multiple ways to ask them:
@@ -16,6 +18,8 @@ Questions about the Wiki? There are multiple ways to ask them:
 * Reach out via DM on Discord to Jeff, N8ACL (@Ravendos#7364)
 * Email: n8acl@qsl.net
 * HOIP Ext: 100070 (leave a voicemail if no answer)
+
+<hr/>
 
 The Maintainer of the Website is Jordan, K4AVG
 
