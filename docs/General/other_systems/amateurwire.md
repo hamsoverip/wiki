@@ -1,6 +1,6 @@
 # AmateurWire VOIP Network
 
-"AmateurWire is a VOIP Service on the internet for Amateur Radio operators. This service will work with IP phones like Cisco, Yealink, and many more. It will also work with ATA’s (Analog Telephone Adapters) so you can even use your analog cordless phones or any home phone on the service. There’s also the option to use a soft phone application on your PC, MAC or SmartPhone. Applications like Zoiper, Microsip, and Mizudroid work very well with the PBX we are running."
+AmateurWire is a VOIP Service on the internet for Amateur Radio operators. This service will work with IP phones like Cisco, Yealink, and many more. It will also work with ATA’s (Analog Telephone Adapters) so you can even use your analog cordless phones or any home phone on the service. There’s also the option to use a soft phone application on your PC, MAC or SmartPhone. Applications like Zoiper, Microsip, and Mizudroid work very well with the PBX we are running.
 
 * From the [AmateurWire Website](https://amateurwire.org/)
 
