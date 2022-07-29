@@ -3,6 +3,7 @@
 * 07/29/2022 
     * Link fixes. - Dave, M7TLB (PR#9)
     * Update Last updated Dates - Jeff, N8ACL
+    * Updated Contributing Guide - Jeff, N8ACL
 
 * 07/28/2022 - Jeff, N8ACL
     * Update of Chat services guide to include all the places that your Discord Server name can be found to change.

@@ -20,7 +20,7 @@ If you are familiar with how Git and Github works, or you have used Github befor
 
 This is good for both new items and change requests.
 
-If you have cloned a previous version of the repo, ***PLEASE*** make sure that you do a ```git pull``` prior to doing any local editing. This wiki is always in flux and if you do not do a pull prior to starting editing, you will either miss updates or overwrite things on the repo. It is always good practice to do a pull prior to starting work on a repo anyway. This makes sure you are on the most current ```main``` branch edits. 
+If you have forked and cloned a previous version of the repo, ***PLEASE*** make sure that you merge any outstanding commits from the main repo to your fork and then do a ```git pull``` prior to doing any local editing. This wiki is always in flux and if you do not merge those commits and then do a pull prior to starting editing, you will either miss updates or overwrite things on the repo. It is always good practice to do a merge and a pull prior to starting work on a forked repo anyway. This makes sure you are on the most current ```main``` branch edits. 
 
 ### Non-Github related way
 
@@ -56,4 +56,4 @@ This process is in place to make sure we have very good and complete documentati
 ## Tips and Tricks Learned about MKDocs
 * Typically in Markdown, you only need to indent 2 spaces for nested lists. Apparently in MKDocs, you need to indent 4 Spaces. The upstream provider for the Markdown Plugin for MKDocs has decided to die on a hill and say this is not a bug, which sadly it is. So when doing nested lists (sub points in a list) make sure to indent them 4 spaces.
 
-Last Updated: 06/28/2022
+Last Updated: 07/28/2022
