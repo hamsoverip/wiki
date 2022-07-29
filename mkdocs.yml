@@ -55,11 +55,14 @@ nav:
     - Finding Help: General/user_guides/support.md
     - Joining our Chat Servers: General/user_guides/chat-services.md
     - Our Social Media: General/user_guides/social-media.md
-    - Calling the MeshPhone Network: other/meshphone.md
   
-  - System Guides:
+  - HOIP Reference Lists:
     - Conference Bridge Reference: other/conference-bridge-list.md
     - RF-Link Reference: other/rf-links-list.md
+
+  - Linked VOIP Networks:
+    - Calling the AmateurWire Network: General/other_systems/amateurwire.md
+    - Calling the MeshPhone Network: General/other_systems/meshphone.md
 
   - Configuration Guides:
     - Endpoints:

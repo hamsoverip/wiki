@@ -9,9 +9,12 @@
     * Updates to the Finding Help Guide
     * Updates to Conference Bridge List
     * Updates to RF-Link List
+    * Addition of AmateurWire Dialing Instructions
+    * Moved MeshPhone and AmateurWire Dialing Guides to their own Category.
+    * Changed name of System Guides to HOIP Reference Lists
 
 * 07/22/2022
-    * Addition of RF link Information to the Rf-Links List page. - Russell, KV4S (PR#8)
+    * Addition of RF link Information to the RF-Links List page. - Russell, KV4S (PR#8)
     * Formatting fixes to Chat Services Guide - Jeff, N8ACL
     * Formatting fixes to Getting Started Guide - Jeff, N8ACL
     * Created FAQ document - Jeff, N8ACL
