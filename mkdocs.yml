@@ -63,6 +63,7 @@ nav:
   - Linked VOIP Networks:
     - Calling the AmateurWire Network: General/other_systems/amateurwire.md
     - Calling the MeshPhone Network: General/other_systems/meshphone.md
+    - Calling the OARC Network: General/other_systems/oarc.md
 
   - Configuration Guides:
     - Endpoints:

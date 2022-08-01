@@ -1,5 +1,8 @@
 # Changelog
 
+* 07/31/2022 - Jeff, N8ACL
+    * Addition of OARC Dialing Guide
+
 * 07/29/2022 
     * Link fixes. - Dave, M7TLB (PR#9)
     * Update Last updated Dates - Jeff, N8ACL
