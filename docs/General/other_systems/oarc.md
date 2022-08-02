@@ -12,18 +12,18 @@ More information about the community and organization can be found on their webs
 
 ## Calling an OARC Number from Hams Over IP
 
-To call a OARC number from the Hams Over IP network, dial ```441+OARC Extension``` of the user you wish to call and then hit dial. The system will automatically direct the call across the OARC Trunk.
+To call a OARC number from the Hams Over IP network, dial ```441```, hit the ```dial``` button, wait for a dial tone and then dial the OARC extension of the user you wish to call. The system will automatically direct the call across the OARC Trunk.
 
-* Try it: dial ```4418008``` (Rick). You should hear Rick Astley's "Never Going to Give You Up" start playing.
+* Try it: dial ```441```, wait for a dialtone and then dial ```8008``` (Rick). You should hear Rick Astley's "Never Going to Give You Up" start playing.
 
 ## Calling a Hams Over IP Number from OARC
 
-To call a Hams Over IP number from the OARC network, the process is the same. Dial ```441+HOIP Extension ``` of the user you wish to call and then hit dial.
+To call a Hams Over IP number from the OARC network, the process is the same. Dial ```441```, hit the ```dial``` button, wait for a dial tone and then dial the HOIP extension of the user you wish to call.
 
-* Try it: dial ```44110001``` (Conference room 10001). You should be dropped right into the conference room.
+* Try it: dial ```441```, wait for a dialtone and then dial ```10001``` (Conference room 10001). You should be dropped right into the conference room.
 
 ## OARC Phonebook
 
 Don't know the number of the person you are trying to call on the OARC Call SIP Network? Look them up in the OARC Phonebook at [https://www.oarc.uk/oarc-pbx-callbook](https://www.oarc.uk/oarc-pbx-callbook).
 
-Last Updated: 07/31/2022
+Last Updated: 08/02/2022

@@ -12,13 +12,13 @@ Questions about the AmateurWire Network can be directed to Roger, KE8LCM on Disc
 
 ## Calling a AmateurWire Number from Hams Over IP
 
-To call a AmateurWire number from the Hams Over IP network, dial ```304+AmateurWire extension``` of the user you wish to call and then hit dial. The system will automatically direct the call across the AmateurWire Trunk.
+To call a AmateurWire number from the Hams Over IP network, dial ```304```, hit the ```dial``` button, wait for a dial tone and then dial the AmateurWire extension of the user you wish to call. The system will automatically direct the call across the AmateurWire Trunk.
 
-* Try it: dial ```304200``` (Conference room 200). You should be dropped right into the conference room.
+* Try it: dial ```304```, wait for a dialtone and then dial 200 (Conference room 200). You should be dropped right into the conference room.
 
 ## Calling a Hams Over IP Number from AmateurWire
 
-To call a Hams Over IP number from the AmateurWire network, the process is the same. Dial ```304+HOIP extension``` of the user you wish to call and then hit dial.
+To call a Hams Over IP number from the AmateurWire network, the process is slightly different. Dial ```304+HOIP extension``` of the user you wish to call and then hit dial.
 
 * Try it: dial ```30410001``` (Conference room 10001). You should be dropped right into the conference room.
 
@@ -26,4 +26,4 @@ To call a Hams Over IP number from the AmateurWire network, the process is the s
 
 Don't know the number of the person you are trying to call on the AmateurWire Network? Look them up in the AmateurWire Phonebook at [https://amateurwire.org/index.php/phone-book/](https://amateurwire.org/index.php/phone-book/).
 
-Last Updated: 07/29/2022
+Last Updated: 08/02/2022

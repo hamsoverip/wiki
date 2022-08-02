@@ -1,5 +1,10 @@
 # Changelog
 
+* 08/02/2022
+    * Update of Dialing Procedures for OARC - Jeff, N8ACL
+    * Update of Dialing Procedures for AmateurWire - Jeff, N8ACL
+    * Addition of Configuration Guide for the Avaya 96xx series phone - Michael, N5ZR
+
 * 07/31/2022 - Jeff, N8ACL
     * Addition of OARC Dialing Guide
 
