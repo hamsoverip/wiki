@@ -38,6 +38,34 @@ This is a long document, so to the right side of this page is a Table of Content
 
 <hr />
 
+## Troubleshooting
+
+### The light for my HOIP extension is not green (orange, ameber, yellow) and I have not changed anything on my end. What has happened or what do I do?
+
+!!! note ""
+    This is becoming a common issue on the service we are finding. This could be a Carrier Grade NAT situation. We might have to make some adjustments on the peer for your extension. 
+
+    Some steps to take first (in order):
+
+    * Reboot your modem
+    * Reboot your router
+    * Reboot your phone
+
+    If these do not fix the issue, you will need to open a ticket to the helpdesk. We will need to make some adjustments. 
+
+    In the ticket, please include he following information:
+
+    * Your name, callsign
+    * Your extension
+    * Mention the fact that our light is orange
+    * Include your IP Address
+
+    To get your IP address, please go to [https://pb.hamsoverip.com/diy](https://pb.hamsoverip.com/diy) and copy and paste the IP address that is shown there into the ticket. 
+
+    This will allow the admins to make the adjustments needed and then they will get back to you about the fix being implemented.
+
+<hr />
+
 ## Phones
 
 ### What phones work with HOIP?

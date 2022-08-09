@@ -1,5 +1,8 @@
 # Changelog
 
+* 08/08/2022
+    * Addition of Troubalehooting Section to FAQ - Jeff, N8ACL
+
 * 08/02/2022
     * Update of Dialing Procedures for OARC - Jeff, N8ACL
     * Update of Dialing Procedures for AmateurWire - Jeff, N8ACL
