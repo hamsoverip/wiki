@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-Last Updated: 07/28/2022
+Last Updated: 08/08/2022
 
 This document is a place to put some of the more Frequently Asked Questions of the service that are quick, short answers. If an answer requires more indepth steps, a guide will be created and linked to from this document.
 
