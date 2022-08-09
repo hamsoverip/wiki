@@ -40,7 +40,7 @@ This is a long document, so to the right side of this page is a Table of Content
 
 ## Troubleshooting
 
-### The light for my HOIP extension is not green (orange, ameber, yellow) and I have not changed anything on my end. What has happened or what do I do?
+### The light for my HOIP extension is not green (its orange, amber, yellow) and I have not changed anything on my end. What has happened or what do I do?
 
 !!! note ""
     This is becoming a common issue on the service we are finding. This could be a Carrier Grade NAT situation. We might have to make some adjustments on the peer for your extension. 
