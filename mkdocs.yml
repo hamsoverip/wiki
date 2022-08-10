@@ -90,7 +90,8 @@ nav:
   - Files (Right Click and Select Save File As):
     - Side Car Template: files/SideCar_Template_A4.xls
     - Phone Wallpaper: wallpaper/wallpaper.md 
-
+  - Architecture:
+    - Dialplan: architecture/dialplan.md
   - Wiki:
     - Contributing: 
       - Overview of the Wiki: wiki/overview.md
