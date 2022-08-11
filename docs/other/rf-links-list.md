@@ -34,7 +34,8 @@ Link Owners/Admins: We need your help in keeping this list up to date. You have 
 | 15016 |KO4WIL ALLSTAR 56135 | Typically connected to the W4KEV repeater system but can be connected to others at times. I dial in to this node mostly from my office to listen to the W4KEV repeater network. | William, KO4WIL</br>Ext: 100178</br>Email: ko4wiltn@gmail.com | 
 | 15017 |HOIP SERVICE ALLSTAR | Allstar System for HOIP | Jeff, N8ACL</br>Ext: 100070</br>Email: n8acl@qsl.net | 
 | 15018 |ALLSTAR 49230 BOREDOM BREAKERS NET |  | John, WX5OU</br>Ext: 100182</br>Email: john@wx5ou.com | 
-| 15019 |KV4S ALLSTAR 47923 |  | Russell, KV4S</br>Ext: 100230</br>Email:  | 
+| 15019 |KV4S ALLSTAR 523800 |  | Russell, KV4S</br>Ext: 100230</br>Email:  | 
+| 15023 |ALERT-K4NWS ALLSTAR 48168 |  | Russell, KV4S</br>Ext: 100230</br>Email:  | 
 | 25001 |DV SCOTLAND GROUP |  | Andrew, MM0DXE </br>Ext: 200042</br>Email: ai@st-m.co.uk | 
 | 25002 |M7CWN ALLSTAR 56646 |  | Carl, M7CWN</br>Ext: 200055</br>Email:  | 
 | 35002 |VK2WAY ALLSTAR 560020 FreeDMR TG505 |  | Jared, VK2WAY</br>Ext: 300064</br>Email: cq@vk2way.id.au | 
