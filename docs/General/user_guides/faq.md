@@ -50,14 +50,16 @@ This is a long document, so to the right side of this page is a Table of Content
     * Reboot your modem
     * Reboot your router
     * Reboot your phone
+    * Double check to make sure none of your configuration has changed (password, domain, etc.)
+    * If you are using Hamshack Hotline, [please check here](https://hamsoverip.github.io/wiki/General/user_guides/faq/#i-had-to-reprovision-my-phone-with-hh-and-now-hoip-will-not-work-how-do-i-fix-this) to make sure the settings are correct.
 
     If these do not fix the issue, you will need to open a ticket to the helpdesk. We will need to make some adjustments. 
 
-    In the ticket, please include he following information:
+    In the ticket, please include the following information:
 
     * Your name, callsign
     * Your extension
-    * Mention the fact that our light is orange
+    * Mention the fact that your light is orange
     * Include your IP Address
 
     To get your IP address, please go to [https://pb.hamsoverip.com/diy](https://pb.hamsoverip.com/diy) and copy and paste the IP address that is shown there into the ticket. 

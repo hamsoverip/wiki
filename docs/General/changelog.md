@@ -1,5 +1,9 @@
 # Changelog
 
+* 08/11/2022
+    * Update to RF Links list - Russell, KV4S (PR#11)
+    * Fixed Spelling Errors on the FAW Page - Jeff, N8ACL
+
 * 08/08/2022
     * Addition of Troubalehooting Section to FAQ - Jeff, N8ACL
 
