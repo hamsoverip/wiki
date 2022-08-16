@@ -52,6 +52,9 @@ Conference Owners/Admins: We need your help in keeping this list up to date. You
 | 10046 | DIGITAL YOUTH GROUP | | PUBLIC | Collin, K0NNK</br>Ext: 100251</br>Email: k0nnk@qsl.net | 
 | 10047 | MIDDLE TN HAM | | PRIVATE | Zachary, K4TP</br>Ext: 100258</br>Email: k4tp@yahoo.com | 
 | 10048 | KOOL KIDZ | | PRIVATE | Richard, WD4BKY</br>Ext: 100263</br>Email: wd4bky@gmail.com | 
+| 10049 | East TN Hams | | PUBLIC | Stephen, K1LNX</br>Ext: 100069</br>Email: k1lnx@k1lnx.net |
+| 10050 | TN Statewide | | PUBLIC | Stephen, K1LNX</br>Ext: 100069</br>Email: k1lnx@k1lnx.net |
+| 10051 | West TN Hams | | PUBLIC | Stephen, K1LNX</br>Ext: 100069</br>Email: k1lnx@k1lnx.net |
 | 20000 | PBX-EU ADMIN OPS |For use by the Admins of the Service | PUBLIC | </br>Ext: </br>Email:  | 
 | 20001 | PUBLIC EU 1 |Public Use | PUBLIC | </br>Ext: </br>Email:  | 
 | 20002 | PUBLIC EU 2 |Public Use | PUBLIC | </br>Ext: </br>Email:  | 
@@ -68,4 +71,4 @@ Conference Owners/Admins: We need your help in keeping this list up to date. You
 | 30005 | AP PUBLIC 5 |Public Use | PUBLIC | </br>Ext: </br>Email:  | 
 
 
-Last Updated: 07/28/2022
+Last Updated: 08/16/2022
