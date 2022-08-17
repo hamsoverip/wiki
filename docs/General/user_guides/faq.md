@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-Last Updated: 08/08/2022
+Last Updated: 08/16/2022
 
 This document is a place to put some of the more Frequently Asked Questions of the service that are quick, short answers. If an answer requires more indepth steps, a guide will be created and linked to from this document.
 
@@ -61,6 +61,7 @@ This is a long document, so to the right side of this page is a Table of Content
     * Your extension
     * Mention the fact that your light is orange
     * Include your IP Address
+        * One thing to note here, if you have a Dyanmic DNS Service like DuckDNS or No-IP or similiar, this can be used as well, and is actually prefered. That way we don;t have to keep updating your IP address. Do a search for Dynamic DNS Services online.
 
     To get your IP address, please go to [https://pb.hamsoverip.com/diy](https://pb.hamsoverip.com/diy) and copy and paste the IP address that is shown there into the ticket. 
 
