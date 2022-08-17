@@ -1,5 +1,9 @@
 # Changelog
 
+* 08/16/2022
+    * Addition of TN Conference Bridges Information - Stephen, K1LNX (PR#12)
+    * Addition of Use of Dyanmic DNS URL to Troubleshooting Guide for Carrier Grade Nat - Jeff, N8ACL
+
 * 08/11/2022
     * Update to RF Links list - Russell, KV4S (PR#11)
     * Fixed Spelling Errors on the FAW Page - Jeff, N8ACL
