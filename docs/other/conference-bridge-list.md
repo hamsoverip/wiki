@@ -24,7 +24,7 @@ Conference Owners/Admins: We need your help in keeping this list up to date. You
 | 10005 | PUBLIC 5 |Public Use | PUBLIC | </br>Ext: </br>Email:  | 
 | 10006 | PUBLIC 6 |Public Use | PUBLIC | </br>Ext: </br>Email:  | 
 | 10020 | THE GATHERING SPOT | | PUBLIC | Mike, N8XYM</br>Ext: 100047</br>Email: mike@n8xym.com | 
-| 10021 | HURRICANE WATCH | | PUBLIC | </br>Ext: </br>Email:  | 
+| 10021 | HURRICANE WATCH | | PUBLIC | Jeff, N8EMA</br>Ext: 100002</br>Email: jeff@n8ema.com | 
 | 10022 | MOTOHAMS | | PRIVATE | Stephen, K1LNX</br>Ext: 100069</br>Email: k1lnx@k1lnx.net | 
 | 10023 | FLORIDA STORM | | PUBLIC | Adam, N3NKI</br>Ext: 100101</br>Email: thegreenberg@yahoo.com | 
 | 10024 | ARVARF | | PRIVATE | George, WB5JJJ</br>Ext: 100105</br>Email: wb5jjj@gmail.com | 
