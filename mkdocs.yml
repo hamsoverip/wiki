@@ -74,7 +74,7 @@ nav:
         - Avaya:
           - Avaya 96xx Series: endpoints/hard_phones/avaya96xx.md
         - Polycom:
-          - Polycom VVX4xx Series: endpoints/hard_phones/PolycommVVX4xx.md
+          - Polycom VVX4xx Series: endpoints/hard_phones/PolycomVVX4xx.md
       - Soft Phones: 
         - Groundwire: endpoints/soft_phones/groundwire.md
       - PBX Trunks:
