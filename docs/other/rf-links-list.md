@@ -34,12 +34,20 @@ Link Owners/Admins: We need your help in keeping this list up to date. You have 
 | 15016 |KO4WIL ALLSTAR 56135 | Typically connected to the W4KEV repeater system but can be connected to others at times. I dial in to this node mostly from my office to listen to the W4KEV repeater network. | William, KO4WIL</br>Ext: 100178</br>Email: ko4wiltn@gmail.com | 
 | 15017 |HOIP SERVICE ALLSTAR | Allstar System for HOIP | Jeff, N8ACL</br>Ext: 100070</br>Email: n8acl@qsl.net | 
 | 15018 |ALLSTAR 49230 BOREDOM BREAKERS NET |  | John, WX5OU</br>Ext: 100182</br>Email: john@wx5ou.com | 
-| 15019 |KV4S ALLSTAR 523800 |  | Russell, KV4S</br>Ext: 100230</br>Email:  | 
-| 15023 |ALERT-K4NWS ALLSTAR 48168 |  | Russell, KV4S</br>Ext: 100230</br>Email:  | 
+| 15019 |KV4S ALLSTAR 47923 |  | Russell, KV4S</br>Ext: 100230</br>Email:  | 
+| 15020 |KO4YWF ALlSTAR 57720 |  | Sean, N2APE</br>Ext: 100250</br>Email: n2ape@protonmail.com | 
+| 15021 |F1PTL ALLSTAR 45107 |  | Bruno, F1PTL</br>Ext: 200094</br>Email:  | 
+| 15022 |N4LMC/N4BZJ ALLSTAR 510135 |  | Emmett, W4EDP</br>Ext: 100127</br>Email: w4edp@arrl.net | 
+| 15023 |ALERT-K4NWS ALLSTAR 48168 |  | Russell, KV4S</br>Ext: 100230</br>Email: ff1ptl@gmail.com | 
+| 15024 |KD8JUS ALLSTAR 48292 |  | Joe, KD8UJS</br>Ext: 100295</br>Email: kd8ujs@gmail.com | 
+| 15025 |ALLSTAR 457430 |  | Brad, N8PC</br>Ext: 100324</br>Email: bradn8pc@gmail.com | 
+| 15026 |N4VKF;ALLSTAR;528621 |  | Kenneth, N4VKF</br>Ext: 100045</br>Email: N4VKF@outlook.com | 
+| 15027 |W4EDP/N4LMC;N4LMC 224.560 Allstar Node;46530 |  | Emmett, W4EDP</br>Ext: 100127</br>Email: w4edp@arrl.net | 
+| 15028 |K8LRC ALLSTAR 42121 |  | Logan, K8LRC</br>Ext: 100332</br>Email: k8lrc.lc@gmail.com | 
 | 25001 |DV SCOTLAND GROUP |  | Andrew, MM0DXE </br>Ext: 200042</br>Email: ai@st-m.co.uk | 
 | 25002 |M7CWN ALLSTAR 56646 |  | Carl, M7CWN</br>Ext: 200055</br>Email:  | 
+| 25003 |ALLSTAR -Trani Conference |  | Pietro, I7IGX</br>Ext: 200084</br>Email: pierodimeo@alice.it | 
+| 25004 |2E0LXY ALLSTAR 530470 |  | Daren, 2E0LXY</br>Ext: 23530</br>Email: 2E0LXY.DAREN@GMAIL.COM | 
 | 35002 |VK2WAY ALLSTAR 560020 FreeDMR TG505 |  | Jared, VK2WAY</br>Ext: 300064</br>Email: cq@vk2way.id.au | 
 
-
-
-Last Updated: 07/28/2022
+Last Updated: 08/26/2022

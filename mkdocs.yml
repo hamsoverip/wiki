@@ -73,6 +73,8 @@ nav:
           - Cisco 525g: endpoints/hard_phones/Cisco525.md
         - Avaya:
           - Avaya 96xx Series: endpoints/hard_phones/avaya96xx.md
+        - Polycom:
+          - Polycom VVX4xx Series: endpoints/hard_phones/PolycommVVX4xx.md
       - Soft Phones: 
         - Groundwire: endpoints/soft_phones/groundwire.md
       - PBX Trunks:

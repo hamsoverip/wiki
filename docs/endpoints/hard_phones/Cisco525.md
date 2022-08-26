@@ -10,38 +10,43 @@ This article will guide you through the steps for basic configuration to make it
 ## Step 1
 **Get the IP address of your phone**
 
-a. Press Setup.
+a. Press ```Setup```.
 
-b. Select to Status > Network Status.
+b. Select to ``Status`` > ```Network Status```.
 
 c. Scroll to view IP Address. This is the IP address of your phone.
 
-You should now have a number which is similar to 192.168.xxx.xxx
+This should show your IP Address in the format of xxx.xxx.xxx.xxx (EX: 192.168.0.2)
+
 ## Step 2
 
 **Logging in to the Phone Web User Interface**
 * On your PC, open a Web browser window. Your PC must be on the same subnetwork as the phone.
 * Enter the IP address in the browser address bar.
+   - This is the IP address you obtained above
 
 You will now see this screen:
 ![Top menu Bar of Cisco SPA525](https://user-images.githubusercontent.com/65520146/174688789-60893e08-7f8d-4e08-9691-ab2cad8105e7.png)
-Click on the **"Admin Login"** button near the top right side of the screen, then click on the **"Ext 1"** tab. This could be **"EXT 2"** if you already have a current extenstion.
+Click on the ```Admin Login``` button near the top right side of the screen, then click on the ```Ext 1``` tab. This could be ```EXT 2``` if you already have a current extenstion.
+
 ![Admin Menu Bar](https://user-images.githubusercontent.com/65520146/174689423-1052c960-17d2-4505-a134-7b06f9099991.png)
 
 ## Step 3
 
 **Configure with your Hams over IP account**
-Find the following fields on the "Ext" tab and configure accordingly.
+Find the following fields on the ```Ext``` tab and configure accordingly.
 
 **Nat Keep Alive**: Yes
 
 **Nat Mapping/Traversal**: Yes
 
-**Proxy**: pbx-us1.hamsoverip.com:5160 (use the one of the multiple servers you were emailed)
+**Proxy**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)
 
 **Register Expires**: 3600
 
-**User ID**: 100000 (Replace with your 6 digits Main account extension and **Password**: ******** (Hams over ip Account Password)
+**User ID**: Enter your Extension from the credentials email. 
+
+**Password**: Enter your password from the credentials email.
 
 **Use DNS SRV**: NO
 
@@ -51,4 +56,5 @@ Find the following fields on the "Ext" tab and configure accordingly.
 ![Extenstion Part 2](https://user-images.githubusercontent.com/65520146/174689834-822579c8-d276-41db-aebc-496cfc401797.png)
 
 Written by Jeff N8EMA
-Last Updated: 07/10/2022
+
+Last Updated: 08/26/2022
