@@ -6,11 +6,11 @@ The client is available for all major desktop platforms (Windows, MacOS and Linu
 
 Each Platform requires slightly different ways to set up, but for the most part, all the things you will need to change will be pretty easy to find and configure.
 
+Jami is available for download from: [https://jami.net/download/](https://jami.net/download/)
+
+
 ## Configure for Desktop Platform.
 
 **Note:** You do not need to setup a Jami account for this to work. DO NOT USE THAT METHOD. This Client will connect directly to a SIP provider.
 
-Download:
-
-* Windows:
 
