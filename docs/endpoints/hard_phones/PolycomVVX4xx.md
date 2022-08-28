@@ -24,11 +24,10 @@ The below steps are an option to be considered, if one the following is observed
 * The phone will show a 7 seconds count down. This is the only open window to press the key combination to go to the hard reset page.
 
 !!! note If the phone model is a
-
-  * **VVX series (VVX300, 301, 310, 311, etc)**: Press and hold 1 3 5 within the 7-second count down until it prompts you to the password page
-  * **Sound Point IP 335**: Press and hold 1 3 5 7 within the 7-second count down until it prompts you to the password page
-  * **Sound Point IP series (IP550,560,570, etc)**: Press and hold 4 6 8 and \* within the 7-second count down until it prompts you to the password page
-  * **Conference Phone IP5000, 6000, 7000**: Press and hold 1 3 5 7 within the 7-second count down until it prompts you to the password page
+    **VVX series (VVX300, 301, 310, 311, etc)**: Press and hold 1 3 5 within the 7-second count down until it prompts you to the password page
+    **Sound Point IP 335**: Press and hold 1 3 5 7 within the 7-second count down until it prompts you to the password page
+    **Sound Point IP series (IP550,560,570, etc)**: Press and hold 4 6 8 and \* within the 7-second count down until it prompts you to the password page
+    **Conference Phone IP5000, 6000, 7000**: Press and hold 1 3 5 7 within the 7-second count down until it prompts you to the password page
 
 * Enter the device's MAC ID as the password (e.g 0004f28619dc).
 * Press the 2nd soft key that corresponds to the mode or (encoding) to change it to ```A->abc``` or ```a->abc```.
