@@ -16,3 +16,5 @@ Jami is available for download from: [https://jami.net/download/](https://jami.n
 First you will need to download and install the client to your desktop platform (How that is done varies from platform to platform and is outside the scope of this document). Once it is installed, open the application.
 
 * When the initial screen comes up asking if you want to ```Join Jami``` or ```I already have an Existing Account``` don't choose either. Look for the option marked ```Advanced Features``` and click that and then click the option that says ```Configure a SIP Account```.
+* Enter the information for the fields on the next screen:
+    * ```SIP Server```: 
