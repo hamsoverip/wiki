@@ -68,22 +68,23 @@ As the example pictured above, enter your information into the following fields:
 **Alternate SNTP Server**: north-america.pool.ntp.org</br>
 **Alternate Time Zone**: (Your GMT Zone)</br>
 
-**SIP SERVER**
-**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)
+**SIP SERVER**</br>
+**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)</br>
 **Port**: 5160
 
-**SIP OUTBOUND PROXY**
-**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)
-**Port**: 5160
+**SIP OUTBOUND PROXY**</br>
+**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)</br>
+**Port**: 5160</br>
 
-**SIP LINE IDENTIFICATION**
-**Display Name**: How you want your "Caller ID" to be displayed to the Called Party. 
-**Address**: Enter your Extension from the credentials email.
-**Authentication User ID**: Enter your Extension from the credentials email.
-**Authentication Password**: Enter your password from the credentials email.
-**Label**:  Your choice on how you want to label your "Line Key" on your phone display
+**SIP LINE IDENTIFICATION**</br>
+**Display Name**: How you want your "Caller ID" to be displayed to the Called Party. </br>
+**Address**: Enter your Extension from the credentials email.</br>
+**Authentication User ID**: Enter your Extension from the credentials email.</br>
+**Authentication Password**: Enter your password from the credentials email.</br>
+**Label**:  Your choice on how you want to label your "Line Key" on your phone display</br>
 
 Select ```SAVE``` before leaving screen.
+
 If phone reboots, log back in as user ADMIN and continue to Step 4
 
 ## Step 4 - Configure "SIP" Fields
@@ -94,24 +95,25 @@ After completing Step 3, click on  ```Settings``` button near the top left side 
 
 As the example pictured above, enter your information into the following fields:
 
-**OUTBOUND PROXY**
-**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)
-**Port**: 5160
-**Transport**: UDPOnly
+**OUTBOUND PROXY**</br>
+**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)</br>
+**Port**: 5160</br>
+**Transport**: UDPOnly</br>
 
-**SERVER 1**
-**Special Interop**: Standard
-**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)
-**Port**: 5160
-**Transport**: UDPOnly
-**Expires (s)**: 3600
-**Subscription Expires (s)**: 3600
-**Register (Radio Button)**: <YES>
-**Retry Timeout (ms)**: 0
-**Retry Maximum Count**: 3
-**Line Seize Timeout (s)**: 30
+**SERVER 1**</br>
+**Special Interop**: Standard</br>
+**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)</br>
+**Port**: 5160</br>
+**Transport**: UDPOnly</br>
+**Expires (s)**: 3600</br>
+**Subscription Expires (s)**: 3600</br>
+**Register (Radio Button)**: <YES></br>
+**Retry Timeout (ms)**: 0</br>
+**Retry Maximum Count**: 3</br>
+**Line Seize Timeout (s)**: 30</br>
 
 Select ```SAVE``` before leaving screen.
+
 If phone reboots, log back in as user ADMIN and continue to Step 5
 
 ## Step 5 - Configure "LINE" Field
@@ -124,44 +126,45 @@ Then you will population the only the ```Line 1```  as the pictured in the below
 As the example pictured above, enter your information into the following fields:
 
 
-**IDENTIFICATION**
-**Display Name**: Your choice.  (This is the name YOU will see on your Phone Display for Line 1)
-**Address**: Enter your Extension from the credentials email.
-**Label**: Your choice. Recommend using the same entry from ```Display Name``` above.
-**Type (Radio Button)**: <Private>
-**Third Party Name**: <Leave Blank>
-**Number of Line Keys**: 1
-**Calls Per Line**: Default is "24" - Enter at least "1"
-**Enable SRTP (Radio Button)**: <Yes>
-**Offer SRTP (Radio Button)**: <No>
-**Require SRTP (Radio Button)**: <No>
-**Server Auto Discovery**: <Enable>
+**IDENTIFICATION**</br>
+**Display Name**: Your choice.  (This is the name YOU will see on your Phone Display for Line 1)</br>
+**Address**: Enter your Extension from the credentials email.</br>
+**Label**: Your choice. Recommend using the same entry from ```Display Name``` above.</br>
+**Type (Radio Button)**: <Private></br>
+**Third Party Name**: <Leave Blank></br>
+**Number of Line Keys**: 1</br>
+**Calls Per Line**: Default is "24" - Enter at least "1"</br>
+**Enable SRTP (Radio Button)**: <Yes></br>
+**Offer SRTP (Radio Button)**: <No></br>
+**Require SRTP (Radio Button)**: <No></br>
+**Server Auto Discovery**: <Enable></br>
 
-**AUTHENTICATION**
-**Use Login Credentials (Radio Button)**: <Disable>
-**Domain**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)
-**User ID**: Enter your Extension from the credentials email.
-**Password**: Enter your password from the credentials email.
+**AUTHENTICATION**</br>
+**Use Login Credentials (Radio Button)**: <Disable></br>
+**Domain**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)</br>
+**User ID**: Enter your Extension from the credentials email.</br>
+**Password**: Enter your password from the credentials email.</br>
 
 
-**OUTBOUND PROXY**
-**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)
-**Port**: 5160
-**Transport**: UDPOnly
+**OUTBOUND PROXY**</br>
+**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)</br>
+**Port**: 5160</br>
+**Transport**: UDPOnly</br>
 
-**SERVER 1**
-**Special Interop**: Standard
-**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)
-**Port**: 5160
-**Transport**: UDPOnly
-**Expires (s)**: 3600
-**Subscription Expires (s)**: 3600
-**Register (Radio Button)**: <YES>
-**Retry Timeout (ms)**: 0
-**Retry Maximum Count**: 3
-**Line Seize Timeout (s)**: 30
+**SERVER 1**</br>
+**Special Interop**: Standard</br>
+**Address**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)</br>
+**Port**: 5160</br>
+**Transport**: UDPOnly</br>
+**Expires (s)**: 3600</br>
+**Subscription Expires (s)**: 3600</br>
+**Register (Radio Button)**: <YES></br>
+**Retry Timeout (ms)**: 0</br>
+**Retry Maximum Count**: 3</br>
+**Line Seize Timeout (s)**: 30</br>
 
 Select ```SAVE``` before leaving screen.
+
 Now with Steps 3 thru 5 provisioned/configured, reboot the phone to bind the changes/additions.
 
 Written by: Mark, KI5CYA
