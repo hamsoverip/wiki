@@ -19,37 +19,37 @@ The below steps are an option to be considered, if one the following is observed
 
 **Steps**
 
-1. Reboot the phone and wait for the starting application.
-2. While the phone is in the starting application wait for the cancel button to appear then press it.
-3. The phone will show a 7 seconds count down. This is the only open window to press the key combination to go to the hard reset page.
+* Reboot the phone and wait for the starting application.
+* While the phone is in the starting application wait for the cancel button to appear then press it.
+* The phone will show a 7 seconds count down. This is the only open window to press the key combination to go to the hard reset page.
 
-            !!! note If the phone model is a
-                  * **VVX series (VVX300, 301, 310, 311, etc)**: Press and hold 1 3 5 within the 7-second count down until it prompts you to the password page
-                  * **Sound Point IP 335**: Press and hold 1 3 5 7 within the 7-second count down until it prompts you to the password page
-                  * **Sound Point IP series (IP550,560,570, etc)**: Press and hold 4 6 8 and \* within the 7-second count down until it prompts you to the password page
-                  * **Conference Phone IP5000, 6000, 7000**: Press and hold 1 3 5 7 within the 7-second count down until it prompts you to the password page
+      !!! note If the phone model is a
+            * **VVX series (VVX300, 301, 310, 311, etc)**: Press and hold 1 3 5 within the 7-second count down until it prompts you to the password page
+            * **Sound Point IP 335**: Press and hold 1 3 5 7 within the 7-second count down until it prompts you to the password page
+            * **Sound Point IP series (IP550,560,570, etc)**: Press and hold 4 6 8 and \* within the 7-second count down until it prompts you to the password page
+            * **Conference Phone IP5000, 6000, 7000**: Press and hold 1 3 5 7 within the 7-second count down until it prompts you to the password page
 
-4. Enter the device's MAC ID as the password (e.g 0004f28619dc).
-5. Press the 2nd soft key that corresponds to the mode or (encoding) to change it to ```A->abc``` or ```a->abc```.
-6. Then (for example) to select the letter F, press the 3 key three times.
+* Enter the device's MAC ID as the password (e.g 0004f28619dc).
+* Press the 2nd soft key that corresponds to the mode or (encoding) to change it to ```A->abc``` or ```a->abc```.
+* Then (for example) to select the letter F, press the 3 key three times.
 
 ## Step 1 - Get the IP address of your phone
 
-1. Press the ```Home``` Button Icon on your Polycom Phone.
+* Press the ```Home``` Button Icon on your Polycom Phone.
 
       ![PolyVVX-401_Phone_Home_Button](https://user-images.githubusercontent.com/40501228/186971150-ee8cd2a8-53bd-4c19-9a24-8cf453cdea6f.png)
 
-2. On the ```Display Screen``` and using the ```Arrow Keys``` to scroll and select ```Settings```.
-3. Scroll down to ```Status``` and hit ```Select```.
-4. Scroll down to ```Network``` and hit ```Select```.
-5. Scroll down to ```TCP/IP Parameters``` and hit ```Select```.
+* On the ```Display Screen``` and using the ```Arrow Keys``` to scroll and select ```Settings```.
+* Scroll down to ```Status``` and hit ```Select```.
+* Scroll down to ```Network``` and hit ```Select```.
+* Scroll down to ```TCP/IP Parameters``` and hit ```Select```.
 
 This should show your IP Address in the format of xxx.xxx.xxx.xxx (EX: 192.168.0.2)
 
 ## Step 2 - Logging in to the Phone Web User Interface**
 
-1. On your PC, open a Web browser window. (Note: Your PC must be on the same network as the phone.)
-2. Enter the IP address in the browser address bar.
+* On your PC, open a Web browser window. (Note: Your PC must be on the same network as the phone.)
+* Enter the IP address in the browser address bar.
    - This is the IP address you obtained above
 
 You will now see this screen (see picture):
