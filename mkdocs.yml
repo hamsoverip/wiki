@@ -59,6 +59,7 @@ nav:
   - HOIP Reference Lists:
     - Conference Bridge Reference: other/conference-bridge-list.md
     - RF-Link Reference: other/rf-links-list.md
+    - Test Phone Numbers: other/test-numbers.md
 
   - Linked VOIP Networks:
     - Calling the AmateurWire Network: General/other_systems/amateurwire.md
@@ -77,6 +78,8 @@ nav:
           - Polycom VVX4xx Series: endpoints/hard_phones/PolycomVVX4xx.md
       - Soft Phones: 
         - Groundwire: endpoints/soft_phones/groundwire.md
+        - Jami: endpoints/soft_phones/jami.md
+        - Zoiper: endpoints/soft_phones/zoiper.md
       - PBX Trunks:
         - FreePBX: 
           - Configure FreePBX IAX Trunk: endpoints/pbx/freepbx/configure-iax-trunk.md

@@ -56,5 +56,6 @@ This one is a bit tricky. It doesn't make sense on why all these switches are in
 
 * If the circle goes red, this indicates that the account is not registered on the server. Try turning off your home wifi on your phone and letting it connect via cellular. If it connects, it's an issue with your home wifi. If it does not register, it is a configuration error. 
 * If you are having a configuration problem, double check your settings on the account screen. Make sure if you copy and pasted there are no spaces in the username or password or anything. This will cause a registration issue.
-
-Last Updated: 06/28/2022
+* If you have tried all the above and it still won't connect over your home wifi (but it will over Cellular) AND this is your only phone (IE no hardline phone), then you might have a CGNAT problem. Please see this part of the [FAQ Document](https://hamsoverip.github.io/wiki/General/user_guides/faq/#the-light-for-my-hoip-extension-is-not-green-its-orange-amber-yellow-and-i-have-not-changed-anything-on-my-end-what-has-happened-or-what-do-i-do).
+  
+Last Updated: 09/02/2022

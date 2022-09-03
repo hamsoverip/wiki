@@ -44,10 +44,11 @@ Link Owners/Admins: We need your help in keeping this list up to date. You have 
 | 15026 |N4VKF;ALLSTAR;528621 |  | Kenneth, N4VKF</br>Ext: 100045</br>Email: N4VKF@outlook.com | 
 | 15027 |W4EDP/N4LMC;N4LMC 224.560 Allstar Node;46530 |  | Emmett, W4EDP</br>Ext: 100127</br>Email: w4edp@arrl.net | 
 | 15028 |K8LRC ALLSTAR 42121 |  | Logan, K8LRC</br>Ext: 100332</br>Email: k8lrc.lc@gmail.com | 
+| 15029 |KE4TLC ALLSTAR 479250 | | Dion, KE4TLC<br>Ext: 100339</br>Email: ke4tlc@gmail.com |
 | 25001 |DV SCOTLAND GROUP |  | Andrew, MM0DXE </br>Ext: 200042</br>Email: ai@st-m.co.uk | 
 | 25002 |M7CWN ALLSTAR 56646 |  | Carl, M7CWN</br>Ext: 200055</br>Email:  | 
 | 25003 |ALLSTAR -Trani Conference |  | Pietro, I7IGX</br>Ext: 200084</br>Email: pierodimeo@alice.it | 
 | 25004 |2E0LXY ALLSTAR 530470 |  | Daren, 2E0LXY</br>Ext: 23530</br>Email: 2E0LXY.DAREN@GMAIL.COM | 
 | 35002 |VK2WAY ALLSTAR 560020 FreeDMR TG505 |  | Jared, VK2WAY</br>Ext: 300064</br>Email: cq@vk2way.id.au | 
 
-Last Updated: 08/26/2022
+Last Updated: 09/03/2022

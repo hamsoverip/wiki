@@ -1,7 +1,16 @@
 # Changelog
 
+* 09/03/2022 - Jeff, N8ACL
+    * Update and fixes to the Polycom VVX4xx series phones Configuration Guide
+    * Update to the Groundwire Configuration Guide
+    * Addition of Jami softphone SIP Client Configuration Guide
+    * Addition of Zoiper softphone SIP Client Configuration Guide
+    * Addition of Test Numbers that can be dialed for testing your connection
+    * Updates to RF Link Contact List
+    * Updates to the Getting Started Page
+
 * 08/26/2022
-    * Addition of Polycom VVX4xx series phones Configuration Guide- Mark, KI5CYA
+    * Addition of Polycom VVX4xx Series Phones Configuration Guide - Mark, KI5CYA
     * Updates to Getting Started - Jeff, N8ACL
     * Updates to Cisco525 Guide - Jeff, N8ACL
     * Updates to Conference Bridge Contact List - Jeff, N8ACL

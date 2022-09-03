@@ -4,6 +4,8 @@ Thank you for choosing Hams Over IP! We are happy to have you here! There are ot
 
 One of the nice things about this system is it is a "Bring Your Own Device" kind of thing. We will give you your credentials and allow you to configure your phone yourself. We also allow up to 10 endpoints (different phones) on your account. Because we put the onus of phone configuration back on the user, you will need to be familiar with configuring your device.
 
+Please note that you MUST have an extension on the system before you can request and be approved for a conference bridge, a RF Link extension or an audio services extension.
+
 So lets get started:
 
 * First, you will need to enter a ticket in our ticketing system. Please go to [https://helpdesk.hamsoverip.com/osticket/](https://helpdesk.hamsoverip.com/osticket/) and create an account. 
@@ -24,4 +26,4 @@ So lets get started:
 
 Finally, and most importantly, enjoy using ther service!
 
-Last Updated: 08/26/2022
+Last Updated: 09/03/2022
