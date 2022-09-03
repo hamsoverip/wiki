@@ -8,6 +8,9 @@
     * Addition of Test Numbers that can be dialed for testing your connection
     * Updates to RF Link Contact List
     * Updates to the Getting Started Page
+    * Updates to the FreePBX SIP Trunk Page
+    * Updates to AmateurWire Dialing Guide
+    * Updates to OARC Dialing Guide
 
 * 08/26/2022
     * Addition of Polycom VVX4xx Series Phones Configuration Guide - Mark, KI5CYA

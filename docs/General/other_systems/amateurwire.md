@@ -20,10 +20,10 @@ To call a AmateurWire number from the Hams Over IP network, dial ```304```, hit 
 
 To call a Hams Over IP number from the AmateurWire network, the process is slightly different. Dial ```304+HOIP extension``` of the user you wish to call and then hit dial.
 
-* Try it: dial ```30410001``` (Conference room 10001). You should be dropped right into the conference room.
+* Try it: dial ```3043192``` (Talking Clock). You should hear the current date and time.
 
 ## AmateurWire Phonebook
 
 Don't know the number of the person you are trying to call on the AmateurWire Network? Look them up in the AmateurWire Phonebook at [https://amateurwire.org/index.php/phone-book/](https://amateurwire.org/index.php/phone-book/).
 
-Last Updated: 08/02/2022
+Last Updated: 09/03/2022

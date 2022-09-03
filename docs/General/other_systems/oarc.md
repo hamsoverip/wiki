@@ -20,10 +20,10 @@ To call a OARC number from the Hams Over IP network, dial ```441```, hit the ```
 
 To call a Hams Over IP number from the OARC network, the process is the same. Dial ```441```, hit the ```dial``` button, wait for a dial tone and then dial the HOIP extension of the user you wish to call.
 
-* Try it: dial ```441```, wait for a dialtone and then dial ```10001``` (Conference room 10001). You should be dropped right into the conference room.
+* Try it: dial ```441```, wait for a dialtone and then dial ```3192``` (Talking Clock). You should hear the current date and time.
 
 ## OARC Phonebook
 
 Don't know the number of the person you are trying to call on the OARC Call SIP Network? Look them up in the OARC Phonebook at [https://www.oarc.uk/oarc-pbx-callbook](https://www.oarc.uk/oarc-pbx-callbook).
 
-Last Updated: 08/02/2022
+Last Updated: 09/03/2022

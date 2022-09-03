@@ -1,7 +1,7 @@
 # Configuring a FreePBX SIP Trunk for HOIP
 
-### Important Note
-If you are planning to setup a SIP trunk in FreePBX, you will need to request a regular user extension. ***DO NOT*** request a trunk. This will get you setup an IAX Trunk and that will not work with this method.
+!!! note "IMPORTANT NOTE"
+    If you are planning to setup a SIP trunk in FreePBX, you will need to request a regular user extension. ***DO NOT*** request a trunk. This will get you setup an IAX Trunk and that will not work with this method.
 
 ---
 
@@ -95,4 +95,4 @@ The nice thing about FreePBX is you can have the PBX handle your voicemail, or y
         * Scroll down and find the ```Ringtime Default```. The default setting is 15 seconds. Set this to 10. This will allow your extension to ring for 10 seconds and then your voicemail will pick up before the HOIP one does. If your PBX goes offline, the call will roll over to the HOIP voicemail system instead.
         * Then ```Submit``` and ```Apply Changes```. 
 
-Last Updated: 07/18/2022
+Last Updated: 09/03/2022
