@@ -24,6 +24,6 @@ So lets get started:
 * Make sure to join one of our [chat services](https://hamsoverip.github.io/wiki/General/user_guides/chat-services/) for additional help/conversation!
 * Signup at the main website [https://hamsoverip.com](https://hamsoverip.com) for the phonebook and BLF Dashboards. This is a seperate account from the Ticketing System.
 
-Finally, and most importantly, enjoy using ther service!
+Finally, and most importantly, enjoy using the service!
 
 Last Updated: 09/03/2022

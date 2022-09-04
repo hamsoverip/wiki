@@ -1,5 +1,9 @@
 # Changelog
 
+* 09/03/2022
+    * Updates/Additons to RF Links Page - Russell, KV4S
+    * Updates to Getting Started - Jeff, N8ACL
+
 * 09/03/2022 - Jeff, N8ACL
     * Update and fixes to the Polycom VVX4xx series phones Configuration Guide
     * Update to the Groundwire Configuration Guide
