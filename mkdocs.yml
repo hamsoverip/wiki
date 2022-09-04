@@ -70,7 +70,7 @@ nav:
     - Endpoints:
       - Hard Phones:
         - Cisco:
-          - Cisco 504G: General/coming-soon.md
+          - Cisco 504G: endpoints/hard_phones/cisco504g.md
           - Cisco 525g: endpoints/hard_phones/Cisco525.md
         - Avaya:
           - Avaya 96xx Series: endpoints/hard_phones/avaya96xx.md

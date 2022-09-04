@@ -1,7 +1,10 @@
 # Changelog
 
+* 09/04/2022 - Jeff, N8ACL
+    * Addition of Cisco SPA-504G Configuration Guide
+
 * 09/03/2022
-    * Updates/Additons to RF Links Page - Russell, KV4S
+    * Updates/Additions to RF Links Page - Russell, KV4S (PR#13)
     * Updates to Getting Started - Jeff, N8ACL
 
 * 09/03/2022 - Jeff, N8ACL
