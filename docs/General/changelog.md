@@ -1,5 +1,9 @@
 # Changelog
 
+* 09/07/2022 - Jeff, N8ACL
+    * Updates to Conference Bridge Contact List
+    * Updates to RF Link Contact List
+
 * 09/04/2022 - Jeff, N8ACL
     * Addition of Cisco SPA-504G Configuration Guide
 

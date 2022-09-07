@@ -55,6 +55,7 @@ Conference Owners/Admins: We need your help in keeping this list up to date. You
 | 10049 | EAST TN HAMS | | PUBLIC | Stephen, K1LNX</br>Ext: 100069</br>Email: k1lnx@k1lnx.net | 
 | 10050 | TN STATEWIDE | | PUBLIC | Stephen, K1LNX</br>Ext: 100069</br>Email: k1lnx@k1lnx.net | 
 | 10051 | WEST TN HAMS | | PUBLIC | Stephen, K1LNX</br>Ext: 100069</br>Email: k1lnx@k1lnx.net | 
+| 10052 | ARVARF-VE | | PRIVATE | John, WB5BHS</br>Ext: 100109</br>Email: wb5bhs@gmail.com |
 | 20000 | PBX-EU ADMIN OPS |For use by the Admins of the Service | PUBLIC | </br>Ext: </br>Email:  | 
 | 20001 | PUBLIC EU 1 |Public Use | PUBLIC | </br>Ext: </br>Email:  | 
 | 20002 | PUBLIC EU 2 |Public Use | PUBLIC | </br>Ext: </br>Email:  | 
@@ -71,4 +72,4 @@ Conference Owners/Admins: We need your help in keeping this list up to date. You
 | 30004 | AP PUBLIC 4 |Public Use | PUBLIC | </br>Ext: </br>Email:  | 
 | 30005 | AP PUBLIC 5 |Public Use | PUBLIC | </br>Ext: </br>Email:  | 
 
-Last Updated: 08/26/2022
+Last Updated: 09/07/2022
