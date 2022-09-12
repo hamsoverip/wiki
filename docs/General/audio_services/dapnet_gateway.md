@@ -4,9 +4,9 @@ Developed and Hosted by: Jeff, N8ACL
 
 Remember the days of calling a pager number, entering your callback number or leaving a voicemail and that message being sent to the end user? Well those days are kind of back... at least for hams. This is what the kids are calling "Retro-tech" today.
 
-The Decentralized Amateur Paging Network (DAPNET) is a paging network that was setup by some hams in Germany and has slowly been moving around the world in popularity. While it has a large user base outside the US, it is gaining some traction in the US as well. It ustilizes the old POCSAG protocol to send Alpha-Numeric messages to old Alpha-Numeric text pagers.
+The Decentralized Amateur Paging Network (DAPNET) is a paging network that was setup by some hams in Germany and has slowly been moving around the world in popularity. While it has a large user base outside the US, it is gaining some traction in the US as well. It utilizes the old POCSAG protocol to send Alpha-Numeric messages to old Alpha-Numeric text pagers.
 
-It can breathe new life into those old Alpha-Numberic Pagers that we used to all carry around. It can use your Pi-Star hotspot to send a page or a high profile repeater. even. More information about DAPNET can be found at [https://hampager.de](https://hampager.de). The site is in German, so you will need to translate it to your language, or be able to read German.
+It can breathe new life into those old Alpha-Numberic Pagers that we used to all carry around. It can use your Pi-Star hotspot to send a page or a high profile repeater. More information about DAPNET can be found at [https://hampager.de](https://hampager.de). The site is in German, so you will need to translate it to your language, or be able to read German.
 
 The DAPNET Paging Gateway provides the ability to simulate the old paging gateway callback system from HOIP to DAPNET.
 
@@ -98,4 +98,4 @@ The gateway is available subject to all the usual things that effect downtime at
     Another option is to use the DAPNET App that is available on the iOS and Google Play app stores.
 
 
-Last Updated: 09/10/2022
+Last Updated: 09/12/2022
