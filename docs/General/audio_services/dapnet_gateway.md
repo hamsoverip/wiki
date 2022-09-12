@@ -16,8 +16,8 @@ Questions about the DAPNET Paging Gateway can be directed to Jeff, N8ACL at exte
 
 The DAPNET Paging Gateway is accessible from any of the linked services to HOIP (HOIP, AmateurWire, OARC and Meshphone) using the correct access code from the linked services of course.
 
-From West of the Rockies, call extension ```90004``` 
-From East of the Rockies, call extension ```90004```
+* From West of the Rockies, call extension ```90004``` 
+* From East of the Rockies, call extension ```90004```
 
 In either case, press ```2``` at the menu voice prompts.
 
