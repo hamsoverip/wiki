@@ -32,6 +32,7 @@ allow=g726aal2
 allow=gsm
 codecpriority=host
 transfer=no 
+requirecalltoken=no
 ```
 
 In your ```extensions.conf``` you need to configure a stanza similar to below. 
