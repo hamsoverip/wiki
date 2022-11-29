@@ -1,11 +1,11 @@
-# HOIP RF Linking
-HOIP allows extensions to be tied to an RF connection to allow others to dial in and use the RF link.
+# HOIP ALLSTAR Linking
+HOIP allows extensions to be tied to an ALLSTAR connection to allow others to dial in and use the ALLSTAR link.
 
-Note that this does not enable Autopatch from the RF connection. This is a one way connection from HOIP to your RF system, basically a reverse autopatch if you will.
+Note that this does not enable Autopatch from the ALLSTAR connection. This is a one way connection from HOIP to your ALLSTAR system, basically a reverse autopatch if you will.
 
-All RF-Link Extensions will be in the format of ```15XXX```, ```25XXX``` or ```35000```.
+All ALLSTAR-Link Extensions will be in the format of ```15XXX```, ```25XXX``` or ```35000```.
 
-## Creating an RF Connection
+## Creating an ALLSTAR Connection
 To create a connection , you first need to have a properly configured AllStar Node. Asterisk is needed to connect to the HOIP system as the HOIP system is based on Asterisk (FreePBX is the GUI front End to Asterisk) as well. There is plenty of documentation online on configuring an Allstar Node, so that is outside the scope of this document.
 
 It is recommended, but not required, that you configure a private node on your AllStar Node when configuring the node to have the phone connection tie to. This will allow you to disconnect the phone connection from your AllStar node in case there is a problem.
@@ -59,20 +59,20 @@ Please use an IAX client and test your credentials that you used for HOIP from o
 
 ### Connecting to Ham's Over IP
 
-Once you have your node configured, you will need to request an RF-Link Extension on the HOIP system through the HOIP ticketing system. 
+Once you have your node configured, you will need to request an ALLSTAR-Link Extension on the HOIP system through the HOIP ticketing system. 
 
 * Go to [https://hamsoverip.com/](https://hamsoverip.com/) and click "Request a Line". 
 * If you have an account, sign in and then select ```Open a New Ticket```.
 * If you do not have an account, then just select ```Open a New Ticket```.
 * Fill out the Contact Information Part of the Ticket.
-* Select the ```RF-Link Request``` Help Topic.
-* Just note in the ```Issue Summary``` part that this is a request for a RF-Link
+* Select the ```ALLSTAR-Link Request``` Help Topic.
+* Just note in the ```Issue Summary``` part that this is a request for a ALLSTAR-Link
 * You will need to make sure to include an IAX2 Dial string that includes the stanza information you setup for your node’s connections in the details part of the ```Issue Summary``` box. Make sure to modify this example IAX Dial String to match your system correctly.
     * The IAX2 Dial String is formatted like this: ```IAX2/username:password@fqdn:port/node-number```
     * So for an example: ```IAX2/username:password@fqdn:4569/1999```
     * This is the most important part. Without this, we are not able to connect to your system.
   
-* Finally fill out the rest of the requested information in the ```RF-Link Request``` area.
+* Finally fill out the rest of the requested information in the ```ALLSTAR-Link Request``` area.
 
 Once your extension is provisioned, you will be emailed with your extension number (which will be the next sequential number in the list) to test and make sure that you can connect to your node.
 
