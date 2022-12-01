@@ -1,9 +1,9 @@
 # Meshphone VOIP Network
 
-"N2MH MeshPhone℠ is my contribution to providing a service over the Amateur radio mesh network. N2MH MeshPhone℠ has two parts:
+"N2MH MeshPhone℠ is a network of PBX's that mostly use AREDN mesh technology for linking. N2MH MeshPhone℠ has two parts:
 
 * A local PBX supplying sip dialtone to a number of users in the area.
-* A network service that links together a number of other pbx's out on the Mesh with a common dial plan amongst everyone. This allows anyone on the network to call anyone else on the network by dialing 7 digits. This 7-digit number is called a "MeshPhone Number" and is the same number anywhere on the network."
+* A network service that links together a number of other pbx's out on the AREDN Mesh with a common dial plan amongst everyone. This allows anyone on the network to call anyone else on the network by dialing 7 digits. This 7-digit number is called a "MeshPhone Number" and is the same number anywhere on the network."
 
 * From the [Meshphone Website](http://ntwomh.ddns.net:5894/meshphone/)
 
@@ -11,7 +11,9 @@ MeshPhone is a VOIP Telephone Network, much the same as the Hams Over IP Network
 
 Hams Over IP has a trunk line connected to the MeshPhone network, which allows users from both networks to call each other.
 
-Questions about the MeshPhone Network can be directed to Mark, N2MH on Discord or via email n2mh@n2mh.net.
+Questions about the MeshPhone Network can be directed to Mark, preferably via email n2mh@n2mh.net or N2MH on Discord. On the mesh, he can be reached at n2mh@n2mh-mailhub.local.mesh. His MeshPhone number is 973-2111.
+
+For more information about AREDN Mesh, go to https://www.arednmesh.org
 
 ## Calling a MeshPhone Number from Hams Over IP
 
@@ -21,7 +23,7 @@ To call a MeshPhone number from the Hams Over IP network, dial ```78```, hit the
 
 ## Calling a Hams Over IP Number from MeshPhone
 
-To call a Hams Over IP number from the MeshPhone network, enter the correct access code, wait for a dial tone, and then dial the 7 digit Hams Over IP number of the user you wish to call. Like on the MeshPhone side, it should show the access code and caller ID of the person calling, allowing you to call them back if needed.
+To call a Hams Over IP number from the MeshPhone network, dial 74, wait for a dial tone, and then dial the 6 digit Hams Over IP number of the user you wish to call. Like on the MeshPhone side, it should show the access code and caller ID of the person calling, allowing you to call them back if needed.
 
 ## MeshPhone White Pages
 
