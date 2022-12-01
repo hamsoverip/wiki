@@ -13,6 +13,8 @@ Hams Over IP has a trunk line connected to the MeshPhone network, which allows u
 
 Questions about the MeshPhone Network can be directed to Mark, preferably via email n2mh@n2mh.net or N2MH on Discord. On the mesh, he can be reached at n2mh@n2mh-mailhub.local.mesh. His MeshPhone number is 973-2111.
 
+For more information about AREDN Mesh, go to https://www.arednmesh.org
+
 ## Calling a MeshPhone Number from Hams Over IP
 
 To call a MeshPhone number from the Hams Over IP network, dial ```78```, hit the ```dial``` button, wait for a dial tone and then dial the 7 digit MeshPhone number of the user you wish to call. Your caller ID with the correct access code from the MeshPhone side will show on the users phone, allowing them to call you back or hit redial.
