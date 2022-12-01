@@ -21,7 +21,7 @@ To call a MeshPhone number from the Hams Over IP network, dial ```78```, hit the
 
 ## Calling a Hams Over IP Number from MeshPhone
 
-To call a Hams Over IP number from the MeshPhone network, enter the correct access code, wait for a dial tone, and then dial the 7 digit Hams Over IP number of the user you wish to call. Like on the MeshPhone side, it should show the access code and caller ID of the person calling, allowing you to call them back if needed.
+To call a Hams Over IP number from the MeshPhone network, dial 74, wait for a dial tone, and then dial the 6 digit Hams Over IP number of the user you wish to call. Like on the MeshPhone side, it should show the access code and caller ID of the person calling, allowing you to call them back if needed.
 
 ## MeshPhone White Pages
 
