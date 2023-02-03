@@ -17,7 +17,7 @@ Link Owners/Admins: We need your help in keeping this list up to date. You have 
 |---------|---------|---------|---------|
 | 15000 |N8EMA ALLSTAR 49050 |  | Jeff, N8EMA</br>Ext: 100002</br>Email: jeff@n8ema.com | 
 | 15001 |EAST COAST REFLECTOR |  | </br>Ext: </br>Email:  | 
-| 15002 |WH6AV ALLSTAR 42618 |  | Jesse, WH6AV</br>Ext: 100000</br>Email: wh6av808@gmail.com | 
+| 15002 |WH6AV ALLSTAR 42618 |Hawaii/Mainland/Overseas Allstar Network  | Jesse, WH6AV</br>Ext: 100000</br>Email: wh6av808@gmail.com | 
 | 15003 |KA1MXL RI DIGITAL LINK |  | Kevin, KA1MXL</br>Ext: 100041</br>Email: KA1MXL@COX.NET | 
 | 15004 |W8UFO ALLSTAR 41611 |  | Scott, W8UFO</br>Ext: 100065</br>Email: w8ufo@arrl.net | 
 | 15005 |W8UFO 220MHZ SIMPLEX NODE-KNOXVILLE, TN |  | Scott, W8UFO</br>Ext: 100066</br>Email: w8ufo@arrl.net | 
