@@ -10,14 +10,14 @@ We are of course looking for contributions to this wiki to expand the use of the
 
 <hr/>
 
-The Maintainer of the Wiki is: Jeff, N8ACL
+The Maintainer of the Wiki is: Jesse, WH6AV
 
 Questions about the Wiki? There are multiple ways to ask them:
 
 * In the Wiki Chat Channel on the Discord Server.
-* Reach out via DM on Discord to Jeff, N8ACL (@Ravendos#7364)
-* Email: n8acl@qsl.net
-* HOIP Ext: 100070 (leave a voicemail if no answer)
+* Reach out via DM on Discord to Jesse, WH6AV (@WH6AV - Jesse - 3115069#2552)
+* Email: wh6av808@gmail.com
+* HOIP Ext: 100000 (leave a voicemail if no answer)
 
 <hr/>
 
