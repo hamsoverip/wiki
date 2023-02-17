@@ -82,6 +82,15 @@ This is a long document, so to the right side of this page is a Table of Content
     * Make sure you have your HOIP extension configured with the proper credentials.
     * Submit changes and reboot.
 
+### My phone is provisioned but I don't hear any audio after the dial tone when I check my voicemail or make any calls.
+
+!!! note ""
+    Check the audio settings of the phone. Make sure the volume is turned up and there are no loose connections. If the phone checks out physically, check to see if the phone is behind a firewall. If it is the following ports need to be opened outbound only. (Keep in mind this is NOT port forwarding, just simply allowing the phone to initiate a connection on these ports
+    
+    * SIP Ports UDP - 5160
+    * DNS Ports UDP - 53
+    * NTP Ports UDP - 123
+    * RTP Ports UDP - 8500 through 59999  
 <hr />
 
 ## Phones
