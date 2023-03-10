@@ -40,7 +40,7 @@ Find the following fields on the ```Ext``` tab and configure accordingly.
 
 **Nat Mapping/Traversal**: Yes
 
-**Proxy**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com```)
+**Proxy**: This will be the domain name sent in your credentials email (ex: ```pbx-us1.hamsoverip.com:5160```)
 
 **Register Expires**: 3600
 
