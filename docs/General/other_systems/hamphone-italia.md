@@ -2,15 +2,15 @@
 
 Hams Over IP has a trunk line connected to the HamPhone Italia network, which allows users from both networks to call each other.
 
-Questions about the HamPhone Italia Network can be directed to Jesse, preferably via email wh6av@hamsoverip.com or WH6AV on Discord. His MeshPhone number is 808-3027.
+Questions about the HamPhone Italia Network can be directed to Pietro di Meo, preferably via email pierodimeo@alice.it. His MeshPhone number is 2227470.
 
-For more information about HamPhone Italia, go to http://hamphone.is-by.us/info/phonebook.php.
+For more information about HamPhone Italia, go to [HamPhone Italia](https://51593.it/benvenuti-in-hamphone-italia/).
 
 ## Calling a HamPhone Italia Number from Hams Over IP
 
 To call a HamPhone Italia number from the Hams Over IP network, dial ```22```, and the 5 digit PBX Italia number of the user you wish to call. Your caller ID from the Hams Over IP side will show on the users phone, allowing them to call you back or hit redial.
 
-* Try it: dial ```22```, and then dial ```29999``` (WH6AV). You should reach WH6AV Extension.  Leave a voicemail if you'd like to.
+* Try it: dial ```22```, and then dial ```27470``` (I7IGX). You should reach I7IGX Extension.  Leave a voicemail if you'd like to.
 
 ## Calling a Hams Over IP Number from HamPhone Italia
 
