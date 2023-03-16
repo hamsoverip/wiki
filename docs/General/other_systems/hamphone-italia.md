@@ -2,7 +2,7 @@
 
 Hams Over IP has a trunk line connected to the HamPhone Italia network, which allows users from both networks to call each other.
 
-For more information about HamPhone Italia, go to [For more information about HamPhone Italia, go to HamPhone Italia](http://hamphone.is-by.us/site/).
+For more information about HamPhone Italia, go to [HamPhone Italia](http://hamphone.is-by.us/site/).
 
 ## Calling a HamPhone Italia Number from Hams Over IP
 
