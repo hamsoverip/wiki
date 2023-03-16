@@ -4,7 +4,7 @@ Hams Over IP Canada has a trunk line connected to the Hams Over IP network, whic
 
 Questions about the Hams Over IP Canada Network can be directed to Jesse, preferably via email wh6av@hamsoverip.com or WH6AV on Discord. His MeshPhone number is 808-3027.
 
-For more information about Hams Over IP Canada Network, go to [HMASN/AREDN Website](http://hmasn.com).
+For more information about Hams Over IP Canada Network, go to [Hams Over IP Canada Website](https://helpdesk.hamsoverip.ca/osticket/).
 
 ## Calling a Hams Over IP Canada user from Hams Over IP
 
@@ -14,10 +14,10 @@ To call a Hams Over IP Canada number from the Hams Over IP network, dial ```450`
 
 ## Calling a Hams Over IP Number from Hams Over IP Canada Network
 
-To call a Hams Over IP number from the Hams Over IP Canada Network, dial 577 and the 6-digit Hams Over IP number of the user you wish to call. Like on the Hawaii Mainland Overseas Allstar/Aredn side, it should show the caller ID of the person calling, allowing you to call them back if needed.
+To call a Hams Over IP number from the Hams Over IP Canada Network, dial 577 and the 6-digit Hams Over IP number of the user you wish to call. Your caller ID from the Hams Over IP Canda side will show on the users phone, allowing you to call them back if needed.
 
 ## Hams Over IP Canada Network White Pages
 
-Don't know the number of the person you are trying to call on the Hams Over IP Canada Network Network? Look them up in the [Hawaii Mainland Overseas Allstar/Aredn White Pages](http://wh6av.net:2580/phonebook).
+Don't know the number of the person you are trying to call on the Hams Over IP Canada Network Network? Look them up in the [Hams Over IP Canada Phonebook](http://).
 
 Last Updated: 03/15/2023
