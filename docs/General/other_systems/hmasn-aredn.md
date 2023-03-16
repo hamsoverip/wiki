@@ -2,9 +2,11 @@
 
 Hawaii Mainland Overseas Allstar/Aredn has a trunk line connected to the Hams Over IP network, which allows users from both networks to call each other.
 
-Questions about the Hawaii Mainland Overseas Allstar/Aredn Network can be directed to Jesse, preferably via email wh6av@hamsoverip.com or WH6AV on Discord. His MeshPhone number is 808-3027.
+This network which handles prefix 808, was concieved and is maintained by Jesse, WH6AV. 
 
-For more information about Hawaii Mainland Overseas Allstar/Aredn Network, go to [http://hmasn.com/](http://hmasn.com/).
+Questions about the Hawaii Mainland Overseas Allstar/Aredn Network can be directed to Jesse, preferably via email wh6av808@gmail.com or WH6AV on Discord. His MeshPhone number is 808-3027.
+
+For more information about Hawaii Mainland Overseas Allstar/Aredn Network, go to [HMASN website](http://hmasn.com/).
 
 ## Calling a Hawaii Mainland Overseas Allstar/Aredn user from Hams Over IP
 
@@ -18,6 +20,6 @@ To call a Hams Over IP number from the Hawaii Mainland Overseas Allstar/Aredn Ne
 
 ## Hawaii Mainland Overseas Allstar/Aredn White Pages
 
-Don't know the number of the person you are trying to call on the Hawaii Mainland Overseas Allstar/Aredn Network? Look them up in the [http://wh6av.net:2580/phonebook/](http://wh6av.net:2580/phonebook/).
+Don't know the number of the person you are trying to call on the Hawaii Mainland Overseas Allstar/Aredn Network? Look them up in the [HMASN/AREDN phonebook](http://wh6av.net:2580/phonebook/).
 
 Last Updated: 03/15/2023
