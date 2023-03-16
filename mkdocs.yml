@@ -66,6 +66,8 @@ nav:
     - Calling the MeshPhone Network: General/other_systems/meshphone.md
     - Calling the OARC Network: General/other_systems/oarc.md
     - Calling the HamPhone Italia Network: General/other_systems/hamphone-italia.md
+    - Calling the HMASN/AREDN Network: General/other_systems/hmasn-aredn.md
+    - Calling the Hams Over IP Canada Network: General/other_systems/hamsoverip-ca.md
   - Audio Services: 
     - Configure Audio Services: General/coming-soon.md
     - DAPNET Paging Gateway: General/audio_services/dapnet_gateway.md
