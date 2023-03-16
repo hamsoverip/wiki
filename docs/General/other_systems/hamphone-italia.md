@@ -2,9 +2,7 @@
 
 Hams Over IP has a trunk line connected to the HamPhone Italia network, which allows users from both networks to call each other.
 
-Questions about the HamPhone Italia Network can be directed to Pietro di Meo, preferably via email pierodimeo@alice.it. His MeshPhone number is 2227470.
-
-For more information about HamPhone Italia, go to [HamPhone Italia](https://51593.it/benvenuti-in-hamphone-italia/).
+For more information about HamPhone Italia, go to [For more information about HamPhone Italia, go to HamPhone Italia](http://hamphone.is-by.us/site/).
 
 ## Calling a HamPhone Italia Number from Hams Over IP
 
