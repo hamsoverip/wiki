@@ -8,7 +8,7 @@ For more information about HamPhone Italia, go to [HamPhone Italia](https://5159
 
 ## Calling a HamPhone Italia Number from Hams Over IP
 
-To call a HamPhone Italia number from the Hams Over IP network, dial ```22```, and the 5 digit PBX Italia number of the user you wish to call. Your caller ID from the Hams Over IP side will show on the users phone, allowing them to call you back or hit redial.
+To call a HamPhone Italia number from the Hams Over IP network, dial ```22```, and the 5-digit PBX Italia number of the user you wish to call (in this way, you will dial his/her dmr-id). Your caller ID from the Hams Over IP side will show on the users phone, allowing them to call you back or hit redial.
 
 * Try it: dial ```22```, and then dial ```27470``` (I7IGX). You should reach I7IGX Extension.  Leave a voicemail if you'd like to.
 
