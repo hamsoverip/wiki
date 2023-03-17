@@ -14,7 +14,7 @@ To call a Global World number from the Hams Over IP network, dial ```818```, and
 
 ## Calling a Hams Over IP Number from Global World VOIP
 
-To call a Hams Over IP number from the Global World VOIP Network, dial 577 and the 6-digit Hams Over IP number of the user you wish to call. Your caller ID will show users's phone, allowing you to call them back if needed.
+To call a Hams Over IP number from the Global World VOIP Network, dial 577 and the 6-digit Hams Over IP number of the user you wish to call. Your caller ID from the Global World will show on the users's phone, allowing them to call you back if needed.
 
 ## Global World VOIP White Pages
 
