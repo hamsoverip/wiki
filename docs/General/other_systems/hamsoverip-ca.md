@@ -14,7 +14,7 @@ To call a Hams Over IP Canada number from the Hams Over IP network, dial ```450`
 
 ## Calling a Hams Over IP Number from Hams Over IP Canada Network
 
-To call a Hams Over IP number from the Hams Over IP Canada Network, dial 577 and the 6-digit Hams Over IP number of the user you wish to call. Your caller ID from the Hams Over IP Canda side will show on the users phone, allowing you to call them back if needed.
+To call a Hams Over IP number from the Hams Over IP Canada Network, dial 577 and the 6-digit Hams Over IP number of the user you wish to call. Your caller ID from the Hams Over IP Canda side will show on the users phone, allowing them to call you back if needed.
 
 ## Hams Over IP Canada Network White Pages
 
