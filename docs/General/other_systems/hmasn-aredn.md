@@ -16,7 +16,7 @@ To call a Hawaii Mainland Overseas Allstar/Aredn number from the Hams Over IP ne
 
 ## Calling a Hams Over IP Number from Hawaii Mainland Overseas Allstar/Aredn
 
-To call a Hams Over IP number from the Hawaii Mainland Overseas Allstar/Aredn Network, dial 577 and the 6-digit Hams Over IP number of the user you wish to call. Like on the Hawaii Mainland Overseas Allstar/Aredn side, it should show the caller ID of the person calling, allowing you to call them back if needed.
+To call a Hams Over IP number from the Hawaii Mainland Overseas Allstar/Aredn Network, dial 577 and the 6-digit Hams Over IP number of the user you wish to call. Your caller ID should show on the user's phone, allowing them to call you back if needed.
 
 ## Hawaii Mainland Overseas Allstar/Aredn White Pages
 
