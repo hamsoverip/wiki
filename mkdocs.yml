@@ -78,6 +78,7 @@ nav:
         - Cisco:
           - Cisco 504G: endpoints/hard_phones/cisco504g.md
           - Cisco 508G: endpoints/hard_phones/cisco508g.md
+          - Cisco 512G: endpoints/hard_phones/cisco512g.md
           - Cisco 525g: endpoints/hard_phones/Cisco525.md
         - Avaya:
           - Avaya 96xx Series: endpoints/hard_phones/avaya96xx.md
