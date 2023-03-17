@@ -92,7 +92,7 @@ This is a long document, so to the right side of this page is a Table of Content
     * SIP Ports UDP - 5160
     * DNS Ports UDP - 53
     * NTP Ports UDP - 123
-    * RTP Ports UDP - 8500 through 59999  
+    * RTP Ports UDP - 10000 through 15000  NOTE: RTP port can vary on what is set for your device to use.
 <hr />
 
 ## Phones
