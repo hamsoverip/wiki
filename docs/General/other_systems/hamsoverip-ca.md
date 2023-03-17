@@ -18,6 +18,6 @@ To call a Hams Over IP number from the Hams Over IP Canada Network, dial 577 and
 
 ## Hams Over IP Canada Network White Pages
 
-Don't know the number of the person you are trying to call on the Hams Over IP Canada Network Network? Look them up in the [Hams Over IP Canada Phonebook](http://).
+Don't know the number of the person you are trying to call on the Hams Over IP Canada Network Network? Look them up in the [Hams Over IP Canada Phonebook](http://).  *** Please note, at present, phonebook listing is not available.
 
 Last Updated: 03/15/2023
