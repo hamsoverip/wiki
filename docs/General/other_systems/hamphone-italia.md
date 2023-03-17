@@ -16,7 +16,7 @@ To call a Hams Over IP number from the HamPhone Italia network, dial 53 and the 
 
 ## Calling a Hams Over IP user using DMRID from HamPhone Italia
 
-To call a Hams Over IP user with DMIRD number from the HamPhone Italia network, dial 54 and the 7-digit DMRID number of the user you wish to call. Like on the HamPhone Italia side, it should show the caller ID of the person calling, allowing you to call them back if needed.
+To call a Hams Over IP user with DMIRD number from the HamPhone Italia network, dial 54 and the 7-digit DMRID number of the user you wish to call. Your caller ID should show on the user's phone, allowing them to call you back if needed.
 
 ## HamPhone Italia White Pages
 
