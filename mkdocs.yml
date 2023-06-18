@@ -84,6 +84,8 @@ nav:
           - Avaya 96xx Series: endpoints/hard_phones/avaya96xx.md
         - Polycom:
           - Polycom VVX4xx Series: endpoints/hard_phones/PolycomVVX4xx.md
+        - Yaelink:
+          - Yaelink T4 Series: docs/endpoints/hard_phones/Yealink T4X.md
       - Soft Phones: 
         - Groundwire: endpoints/soft_phones/groundwire.md
         - Jami: endpoints/soft_phones/jami.md
