@@ -16,7 +16,7 @@ Also, we ask that you check to make sure your PTT command is setup to be *99 and
 
 ### On your Allstar Node
 
-You will need to edit the `IAX.conf` and `extensions.conf` files.
+You will need to edit the `iax.conf` and `extensions.conf` files.
 
 In your `iax.conf` you will need to configure a stanza similar to this:
 
