@@ -1,8 +1,14 @@
-site_name: Ham's Over IP Wiki
+site_name: Hams Over IP Wiki
 site_url: https://hamsoverip.github.io/wiki
 repo_url: https://github.com/hamsoverip/wiki
+
+
 theme:
   name: 'material'
+  features:
+    - content.tooltips
+  # features:
+  #   - navigation.expand
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
@@ -21,22 +27,34 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-  # features:
-  #   - navigation.expand
+
 
 markdown_extensions:
+  - abbr
   - admonition
+  - attr_list
+  - codehilite:
+      guess_lang: false
   #- def_list
+  - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-  - codehilite:
-      guess_lang: false
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
+
 
 nav:
   - Welcome!: index.md
@@ -67,34 +85,53 @@ nav:
     - Calling the HMASN/AREDN Network: General/other_systems/hmasn-aredn.md
     - Calling the Global World VOIP Network: General/other_systems/global-world.md
     - Calling the Hams Over IP Canada Network: General/other_systems/hamsoverip-ca.md
+
   - Audio Services: 
     - Configure Audio Services: General/coming-soon.md
     - DAPNET Paging Gateway: General/audio_services/dapnet_gateway.md
+
   - Configuration Guides:
+
     - Endpoints:
+
       - Hard Phones:
+
+        - Avaya:
+          - Avaya 96xx Series: endpoints/hard_phones/avaya96xx.md
+
         - Cisco:
-          - Cisco 504G: endpoints/hard_phones/cisco504g.md
+          - Cisco 504G/514G: endpoints/hard_phones/cisco504g.md
           - Cisco 508G: endpoints/hard_phones/cisco508g.md
           - Cisco 512G: endpoints/hard_phones/cisco512g.md
           - Cisco 525g: endpoints/hard_phones/Cisco525.md
-        - Avaya:
-          - Avaya 96xx Series: endpoints/hard_phones/avaya96xx.md
+
+        - OBiTalk:
+          - OBi202: endpoints/hard_phones/OBi202.md
+
         - Polycom:
           - Polycom VVX4xx Series: endpoints/hard_phones/PolycomVVX4xx.md
-        - Yaelink:
-          - Yaelink T4 Series: endpoints/hard_phones/YealinkT4X.md
-      - Soft Phones: 
+
+        - Yealink:
+          - Yealink T4 Series: endpoints/hard_phones/YealinkT4X.md
+
+      - Soft Phones:
         - Groundwire: endpoints/soft_phones/groundwire.md
         - Jami: endpoints/soft_phones/jami.md
         - Zoiper: endpoints/soft_phones/zoiper.md
+
       - PBX Trunks:
+
+        - Asterisk:
+          - Configure Asterisk IAX Trunk: endpoints/pbx/asterisk/configure-iax-trunk.md
+
         - FreePBX: 
           - Configure FreePBX IAX Trunk: endpoints/pbx/freepbx/configure-iax-trunk.md
           - Configure FreePBX SIP Trunk: endpoints/pbx/freepbx/configure-sip-trunk.md
           - FreePBX/Asterisk Feature Codes: endpoints/pbx/freepbx/feature-codes.md
+
         - 3CX PBX:
           - Configure 3CX Trunk: endpoints/pbx/3cx/configure-3cx-trunk.md
+
     - Other:
       - Configure an RF Link: other/configure-rf-links.md
       - Configure Audio Services: General/coming-soon.md
@@ -105,11 +142,11 @@ nav:
     - Phone Wallpaper: wallpaper/wallpaper.md 
 
   - Wiki:
-    - Contributing: 
-      - Overview of the Wiki: wiki/overview.md
-      - How to Contribute: wiki/contributing.md
+    - Overview of the Wiki: wiki/overview.md
+    - How to Contribute: wiki/contributing.md
 
   - Changelog: General/changelog.md
+
 
 extra:
   social:

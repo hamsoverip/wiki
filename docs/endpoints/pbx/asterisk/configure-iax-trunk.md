@@ -15,7 +15,7 @@ This guide also assumes you have a Linux based system. If you are setting this u
 - The asterisk configuration files are found in /etc/asterisk/.
 - By default, the iax2 channel driver is not loaded. Check in modules.conf for the line
 
-```
+``` ini title="modules.conf snippet"
 load = chan_iax2.so
 ```
 
@@ -26,7 +26,7 @@ If it is not there, add this line with the other Channel Drivers
 - To configure the IAX2 trunk, you need to edit iax.conf.
 - Contents of iax.conf:
 
-```
+``` ini title="iax.conf snippet"
 [general]
 bandwidth=high
 autokill=yes
@@ -57,7 +57,7 @@ Once you have the trunk created, you will need to configure an Outgoing Route in
 - To add the inbound and outbound configuration, you need to edit `extensions.conf`.
 - In your context configuring the dialplan, add the following section:
 
-```
+``` ini title="extensions.conf snippet"
 ; Make calls to HoIP
 exten = _47X.,1,Dial(IAX2/HoIPContext/${EXTEN:2})  ; 47 is prefix for HamsOverIP numbers
  same = n, Hangup()                                ; This line is not strictly necessary, but recommended practice
@@ -70,7 +70,7 @@ To contact the HamsOverIP number 123456, dial 47123456. The 47 will be dropped, 
 - Still editing in `extensions.conf`
 - Assuming you are using `pjsip` to define your extensions, and you want to pass HOIP calls to extension 123, add the following section:
 
-```
+``` ini title="extensions.conf snippet"
 ; Receive calls from HoIP
 [HoIPContext]
 exten = s,1,Dial(PJSIP/123)
@@ -84,4 +84,6 @@ You should now be able to make and receive calls across your HOIP Trunk. I recom
 
 Thanks to **Christopher, M0YNG** for working out the details to make this work, and for taking the time to help me (Paul) debug my setup. I would be nowhere without his support. Any errors here are mine, not his!
 
-Last Updated: 2024-07-11 Paul, MW7PAJ
+----
+
+!!! info "Last Updated 2024-07-11 by Paul, MW7PAJ"
