@@ -10,21 +10,27 @@ From there, you will need to navigate to the extension you want to edit, be it a
 
 When you are at the extension you want to edit, you will need to look for the ```Extended Function``` Field for that line and in that you will place something similiar to the following:
 
-```bash
-fnc=sd+blf;ext=<extension to Monitor>@$PROXY;nme=<Friendly Name>;
+``` text
+fnc=sd+blf;ext=<extension to speeddial>@$PROXY;sub=<extension to monitor>@$PROXY;nme=<Friendly Name>;
 ```
 
 Where:
 
-* ```fnc=sd+blf;``` - This sets the function of the button for both a speedial and BLF for that button
-* ```ext=<extension to monitor>@$PROXY;``` - This is the extension you want to Speedial/monitor. ```$PROXY``` is a variable that is taken from another part of the phone configuration. Leave that alone. That just basically sets the server.
-* ```name=<Friendly Name>;``` This sets the name of the button that is displayed on the phone screen or the sidecar screen (if it has one). If you are using a sidecar without a screen, this can be omitted for that.
-* ***OPTIONAL:*** if you are using a sidecar, you can add ```vid=N``` where N is the number of the line you want to send the call out. In other words, let's say you have a Home VOIP number on line 1 and HOIP on line 2 and you want this button to speedial an extension on HOIP, you would set it to look like ```vid=2```. Otherwise it will default to line 1 of the phone.
+* `fnc=sd+blf;` - This sets the function of the button for both a speedial and BLF for that button
+* `ext=<extension to speeddial>@$PROXY;` - this corresponds to the `sd` part of the function, and is the extension you want to speeddial. `$PROXY` is a variable that is taken from another part of the phone configuration. Leave that alone. That just basically sets the server.
+* `sub=<extension to monitor>@$PROXY;` - this corresponds to the `blf` part of the function, and is the extension you want to monitor. This is essentially the same as the `ext` section above.
+* `name=<Friendly Name>;` This sets the name of the button that is displayed on the phone screen or the sidecar screen (if it has one). If you are using a sidecar without a screen, this can be omitted for that.
+* ***OPTIONAL:*** if you are using a sidecar, you can add `vid=N` where N is the number of the line you want to send the call out. In other words, let's say you have a Home VOIP number on line 1 and HOIP on line 2 and you want this button to speedial an extension on HOIP, you would set it to look like `vid=2`. Otherwise it will default to line 1 of the phone.
 
 So an example function string would be:
 
-```bash
-fnc=sd+blf;ext=1234@$PROXY;nme=Joe, WA1ABC;vid=2
+``` text
+fnc=sd+blf;ext=1234@$PROXY;sub=1234@$PROXY;nme=Joe, WA1ABC;vid=2
 ```
 
-Last Updated: 05/23/2022
+!!! warning "Cross-server BLF"
+    If your extension is located on one particular server, say US1 (extension beginning with 1), you can only use BLF to monitor lines on the US1 server.  You can't use BLF to monitor an EU extension (beginning with 2), for example.
+
+----
+
+!!! info "Last Updated 2024-09-07"

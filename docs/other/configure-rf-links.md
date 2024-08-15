@@ -20,7 +20,7 @@ You will need to edit the `iax.conf` and `extensions.conf` files.
 
 In your `iax.conf` you will need to configure a stanza similar to this:
 
-```ini
+```ini title="iax.conf snippet"
 [stanza-must-match-username]
 username=<username-must-match-stanza> 
 type=friend
@@ -41,7 +41,7 @@ In your `extensions.conf` you need to configure a stanza similar to below.
 
 * ***Note***: you need to change the node numbers shown below to the node that you are having the connection dial into. So, if you configured a private node and if, for example, that node number is 1999, then you would use 1999 in place of 47374 below:
 
-```ini
+```ini title="extensions.conf snippet"
 [hoipphone]
 exten => 47374,1,answer()
 exten => 47374,n,Playback(rpt/node) 
@@ -56,17 +56,17 @@ exten => 47374,n,rpt(47374|P|${CALLSIGN})
 exten => 47374,n,rpt,47374|P
 ```
 
-***Please be sure you have an FQDN for your network.  If you don't know what an FQDN is, please google it.  NO IP ADDRESS WILL BE ACCEPTED, as they can change dynamically.***
+***Please be sure you have an Fully-qualified Domain Name (FQDN) for your network.  If you don't know what an FQDN is, please research it.  IP addresses will not be accepted as part of an IAX2 string, as they can change dynamically.***
 
 Please use an IAX client and test your credentials that you used for HOIP from outside of your network to ensure connectivity.
 
-### Connecting to Ham's Over IP
+### Connecting to Hams Over IP
 
 Once you have your node configured, you will need to request an ALLSTAR-Link Extension on the HOIP system through the HOIP ticketing system.
 
 * Go to [https://hamsoverip.com/](https://hamsoverip.com/) and click "Request a Line".
-* If you have an account, sign in and then select `Open a New Ticket`.
-* If you do not have an account, then just select `Open a New Ticket`.
+* If you have an account, sign in
+* Select `Open a New Ticket`.
 * Fill out the Contact Information Part of the Ticket.
 * Select the `ALLSTAR-Link Request` Help Topic.
 * Just note in the `Issue Summary` part that this is a request for a ALLSTAR-Link
@@ -79,4 +79,6 @@ Once you have your node configured, you will need to request an ALLSTAR-Link Ext
 
 Once your extension is provisioned, you will be emailed with your extension number (which will be the next sequential number in the list) to test and make sure that you can connect to your node.
 
-Last Updated: 2024-06-01 Dave M7TLB
+----
+
+!!! info "Last Updated 2024-06-01"

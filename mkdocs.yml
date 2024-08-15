@@ -6,6 +6,7 @@ repo_url: https://github.com/hamsoverip/wiki
 theme:
   name: 'material'
   features:
+    - content.code.copy
     - content.tooltips
   # features:
   #   - navigation.expand
@@ -109,7 +110,7 @@ nav:
           - OBi202: endpoints/hard_phones/OBi202.md
 
         - Polycom:
-          - Polycom VVX4xx Series: endpoints/hard_phones/PolycomVVX4xx.md
+          - Polycom VVX-4xx/5xx Series: endpoints/hard_phones/PolycomVVX4xx.md
 
         - Yealink:
           - Yealink T4 Series: endpoints/hard_phones/YealinkT4X.md
