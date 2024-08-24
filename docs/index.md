@@ -13,21 +13,27 @@ We are of course looking for contributions to this wiki to expand the use of the
 
 <div class="grid" markdown>
 
-!!! note "Wiki Maintainer: Jesse, WH6AV"
+!!! note "Wiki Maintenance"
 
-    Questions about the Wiki? There are multiple ways to ask them:
+    Questions about, or contributions/corrections to the Wiki?
 
-    - :fontawesome-brands-discord: [#wiki-chat](https://discord.com/channels/966060559961296956/975534734157443112) on our Discord server
-    - :fontawesome-brands-discord: Reach out via DM on Discord to Jesse, WH6AV (@WH6AV - Jesse - 3115069#2552)
-    - :material-email: [wh6av808(at)gmail(dot)com](mailto:wh6av808@gmail.com)
-    - :fontawesome-solid-square-phone: 100000 (leave a voicemail if no answer)
+    - [:fontawesome-brands-discord: #wiki-chat](https://discord.com/channels/966060559961296956/975534734157443112) on our Discord server
+    - **Jesse, WH6AV**  
+      :fontawesome-brands-discord: @wh6avjesse3115069  
+      :fontawesome-solid-square-phone: 100000 (leave a voicemail if no answer)
+    - **Dave, M7TLB**  
+      :fontawesome-brands-discord: @thelovebug  
+      :fontawesome-solid-square-phone: 200034 (leave a voicemail if no answer)
 
-!!! note "Website Maintainer: Jordan, K4AVG"
+!!! note "Website Maintenance"
 
-    Questions/Issues/Concerns about the Website:
+    Questions/concerns about, or suggestions for the Website?
 
-    * :fontawesome-brands-discord: Reach out Via DM on Discord to Jordan, K4AVG (@k4avg)
-    * :fontawesome-solid-square-phone: 100005
+    - [:material-help-box: Getting support](./General/user_guides/support.md) in the first instance  
+      Help Topic: Website Issues & Suggestions
+    - **Jordan, K4AVG**  
+      :fontawesome-brands-discord: @k4avg  
+      :fontawesome-solid-square-phone: 100005 (leave a voicemail if no answer)
 
 </div>
 
