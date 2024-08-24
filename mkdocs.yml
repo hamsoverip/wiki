@@ -82,7 +82,7 @@ nav:
     - Conference Bridges: other/conference-bridge-list.md
     - RF Links: other/rf-links-list.md
     - Audio Feeds: other/audio-feeds-list.md
-    - Test Phone Numbers: other/test-numbers.md (leave a voicemail if no answer)
+    - Test Phone Numbers: other/test-numbers.md
 
   - Linked VOIP Networks:
     - Calling the AmateurWire Network: General/other_systems/amateurwire.md
