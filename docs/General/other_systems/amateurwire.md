@@ -24,6 +24,6 @@ To call a Hams Over IP number from the AmateurWire network, the process is sligh
 
 ## AmateurWire Phonebook
 
-Don't know the number of the person you are trying to call on the AmateurWire Network? Look them up in the AmateurWire Phonebook at [AmateurWire Phonebook](https://amateurwire.org/?page_id=40).
+Don't know the number of the person you are trying to call on the AmateurWire Network? Look them up in the AmateurWire Phonebook at [AmateurWire Phonebook](https://amateurwire.org/?page_id=2529).
 
 Last Updated: 08/14/2024
