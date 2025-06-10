@@ -29,6 +29,8 @@ Next we need to create a file called ```46xxsettings.txt``` in the root of your 
     * ```SET DNSSRVR```: Set this to the IP Address of your router if you are not already running a local DNS server, like PI-Hole or BIND9 or something similiar.
     * ```SET TIMEZONE```: Set this to your timezone in TZDATA format (ex. ```America/New_York```)
     * OPTIONAL: ```SET DATEFORMAT```: Set this to the date format you prefer (ex. ```%m/%d/%y``` for 2 digit month/2 digit day/2 digit year)
+    * OPTIONAL: ```SET FORCE_SIP_USERNAME``` and ```SET FORCE_SIP_EXTENSION```: Set this to the extension you received.
+    * OPTIONAL: ```SET FORCE_SIP_PASSWORD```: Set this to the password you received.
   
 Next we need to reset the phone to clear out any existing extension information:
 
