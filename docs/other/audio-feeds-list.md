@@ -39,7 +39,8 @@ To request an audio feed, please go to the [Helpdesk](https://helpdesk.hamsoveri
 | 90020     | NEWS WEST NEWS                      | Jesse, WH6AV<br />Ext: 100000  |
 | 90021     | RADIO/AMATEUR OLD TIMERS CLUB       | Jesse, WH6AV<br />Ext: 100000  |
 | 90022     | PRIDE RADIO                         | Oliver, M7REI<br />Ext: 200283 |
+| 90023     | ABC RADIO AUSTRALIA (ENGLISH FEED)  | Matt, VK3VTV<br />Ext:  300175 |
 
 ---
 
-!!! info "Last updated 2024-08-23"
+!!! info "Last updated 2025-06-10"
