@@ -20,6 +20,6 @@ To call a Hams Over IP number from the Hawaii Mainland Overseas Allstar/Aredn Ne
 
 ## Hawaii Mainland Overseas Allstar/Aredn White Pages
 
-Don't know the number of the person you are trying to call on the Hawaii Mainland Overseas Allstar/Aredn Network? Look them up in the [HMASN/AREDN phonebook](http://wh6av.net:2580/phonebook/).
+Don't know the number of the person you are trying to call on the Hawaii Mainland Overseas Allstar/Aredn Network? Look them up in the [HMASN/AREDN phonebook](http://wh6av.net/phonebook/).
 
 Last Updated: 03/15/2023
