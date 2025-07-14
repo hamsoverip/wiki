@@ -4,7 +4,7 @@
 
 * From the [AmateurWire Website](https://amateurwire.org/)
 
-AmateurWire is a VOIP Telephone Network, much the same as the Hams Over IP Network. This network was concieved and is maintained by Roger, KE8LCM. 
+AmateurWire is a VOIP Telephone Network, much the same as the Hams Over IP Network. This network was concieved and is maintained by Roger, KE8LCM.
 
 Hams Over IP has a trunk line connected to the AmateurWire network, which allows users from both networks to call each other.
 
@@ -12,18 +12,18 @@ Questions about the AmateurWire Network can be directed to Roger, KE8LCM on Disc
 
 ## Calling a AmateurWire Number from Hams Over IP
 
-To call a AmateurWire number from the Hams Over IP network, dial ```910```followed by the AmateurWire extension of the user you wish to call. The system will automatically direct the call across the AmateurWire Trunk.
+To call a AmateurWire number from the Hams Over IP network, dial `910`followed by the AmateurWire extension of the user you wish to call. The system will automatically direct the call across the AmateurWire Trunk.
 
-* Try it: dial ```910200``` (Conference room 200). You should be dropped right into the conference room.
+* Try it: dial `910200` (Conference room 200). You should be dropped right into the conference room.
 
 ## Calling a Hams Over IP Number from AmateurWire
 
-To call a Hams Over IP number from the AmateurWire network, the process is slightly different. Dial ```304+HOIP extension``` of the user you wish to call and then hit dial.
+To call a Hams Over IP number from the AmateurWire network, the process is slightly different. Dial `304+HOIP extension` of the user you wish to call and then hit dial.
 
-* Try it: dial ```3043192``` (Talking Clock). You should hear the current date and time.
+* Try it: dial `3043192` (Talking Clock). You should hear the current date and time.
 
 ## AmateurWire Phonebook
 
 Don't know the number of the person you are trying to call on the AmateurWire Network? Look them up in the AmateurWire Phonebook at [AmateurWire Phonebook](https://amateurwire.org/?page_id=2529).
 
-Last Updated: 08/14/2024
+!!! info "Last updated 2024-08-14"

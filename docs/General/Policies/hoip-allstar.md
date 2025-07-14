@@ -48,4 +48,4 @@ If you have questions, comments or problems, please reach out to in one of the f
 - Discord:
 - Email:
 
-Last Updated: 07/11/2022
+!!! note "Last updated 2022-07-11"

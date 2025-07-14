@@ -8,6 +8,8 @@ theme:
   features:
     - content.code.copy
     - content.tooltips
+    - navigation.indexes
+
   # features:
   #   - navigation.expand
   font:
@@ -38,7 +40,7 @@ markdown_extensions:
       guess_lang: false
   #- def_list
   - md_in_html
-  - pymdownx.caret
+  - pymdownx.blocks.html
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
@@ -68,8 +70,8 @@ nav:
   - Frequently Asked Questions: General/user_guides/faq.md
 
   - Policies:
-    - Terms of Service: General/coming-soon.md
-    - User Agreement: General/coming-soon.md
+#    - Terms of Service: General/coming-soon.md
+#    - User Agreement: General/coming-soon.md
     - HOIP Allstar System Rules: General/Policies/hoip-allstar.md
   
   - General User Guides:
@@ -84,22 +86,30 @@ nav:
     - Audio Feeds: other/audio-feeds-list.md
     - Test Phone Numbers: other/test-numbers.md
 
-  - Linked VOIP Networks:
-    - Calling the AmateurWire Network: General/other_systems/amateurwire.md
-    - Calling the MeshPhone Network: General/other_systems/meshphone.md
-    - Calling the HMASN/AREDN Network: General/other_systems/hmasn-aredn.md
-    - Calling the Global World VOIP Network: General/other_systems/global-world.md
-    - Calling the Hams Over IP Canada Network: General/other_systems/hamsoverip-ca.md
+  - Linked VOIP Networks: 
+    - General/other_systems/index.md
+    - AmateurWire: General/other_systems/amateurwire.md
+    - Global World VOIP: General/other_systems/global-world.md
+    - Hams Over IP Canada: General/other_systems/hamsoverip-ca.md
+    - HMASN/AREDN: General/other_systems/hmasn-aredn.md
+    - MeshPhone: General/other_systems/meshphone.md
+    - NZSIP: General/other_systems/nzsip.md
 
-  - Audio Services: 
-    - Configure Audio Services: General/coming-soon.md
-    - DAPNET Paging Gateway: General/audio_services/dapnet_gateway.md
+#  - Audio Services: 
+#    - Configure Audio Services: General/coming-soon.md
+#    - DAPNET Paging Gateway: General/audio_services/dapnet_gateway.md
 
   - Configuration Guides:
 
+    - ./config_guides/index.md
+
     - Endpoints:
 
+      - endpoints/index.md
+
       - Hard Phones:
+
+        - endpoints/hard_phones/index.md
 
         - Avaya:
           - Avaya 96xx Series: endpoints/hard_phones/avaya96xx.md
@@ -110,7 +120,7 @@ nav:
           - Cisco 512G: endpoints/hard_phones/cisco512g.md
           - Cisco 525g: endpoints/hard_phones/Cisco525.md
 
-        - OBiTalk:
+        - OBiHai:
           - OBi202: endpoints/hard_phones/OBi202.md
 
         - Polycom:
@@ -120,11 +130,13 @@ nav:
           - Yealink T4 Series: endpoints/hard_phones/YealinkT4X.md
 
       - Soft Phones:
+        - endpoints/soft_phones/index.md
         - Groundwire: endpoints/soft_phones/groundwire.md
         - Jami: endpoints/soft_phones/jami.md
         - Zoiper: endpoints/soft_phones/zoiper.md
 
       - PBX Trunks:
+        - endpoints/pbx/index.md
 
         - Asterisk:
           - Configure Asterisk IAX Trunk: endpoints/pbx/asterisk/configure-iax-trunk.md
@@ -139,7 +151,7 @@ nav:
 
     - Other:
       - Configure an RF Link: other/configure-rf-links.md
-      - Configure Audio Services: General/coming-soon.md
+#      - Configure Audio Services: other/configure-audio-feed.md
       - Configure BLF on Cisco Phones: other/configure-blf.md
 
   - Files (Right Click and Select Save File As):

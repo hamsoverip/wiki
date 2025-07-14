@@ -52,7 +52,7 @@ This process is in place to make sure we have very good and complete documentati
 * Look though the Markdown Primer linked above.
 * Look at the Github repo (it's a public repo) for the HOIP Wiki to use documents as examples of how to proceed and how to structure your document [github.com/hamsoverip/wiki](https://github.com/hamsoverip/wiki).
 * If you have questions, ask. That is what the [:fontawesome-brands-discord: #wiki-chat](https://discord.com/channels/966060559961296956/975534734157443112) is for in Discord.
-* Please do not submit anything other then a Markdown Document. This will get your submission rejected right off the bat till it is in the correct format.
+* If you are submitting changes via a Pull Request, please do not submit anything other then a Markdown Document. This will get your submission rejected right off the bat till it is in the correct format.
 
 ## Tips and Tricks Learned about MKDocs
 

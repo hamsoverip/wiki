@@ -9,7 +9,5 @@ You are probably wondering where you can find us on the web. Well here are some 
 * Discord Server: [https://discord.gg/6VgdWw3vM4](https://discord.gg/6VgdWw3vM4)
 * Telegram: [https://t.me/hamsoverip](https://t.me/hamsoverip)
 * Matrix: [https://matrix.to/#/#hamsoverip:matrix.org](https://matrix.to/#/#hamsoverip:matrix.org)
-* Snapchat: [https://www.snapchat.com/add/hamsoverip?share_id=Zb3vtgDNUCU&locale=en-US](https://www.snapchat.com/add/hamsoverip?share_id=Zb3vtgDNUCU&locale=en-US)
-* Reddit: [https://www.reddit.com/r/hamsoverip/](https://www.reddit.com/r/hamsoverip/)
 
-Last Updated: 07/11/2022
+!!! note "Last updated 2025-07-14"

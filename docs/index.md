@@ -7,6 +7,8 @@
 !!! tip "Looking for support?"
     If you are looking for Support help, please check out the [Support Page](./General/user_guides/support.md)
 
+We welcome all officially-licensed Amateur Radio operators - regardless of location or nationality - to apply for an extension or trunk on this server.
+
 Within these pages you will find a wealth of information about the network and a place where you can find more information about how to operate on the network.
 
 We are of course looking for contributions to this wiki to expand the use of the system. To contribute, please make sure to look at the [Contributing Section](./wiki/overview.md) of the wiki on how to contribute.
@@ -39,4 +41,4 @@ We are of course looking for contributions to this wiki to expand the use of the
 
 ----
 
-!!! info "Last Updated 2024-07-09"
+!!! info "Last updated 2025-04-27 by Dave M7TLB"
