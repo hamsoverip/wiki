@@ -29,4 +29,4 @@ To call a Hams Over IP number from the MeshPhone network, dial 74, wait for a di
 
 Don't know the number of the person you are trying to call on the MeshPhone Network? Look them up in the MeshPhone White Pages at [http://ntwomh.ddns.net:5894/meshphone/whitepages.php](http://ntwomh.ddns.net:5894/meshphone/whitepages.php).
 
-Last Updated: 07/11/2022
+!!! info "Last updated 2022-07-11"
