@@ -13,7 +13,7 @@ This is a long document, so to the right side of this page is a Table of Content
 !!! note ""
     First you will need to get a phone. As long as your phone will allow or handle SIP, you are good to go.
 
-    Then check out our [Getting Started Guide](./getting-started.md) to start the process.
+    Then check out our [Getting Started Guide](./user/getting-started.md) to start the process.
 
     You can also look through the rest of the Wiki to get an idea on how to get started.
 
@@ -22,17 +22,17 @@ This is a long document, so to the right side of this page is a Table of Content
 !!! note ""
     You are already in the best place for getting more help! This Wiki. This is where alot of guides and information can be found about the service and things are added all the time.
 
-    Next place you can go is one of our [Chat Services](./chat-services.md). Our main form of communication is Discord, but some other chat services are bridged into it. 
+    Next place you can go is one of our [Chat Services](./user/chat-services.md). Our main form of communication is Discord, but some other chat services are bridged into it. 
 
 ### Can I contribute to the Wiki?
 
 !!! note ""
-    Absolutely! We encourage our user community to contribute to the Wiki to help expand the knowledge here. To see how, check out our [Getting Started Guide](./getting-started.md)
+    Absolutely! We encourage our user community to contribute to the Wiki to help expand the knowledge here. To see how, check out our [Getting Started Guide](./user/getting-started.md)
 
 ### What Feature Codes can I use on the system?
 
 !!! note ""
-    All Feature Codes can be found in the [Feature Codes Guide](../../endpoints/pbx/freepbx/feature-codes.md)
+    All Feature Codes can be found in the [Feature Codes Guide](../guides/pbx/freepbx/feature-codes.md)
 
 ----
 
@@ -61,7 +61,7 @@ This is a long document, so to the right side of this page is a Table of Content
     * Include your IP Address
         * One thing to note here, if you have a Dyanmic DNS Service like DuckDNS or No-IP or similiar, this can be used as well, and is actually prefered. That way we don;t have to keep updating your IP address. Do a search for Dynamic DNS Services online.
 
-    To get your IP address, please go to [https://pb.hamsoverip.com/diy](https://pb.hamsoverip.com/diy) and copy and paste the IP address that is shown there into the ticket. 
+    To get your IP address, please go to [https://helpdesk.hamsoverip.com/diy](https://helpdesk.hamsoverip.com/diy) and copy and paste the IP address that is shown there into the ticket. 
 
     This will allow the admins to make the adjustments needed and then they will get back to you about the fix being implemented.
 
@@ -104,9 +104,9 @@ This is a long document, so to the right side of this page is a Table of Content
 ### How do I configure X phone to work with HOIP?
 
 !!! note ""
-    Take a look through the Configuration Guides in the Wiki and see if your phone has a configuration guide. If not, you can ask on any of our [chat services](./chat-services.md) to see if someone has configured it.
+    Take a look through the Configuration Guides in the Wiki and see if your phone has a configuration guide. If not, you can ask on any of our [chat services](./user/chat-services.md) to see if someone has configured it.
 
-    If there is not a configuration guide, you are also welcome to contribute to the Wiki and add a guide for your phone. That would help out others. To see how to contribute, look at the [Contributing Guide](../../wiki/overview.md).
+    If there is not a configuration guide, you are also welcome to contribute to the Wiki and add a guide for your phone. That would help out others. To see how to contribute, look at the [Contributing Guide](../wiki/overview.md).
 
 ### I had to reprovision my phone or factory reset my phone and I cannot find/lost my credientals. What do I do?
 

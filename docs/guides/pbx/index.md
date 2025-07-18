@@ -1,4 +1,4 @@
-# PBXes
+# PBX Trunks
 
 We have the following Guides available now:
 
