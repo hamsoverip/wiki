@@ -67,92 +67,74 @@ nav:
 
   - Main Website: https://hamsoverip.com
 
-  - Frequently Asked Questions: General/user_guides/faq.md
+  - Frequently Asked Questions: guides/faq.md
+
+  - General User Guides:
+    - Getting Started: guides/user/getting-started.md
+    - Finding Help: guides/user/support.md
+    - Joining our Chat Servers: guides/user/chat-services.md
+    - Our Social Media: guides/user/social-media.md
+
+  - Configuration Guides:
+    - ./guides/index.md
+    - Endpoints:
+      - guides/endpoints/index.md
+      - Hard Phones:
+        - guides/endpoints/hardphones/index.md
+        - Avaya:
+          - Avaya 96xx Series: guides/endpoints/hardphones/avaya-96xx.md
+        - Cisco:
+          - Cisco 504G/514G: guides/endpoints/hardphones/cisco-504g.md
+          - Cisco 508G: guides/endpoints/hardphones/cisco-508g.md
+          - Cisco 512G: guides/endpoints/hardphones/cisco-512g.md
+          - Cisco 525g: guides/endpoints/hardphones/cisco-525g.md
+        - Grandstream:
+          - GXP162x: guides/endpoints/hardphones/grandstream-gxp162x.md
+        - OBiHai:
+          - OBi202: guides/endpoints/hardphones/obi-202.md
+        - Polycom:
+          - Polycom VVX-4xx/5xx Series: guides/endpoints/hardphones/polycom-vvx4xx.md
+        - Yealink:
+          - Yealink T4 Series: guides/endpoints/hardphones/yealink-t4x.md
+      - Soft Phones:
+        - guides/endpoints/softphones/index.md
+        - Groundwire: guides/endpoints/softphones/groundwire.md
+        - Jami: guides/endpoints/softphones/jami.md
+        - Zoiper: guides/endpoints/softphones/zoiper.md
+    - PBX Trunks:
+      - guides/pbx/index.md
+      - Asterisk:
+        - Configure Asterisk IAX Trunk: guides/pbx/asterisk/configure-iax-trunk.md
+      - FreePBX: 
+        - Configure FreePBX IAX Trunk: guides/pbx/freepbx/configure-iax-trunk.md
+        - Configure FreePBX SIP Trunk: guides/pbx/freepbx/configure-sip-trunk.md
+        - FreePBX/Asterisk Feature Codes: guides/pbx/freepbx/feature-codes.md
+      - 3CX PBX:
+        - Configure 3CX Trunk: guides/pbx/3cx/configure-3cx-trunk.md
+    - Other:
+      - Configure an RF Link: guides/features/configure-rf-links.md
+#      - Configure Audio Services: other/configure-audio-feed.md
+      - Configure BLF: guides/features/configure-blf.md
+
+  - HOIP Reference Lists:
+    - Conference Bridges: reference/conference-bridge-list.md
+    - RF Links: reference/rf-links-list.md
+    - Audio Feeds: reference/audio-feeds-list.md
+    - Test Phone Numbers: reference/test-numbers.md
+
+  - Linked VOIP Networks: 
+    - reference/linked/index.md
+    - AmateurWire: reference/linked/amateurwire.md
+    - Global World VOIP: reference/linked/global-world.md
+    - Hams Over IP Canada: reference/linked/hamsoverip-ca.md
+    - HMASN/AREDN: reference/linked/hmasn-aredn.md
+    - MeshPhone: reference/linked/meshphone.md
+    - NZSIP: reference/linked/nzsip.md
 
   - Policies:
 #    - Terms of Service: General/coming-soon.md
 #    - User Agreement: General/coming-soon.md
-    - HOIP Allstar System Rules: General/Policies/hoip-allstar.md
-  
-  - General User Guides:
-    - Getting Started: General/user_guides/getting-started.md
-    - Finding Help: General/user_guides/support.md
-    - Joining our Chat Servers: General/user_guides/chat-services.md
-    - Our Social Media: General/user_guides/social-media.md
-  
-  - HOIP Reference Lists:
-    - Conference Bridges: other/conference-bridge-list.md
-    - RF Links: other/rf-links-list.md
-    - Audio Feeds: other/audio-feeds-list.md
-    - Test Phone Numbers: other/test-numbers.md
-
-  - Linked VOIP Networks: 
-    - General/other_systems/index.md
-    - AmateurWire: General/other_systems/amateurwire.md
-    - Global World VOIP: General/other_systems/global-world.md
-    - Hams Over IP Canada: General/other_systems/hamsoverip-ca.md
-    - HMASN/AREDN: General/other_systems/hmasn-aredn.md
-    - MeshPhone: General/other_systems/meshphone.md
-    - NZSIP: General/other_systems/nzsip.md
-
-#  - Audio Services: 
-#    - Configure Audio Services: General/coming-soon.md
-#    - DAPNET Paging Gateway: General/audio_services/dapnet_gateway.md
-
-  - Configuration Guides:
-
-    - ./config_guides/index.md
-
-    - Endpoints:
-
-      - endpoints/index.md
-
-      - Hard Phones:
-
-        - endpoints/hard_phones/index.md
-
-        - Avaya:
-          - Avaya 96xx Series: endpoints/hard_phones/avaya96xx.md
-
-        - Cisco:
-          - Cisco 504G/514G: endpoints/hard_phones/cisco504g.md
-          - Cisco 508G: endpoints/hard_phones/cisco508g.md
-          - Cisco 512G: endpoints/hard_phones/cisco512g.md
-          - Cisco 525g: endpoints/hard_phones/Cisco525.md
-
-        - OBiHai:
-          - OBi202: endpoints/hard_phones/OBi202.md
-
-        - Polycom:
-          - Polycom VVX-4xx/5xx Series: endpoints/hard_phones/PolycomVVX4xx.md
-
-        - Yealink:
-          - Yealink T4 Series: endpoints/hard_phones/YealinkT4X.md
-
-      - Soft Phones:
-        - endpoints/soft_phones/index.md
-        - Groundwire: endpoints/soft_phones/groundwire.md
-        - Jami: endpoints/soft_phones/jami.md
-        - Zoiper: endpoints/soft_phones/zoiper.md
-
-      - PBX Trunks:
-        - endpoints/pbx/index.md
-
-        - Asterisk:
-          - Configure Asterisk IAX Trunk: endpoints/pbx/asterisk/configure-iax-trunk.md
-
-        - FreePBX: 
-          - Configure FreePBX IAX Trunk: endpoints/pbx/freepbx/configure-iax-trunk.md
-          - Configure FreePBX SIP Trunk: endpoints/pbx/freepbx/configure-sip-trunk.md
-          - FreePBX/Asterisk Feature Codes: endpoints/pbx/freepbx/feature-codes.md
-
-        - 3CX PBX:
-          - Configure 3CX Trunk: endpoints/pbx/3cx/configure-3cx-trunk.md
-
-    - Other:
-      - Configure an RF Link: other/configure-rf-links.md
-#      - Configure Audio Services: other/configure-audio-feed.md
-      - Configure BLF on Cisco Phones: other/configure-blf.md
+    - HOIP Allstar System Rules: policies/hoip-allstar.md
 
   - Files (Right Click and Select Save File As):
     - Side Car Template: files/SideCar_Template_A4.xls
@@ -162,7 +144,7 @@ nav:
     - Overview of the Wiki: wiki/overview.md
     - How to Contribute: wiki/contributing.md
 
-  - Changelog: General/changelog.md
+  - Changelog: wiki/changelog.md
 
 
 extra:
@@ -177,8 +159,55 @@ extra:
       link: 'https://mastodon.radio/@hamsoverip'
     - icon: 'fontawesome/brands/facebook'
       link: 'https://www.facebook.com/hamsoverip'
-    - icon: 'fontawesome/brands/snapchat'
-      link: 'https://www.snapchat.com/add/hamsoverip?share_id=Zb3vtgDNUCU&locale=en-US'  
-    - icon: 'fontawesome/brands/reddit'
-      link: 'https://www.reddit.com/r/hamsoverip/'      
 
+
+plugins: 
+  - redirects:
+      redirect_maps:
+        "endpoints/index.md": "guides/endpoints/index.md"
+        "endpoints/hard_phones/YealinkT4X.md": "guides/endpoints/hardphones/yealink-t4x.md"
+        "endpoints/hard_phones/cisco504g.md": "guides/endpoints/hardphones/cisco-504g.md"
+        "endpoints/hard_phones/Cisco525.md": "guides/endpoints/hardphones/cisco-525g.md"
+        "endpoints/hard_phones/index.md": "guides/endpoints/hardphones/index.md"
+        "endpoints/hard_phones/OBi202.md": "guides/endpoints/hardphones/obi-202.md"
+        "endpoints/hard_phones/avaya96xx.md": "guides/endpoints/hardphones/avaya-96xx.md"
+        "endpoints/hard_phones/PolycomVVX4xx.md": "guides/endpoints/hardphones/polycom-vvx4xx.md"
+        "endpoints/hard_phones/cisco512g.md": "guides/endpoints/hardphones/cisco-512g.md"
+        "endpoints/hard_phones/cisco508g.md": "guides/endpoints/hardphones/cisco-508g.md"
+        "endpoints/soft_phones/jami.md": "guides/endpoints/softphones/jami.md"
+        "endpoints/soft_phones/groundwire.md": "guides/endpoints/softphones/groundwire.md"
+        "endpoints/soft_phones/index.md": "guides/endpoints/softphones/index.md"
+        "endpoints/soft_phones/microsip.md": "guides/endpoints/softphones/microsip.md"
+        "endpoints/soft_phones/zoiper.md": "guides/endpoints/softphones/zoiper.md"
+        "endpoints/pbx/index.md": "guides/pbx/index.md"
+        "endpoints/pbx/3cx/configure-3cx-trunk.md": "guides/pbx/3cx/configure-3cx-trunk.md"
+        "endpoints/pbx/asterisk/configure-iax-trunk.md": "guides/pbx/asterisk/configure-iax-trunk.md"
+        "endpoints/pbx/freepbx/configure-iax-trunk.md": "guides/pbx/freepbx/configure-iax-trunk.md"
+        "endpoints/pbx/freepbx/configure-sip-trunk.md": "guides/pbx/freepbx/configure-sip-trunk.md"
+        "endpoints/pbx/freepbx/feature-codes.md": "guides/pbx/freepbx/feature-codes.md"
+
+        "General/user_guides/faq.md": "guides/faq.md"
+        "General/user_guides/getting-started.md": "guides/user/getting-started.md"
+        "General/user_guides/support.md": "guides/user/support.md"
+        "General/user_guides/chat-services.md": "guides/user/chat-services.md"
+        "General/user_guides/social-media.md": "guides/user/social-media.md"
+
+        "other/conference-bridge-list.md": "reference/conference-bridge-list.md"
+        "other/rf-links-list.md": "reference/rf-links-list.md"
+        "other/audio-feeds-list.md": "reference/audio-feeds-list.md"
+        "other/test-numbers.md": "reference/test-numbers.md"
+
+        "other/configure-rf-links.md": "guides/features/configure-rf-links.md"
+        "other/configure-blf.md": "guides/features/configure-blf.md"
+        
+        "General/other_systems/index.md": "reference/linked/index.md"
+        "General/other_systems/amateurwire.md": "reference/linked/amateurwire.md"
+        "General/other_systems/global-world.md": "reference/linked/global-world.md"
+        "General/other_systems/hamsoverip-ca.md": "reference/linked/hamsoverip-ca.md"
+        "General/other_systems/hmasn-aredn.md": "reference/linked/hmasn-aredn.md"
+        "General/other_systems/meshphone.md": "reference/linked/meshphone.md"
+        "General/other_systems/nzsip.md": "reference/linked/nzsip.md"
+
+        "General/Policies/hoip-allstar.md": "policies/hoip-allstar.md"
+
+        "General/changelog.md": "wiki/changelog.md"

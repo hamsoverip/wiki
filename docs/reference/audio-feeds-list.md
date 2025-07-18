@@ -2,7 +2,7 @@
 
 Here is a list of the audio feeds hosted from the HOIP network. This is a reference list for users to see what audio feeds are there, a description about them and who the contact person is in case there are questions or concerns.
 
-To request an audio feed, please go to the [Helpdesk](https://helpdesk.hamsoverip.com/osticket/) and sign in or create new account.  Then, open a New Ticket with the Help Topic of "Audio Feed Request" and complete the details as requested.
+To request an Audio Feed, please go to the [Helpdesk](https://helpdesk.hamsoverip.com/osticket/) and sign in or create new account.  Then, open a New Ticket with the Help Topic of "Audio Feed Request" and complete the details as requested.
 
 ??? note "Audio Feed Owners/Admins: We need your help in keeping this list up to date"
 

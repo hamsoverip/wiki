@@ -2,7 +2,7 @@
 
 Here is a list of the RF-Links hosted on the HOIP network. This is a reference list for users to see what links all are there, a description about them and who the contact person is in case there are questions or concerns.
 
-To request a bridge, please go to the [Helpdesk](https://helpdesk.hamsoverip.com/osticket/) and sign in or create new account.  Then, open a New Ticket with the Help Topic of "ALLSTARLINK REQUEST" and complete the details as requested.
+To request an RF Link, please go to the [Helpdesk](https://helpdesk.hamsoverip.com/osticket/) and sign in or create new account.  Then, open a New Ticket with the Help Topic of "ALLSTARLINK REQUEST" and complete the details as requested.
 
 ??? note "Link Owners/Admins: We need your help in keeping this list up to date"
 

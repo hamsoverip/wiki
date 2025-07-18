@@ -5,7 +5,7 @@
 ## Welcome to the wiki for the Hams Over IP VOIP Network
 
 !!! tip "Looking for support?"
-    If you are looking for Support help, please check out the [Support Page](./General/user_guides/support.md)
+    If you are looking for Support help, please check out the [Support Page](./guides/user/support.md)
 
 We welcome all officially-licensed Amateur Radio operators - regardless of location or nationality - to apply for an extension or trunk on this server.
 
@@ -31,7 +31,7 @@ We are of course looking for contributions to this wiki to expand the use of the
 
     Questions/concerns about, or suggestions for the Website?
 
-    - [:material-help-box: Getting support](./General/user_guides/support.md) in the first instance  
+    - [:material-help-box: Getting support](./guides/user/support.md) in the first instance  
       Help Topic: Website Issues & Suggestions
     - **Jordan, K4AVG**  
       :fontawesome-brands-discord: @k4avg  

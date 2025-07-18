@@ -16,7 +16,7 @@ To call a Hams Over IP number from the NZSIP network, the process is slightly di
 
 * Try it: dial `57715001` to dial into the East Coast Reflector.
 
-## DVNZ Phonebook
+## NZSIP Phonebook
 
 Don't know the number of the person you are trying to call on the NZSIP network? Look them up in the [NZSIP Phonebook](https://nzsip.nz/).
 
