@@ -1,6 +1,18 @@
-# Grandstream GXP1620/25
+# Grandstream GXP16xx-series
 
-Grandstream GXP1620/25 on the HOIP network, how I got it to work.
+Grandstream GXP16xx-series on the HOIP network, how I got it to work.  These instructions are based on the GXP1620, however the GXP16xx-series uses the same underlying firmware so the web interface should look the same, except for where the featureset differs.
+
+??? info "Here's a table of the differences between the features across the GXP16xx-series"
+
+    | Feature                    | GXP1610 | GXP1615 | GXP1620 | GXP1625 |   GXP1628   |   GXP1630   |
+    | -------------------------- | :-----: | :-----: | :-----: | :-----: | :---------: | :---------: |
+    | SIP Accounts               | 1       | 1       | 2       | 2       | 2           | 3           |
+    | Line Keys                  | 2       | 2       | 2       | 2       | 2           | 3           |
+    | Display Backlight          | No      | No      | Yes     | Yes     | Yes         | Yes         |
+    | Network Ports Speed (Mbps) | 10/100  | 10/100  | 10/100  | 10/100  | 10/100/1000 | 10/100/1000 |
+    | Integrated PoE             | No      | Yes     | No      | Yes     | Yes         | Yes         |
+    | BLF/Speed Dial Keys        | None    | None    | None    | None    | 8           | 8           |
+    | HD Audio                   | No      | No      | Yes     | Yes     | Yes         | Yes         |
 
 So, you found this voip phone on a garage sale, or could pick one up for free since no one needs it? Thought it might work on the HOIP network? The good news, it works. The bad news, it takes some effort.
 
@@ -11,7 +23,7 @@ So, you found this voip phone on a garage sale, or could pick one up for free si
 3. This phone must have the power adapter. It does not support Power Over Ethernet.
 4. Make sure you have the admin password to log on the user interface. You can reset it to factory settings using the softbuttons.
 5. If you have a home router:
-    1. Find the mac address of the phone, sticker on the bottom
+    1. Find the mac address of the phone, sticker on the bottom.
     2. Find the ip address on the phone display, use the “More” softbutton. The ip address is shown on the display (for example 192.168.1.150).
     3. On your router assign a fixed ip address to the mac address of your phone.
     4. On the phone, do not set a static ip address, but keep it on DHCP (default settings). I'll show you how later.
@@ -76,7 +88,7 @@ Your phone's battery might be worn, and you may need to restore the saved config
 
 _Before_ you call the admins for help
 
-1. The admins will ask for your public ip address to diagnose the issue. You can find it at may websites, for example [helpdesk.hamsoverip.com/diy](https://helpdesk.hamsoverip.com/diy/)
+1. The admins will ask for your public ip address to diagnose the issue. You can find it at [helpdesk.hamsoverip.com/diy](https://helpdesk.hamsoverip.com/diy/)
 2. Make screenshots of the phone's settings webpages and have them handy to send them.
 3. You can file a help ticket or ask in the “Support” channel of the HOIP discord server. Usually, they will respond in a few hours.
 4. Note: this phone can be tweaked to one's heart desire, like even the frequency of the dialtone. However, it also means you can easy screw things up and it can be a painful task to test all dozens of settings.

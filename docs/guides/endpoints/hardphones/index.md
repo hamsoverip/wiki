@@ -15,7 +15,7 @@ We have the following Guides available now:
 
 ## Grandstream
 
-* [GXP162x](./grandstream-gxp162x.md)
+* [GXP162x](./grandstream-gxp16xx.md)
 
 ## Obihai
 
