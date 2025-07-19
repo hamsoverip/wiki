@@ -1,3 +1,7 @@
+---
+icon: material/frequently-asked-questions
+---
+
 # Frequently Asked Questions
 
 This document is a place to put some of the more Frequently Asked Questions of the service that are quick, short answers. If an answer requires more indepth steps, a guide will be created and linked to from this document.

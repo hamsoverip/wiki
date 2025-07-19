@@ -64,8 +64,7 @@ markdown_extensions:
 
 nav:
   - Welcome!: index.md
-
-  - Main Website: https://hamsoverip.com
+#  - Latest News: news.md
 
   - Frequently Asked Questions: guides/faq.md
 
@@ -145,6 +144,8 @@ nav:
     - How to Contribute: wiki/contributing.md
 
   - Changelog: wiki/changelog.md
+
+  - ⬅️ Hams Over IP Website: https://hamsoverip.com
 
 
 extra:
