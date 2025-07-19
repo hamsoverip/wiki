@@ -1,3 +1,7 @@
+---
+icon: material/home
+---
+
 # Hams Over IP Wiki
 
 !["HamsOverIP logo"](https://hamsoverip.com/static/media/banner.fd512c01e82a6f4ed378.webp)
