@@ -53,8 +53,9 @@ This should show your IP Address in the format of xxx.xxx.xxx.xxx (EX: 192.168.0
 ## Step 2 - Logging in to the Phone Web User Interface
 
 1. On your PC, open a Web browser window. (Note: Your PC must be on the same network as the phone.)
-2. Enter the IP address in the browser address bar.  
+2. Enter the IP address in the browser address bar.
    This is the IP address you obtained above
+   ***note: if the IP address does not resolve, use https://xxx.xxx.xxx.xxx, if that does not resolve, use http://xxx.xxx.xxx.xxx. Some web portals will not resolve without https/http being defined in the ip address.
 
 You will now see this screen (see picture):
 
@@ -167,4 +168,4 @@ Now with Steps 3 thru 5 provisioned/configured, reboot the phone to bind the cha
 
 ---
 
-!!! info "Written 2022-08-28 by Mark KI5CYA, last updated 2024-08-13 by Dave M7TLB"
+!!! info "Written 2022-08-28 by Mark KI5CYA, last updated 2024-08-13 by Dave M7TLB, note added 2025-07-19 by Jake W4EWO"
