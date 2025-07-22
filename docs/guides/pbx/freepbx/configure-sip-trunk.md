@@ -5,7 +5,7 @@
 
 ----
 
-The Hams Over IP service offers the ability to connect your home FreePBX PBX System to our system. This allows you to use any number of phones on your extension, control your own voicemail and many other things. In many ways, it's easier to run your own PBX then it is to try to connect multiple phones to our system. The more people who can use a their own PBX is the less number of phones trying to register to our network and helps keep resources free.
+The Hams Over IP service offers the ability to connect your home FreePBX PBX System to our system. This allows you to use any number of phones on your extension, control your own voicemail and many other things. In many ways, it's easier to run your own PBX than it is to try to connect multiple phones to our system. The more people who can use a their own PBX is the less number of phones trying to register to our network and helps keep resources free.
 
 It does take a bit of work to get your own PBX configured and setup, but it in the end, the rewards are nice.
 
