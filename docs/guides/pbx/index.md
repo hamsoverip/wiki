@@ -5,17 +5,19 @@ We have the following Guides available now:
 ## Asterisk
 
 * [IAX Trunk](./asterisk/configure-iax-trunk.md)
-* [Feature Codes](./freepbx/feature-codes.md)
 
 ## FreePBX
 
 * [IAX Trunk](./freepbx/configure-iax-trunk.md)
 * [SIP Trunk](./freepbx/configure-sip-trunk.md)
-* [Feature Codes](./freepbx/feature-codes.md)
 
 ## 3CX
 
 * [SIP Trunk](./3cx/configure-3cx-trunk.md)
+
+## Feature Codes
+
+* [PBX Feature Codes](../features/pbx-feature-codes.md)
 
 ---
 

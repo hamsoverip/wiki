@@ -9,38 +9,32 @@ To request an Audio Feed, please go to the [Helpdesk](https://helpdesk.hamsoveri
     You have 2 options:
 
     1. Contribute to this page by doing a Pull Request in Github. Go to the [Contributing Guide](../wiki/contributing.md) to see how.
-    2. Submit the following information via the [:fontawesome-brands-discord:#wiki-chat](https://discord.com/channels/966060559961296956/975534734157443112) channel in Discord, in the following format:
+    2. Submit the following information via the [:fontawesome-brands-discord :#wiki-chat](https://discord.com/channels/966060559961296956/975534734157443112) channel in Discord, in the following format:
         - Audio Feed extension number
         - Audio Feed name
         - Owner Contact Information (Please include Name, Callsign, HOIP Extension and email address)
 
 ## Audio Feeds
 
-| Extension | Name                                | Owner Contact                  |
-| :-------: | ----------------------------------- | ------------------------------ |
-| 90001     | VARIOUS AUDIO FEEDS                 | Jesse, WH6AV<br />Ext: 100000  |
-| 90002     | NEWSLINE CENTER                     | Steve, K4KSA<br />Ext: 100001  |
-| 90003     | VARIOUS AUDIO FEEDS                 | Travis, W4TII<br />Ext: 100189 |
-| 90005     | REGGAE1                             | Jesse, WH6AV<br />Ext: 100000  |
-| 90006     | TOP 80'S                            | Jesse, WH6AV<br />Ext: 100000  |
-| 90007     | MOTOWN                              | Jesse, WH6AV<br />Ext: 100000  |
-| 90008     | EASY HITS FLORIDA                   | Jesse, WH6AV<br />Ext: 100000  |
-| 90009     | TOP 80'S 3                          | Jesse, WH6AV<br />Ext: 100000  |
-| 90010     | OLDIES                              | Jesse, WH6AV<br />Ext: 100000  |
-| 90011     | AMATEUR RADIO NEWSLINE              | Jesse, WH6AV<br />Ext: 100000  |
-| 90012     | ARRL NEWSLINE                       | Jesse, WH6AV<br />Ext: 100000  |
-| 90013     | RAIN REPORT                         | Jesse, WH6AV<br />Ext: 100000  |
-| 90014     | NZART NEWS                          | Jesse, WH6AV<br />Ext: 100000  |
-| 90015     | QUEENSLAND NEWS                     | Jesse, WH6AV<br />Ext: 100000  |
-| 90016     | RADIO SOCIETY GREAT BRITAIN NEWS    | Jesse, WH6AV<br />Ext: 100000  |
-| 90017     | VK5 NEWS                            | Jesse, WH6AV<br />Ext: 100000  |
-| 90018     | VK7 NEWS                            | Jesse, WH6AV<br />Ext: 100000  |
-| 90019     | VK1 WIA NEWS                        | Jesse, WH6AV<br />Ext: 100000  |
-| 90020     | NEWS WEST NEWS                      | Jesse, WH6AV<br />Ext: 100000  |
-| 90021     | RADIO/AMATEUR OLD TIMERS CLUB       | Jesse, WH6AV<br />Ext: 100000  |
-| 90022     | PRIDE RADIO                         | Oliver, M7REI<br />Ext: 200283 |
-| 90023     | ABC RADIO AUSTRALIA (ENGLISH FEED)  | Matt, VK3VTV<br />Ext:  300175 |
+| Extension | Name                                | Owner Contact | &nbsp;                                  |
+| :-------: | ----------------------------------- | ------------- | --------------------------------------- |
+| **90002** | NEWSLINE CENTER                     | Steve, K4KSA  | :fontawesome-solid-square-phone: 100001 |
+| **90003** | VARIOUS AUDIO FEEDS                 | Travis, W4TII | :fontawesome-solid-square-phone: 100189 |
+| **90004** | REGGAE 1                            | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 |
+| **90005** | REGGAE 2                            | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 |
+| **90006** | TOP 80's 2                          | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 |
+| **90007** | MOTOWN                              | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 |
+| **90008** | EASY LISTENING                      | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 |
+| **90009** | TOP 80's                            | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 |
+| **90010** | BLUES                               | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 |
+| **90021** | HAWAII LOCAL HITS                   | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 |
+| **90022** | PRIDE RADIO                         | Oliver, M7REI | :fontawesome-solid-square-phone: 200283 |
+| **90023** | ABC RADIO AUSTRALIA (ENGLISH FEED)  | Matt, VK3VTV  | :fontawesome-solid-square-phone: 300175 |
+| **90024** | SMOOTH JAZZ                         | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 |
+| **90025** | TOLEDO, OH POLICE DISPATCH          | Scott, N1OF   | :fontawesome-solid-square-phone: 101566 |
+| **90026** | LINUX IN THE HAM SHACK              | Russ, K5TUX   | :fontawesome-solid-square-phone: 100200 |
+| **90027** | TRI-COUNTY SCANNER                  | John, N2YP    | :fontawesome-solid-square-phone: 101843 |
 
 ---
 
-!!! info "Last updated 2025-06-10"
+!!! info "Last updated 2025-07-22 Dave M7TLB"
