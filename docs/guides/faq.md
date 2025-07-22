@@ -36,7 +36,7 @@ This is a long document, so to the right side of this page is a Table of Content
 ### What Feature Codes can I use on the system?
 
 !!! note ""
-    All Feature Codes can be found in the [Feature Codes Guide](../guides/pbx/freepbx/feature-codes.md)
+    All Feature Codes can be found in the [Feature Codes Guide](../guides/features/pbx-feature-codes.md)
 
 ----
 

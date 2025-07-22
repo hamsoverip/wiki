@@ -1,11 +1,5 @@
 # HOIP ALLSTAR Linking
 
-HOIP allows extensions to be tied to an ALLSTAR connection to allow others to dial in and use the ALLSTAR link.
-
-Note that this does not enable Autopatch from the ALLSTAR connection. This is a one way connection from HOIP to your ALLSTAR system, basically a reverse autopatch if you will.
-
-All ALLSTAR-Link Extensions will be in the format of `15XXX`, `25XXX` or `35000`.
-
 ## Creating an ALLSTAR Connection
 
 To create a connection , you first need to have a properly configured AllStar Node. Asterisk is needed to connect to the HOIP system as the HOIP system is based on Asterisk (FreePBX is the GUI front End to Asterisk) as well. There is plenty of documentation online on configuring an Allstar Node, so that is outside the scope of this document.
