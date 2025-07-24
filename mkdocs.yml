@@ -122,8 +122,9 @@ nav:
 #      - Configure Audio Services: other/configure-audio-feed.md
     - Features:
       - guides/features/index.md
+      - Busy Lamp Field (BLF): guides/features/blf.md
+      - Lightweight Directory Access Protocol (LDAP): guides/features/ldap.md
       - Conference Menu Codes: guides/features/conference-menu-codes.md
-      - Configure BLF: guides/features/configure-blf.md
       - PBX Features Codes: guides/features/pbx-feature-codes.md
 
   - Reference Lists:
@@ -217,7 +218,8 @@ plugins:
 
         "other/configure-rf-links.md": "guides/rf-links/configure-rf-links.md"
         "guides/features/configure-rf-links.md": "guides/rf-links/configure-rf-links.md"
-        "other/configure-blf.md": "guides/features/configure-blf.md"
+        "other/configure-blf.md": "guides/features/blf.md"
+        "guides/features/configure-blf.md": "guides/features/blf.md"
         
         "General/other_systems/index.md": "reference/linked/index.md"
         "General/other_systems/amateurwire.md": "reference/linked/amateurwire.md"

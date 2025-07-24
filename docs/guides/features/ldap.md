@@ -1,3 +1,7 @@
+---
+status: new
+---
+
 # Lightweight Directory Access Protocol (LDAP)
 
 Hams Over IP now supports a phone-based directory of HOIP users using LDAP which a large number of phones can support.  Whilst the implementation and usage of this directory differs between devices - sometimes significantly - the information needed to implement it is the same.  We've included phone-specific instructions below, but also the basic information so that you can set this up on a phone we haven't mentioned.
@@ -118,7 +122,7 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
 
 ## Fanvil
 
-??? abstract "Fanvil X210V2"
+??? abstract "Fanvil X210-V2"
 
     Settings are located in the web interface, in the Phonebook section, in the Cloud phonebook tab.
 
@@ -146,7 +150,7 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
 
     Leave all other fields blank.
 
-    ![Image of a Fanvil X210V2 web interface, showing LDAP settings](./images/ldap-fanvil-x210v2.png "Image of a Fanvil X210V2 web interface, showing LDAP settings")
+    ![Image of a Fanvil X210-V2 web interface, showing LDAP settings](./images/ldap-fanvil-x210v2.png "Image of a Fanvil X210-V2 web interface, showing LDAP settings")
 
     **How to search**
 
@@ -228,3 +232,7 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
     6. Type in partial callsign or name.
 
     !!! note "Last updated 2025-07-23 Jesse WH6AV"
+
+---
+
+This is by no means an exhaustive list... you can help us by [contributing](../../wiki/contributing.md) a Guide where one doesn't already exist.

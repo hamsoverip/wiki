@@ -39,6 +39,8 @@ This Guide describes how to configure the feature on specific phones.  We will a
     fnc=sd+blf;ext=1234@$PROXY;sub=1234@$PROXY;nme=Joe, WA1ABC;vid=2
     ```
 
+    !!! info "Last Updated 2025-07-17 Dave M7TLB"
+
 ----
 
-!!! info "Last Updated 2025-07-17 Dave M7TLB"
+This is by no means an exhaustive list... you can help us by [contributing](../../wiki/contributing.md) a Guide where one doesn't already exist.
