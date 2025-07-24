@@ -2,8 +2,6 @@
 
 Hams Over IP now supports a phone-based directory of HOIP users using LDAP which a large number of phones can support.  Whilst the implementation and usage of this directory differs between devices - sometimes significantly - the information needed to implement it is the same.  We've included phone-specific instructions below, but also the basic information so that you can set this up on a phone we haven't mentioned.
 
-## Basic LDAP details
-
 ??? info "Basic LDAP details"
 
     Some of these are specific to certain kinds of devices
@@ -37,6 +35,34 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
     ```
 
 ## Cisco
+
+??? abstract "Cisco SPA50n/51n"
+
+    **Instructions**
+
+    For the Cisco 50n and 51n phones, the following steps apply for setting up the LDAP on Hams Over IP.
+
+    1. Log in to the dashboard of your phone by using the phone's IP address.
+    2. Click on **Admin**, then on **Advanced**.
+    3. Once on **Advanced**, click the **Phone** option.
+    4. When in the **Phone** option, scroll down to **LDAP Corporate Directory Search**.
+    5. Enter the following as shown here:
+
+        - **LDAP Dir Enable** select Yes
+        - **LDAP Server** is `ldap.hamsoverip.com`
+        - In **LDAP Search Base**, enter the following: `ou=people,dc=hamsoverip,dc=com`
+        - In **LDAP Display Atts**, enter: `a=sn,a=cn,t=p;a=telephoneNumber`
+        - In **LDAP Last Name Filter**, enter: `cn:(cn=$VALUE*)`
+        - Under **LDAP Corp Dir Name**, enter `HOIP`
+        - Under **LDAP Auth Method**, pick Simple
+        - Under **LDAP First Name Filter** is: `cn`
+
+    6. After entering all the information as shown here, click on [Submit All Changes].
+    7. That's it, you are done.
+
+    ![Image of a Cisco SPA504 web interface, showing LDAP settings](./images/ldap-cisco-504g.png "Image of a Cisco SPA504 web interface, showing LDAP settings")
+
+    !!! note "Last updated 2025-07-24 Mike KF4BOG"
 
 ??? abstract "Cisco SPA525G/G2"
 
@@ -175,7 +201,7 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
     ```text
     LDAP LABEL:                     HOIP
     LDAP NAME FILTER:               (|(cn=%)(sn=%))
-    LDAP NUMBER FILTER:              (|(telephoneNumber=%)
+    LDAP NUMBER FILTER:             (|(telephoneNumber=%))
     LDAP TLS MODE:                  LDAP
     SERVER ADDRESS:                 207.246.98.219
     PORT:                           389
@@ -194,7 +220,7 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
 
     **How to configure LDAP directory on Yaelink phone**
     
-    1. Log into phone with IP ADDRESS and clicjk on DIRECTORY TAB.
+    1. Log into phone with IP ADDRESS and click on DIRECTORY TAB.
     2. Click on LDAP on left siide then select ENABLED from DROP DOWN of ENABLE LDAP.
     3. Fill in and select parameters from above list where appropriate.
     4. Click on CONFIRM.
