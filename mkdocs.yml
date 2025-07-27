@@ -90,10 +90,12 @@ nav:
           - Cisco 508G: guides/endpoints/hardphones/cisco-508g.md
           - Cisco 512G: guides/endpoints/hardphones/cisco-512g.md
           - Cisco 525g: guides/endpoints/hardphones/cisco-525g.md
+          - Cisco Linksys SPA942: guides/endpoints/hardphones/cisco-linksys-spa942.md
         - Grandstream:
           - GXP16xx Series: guides/endpoints/hardphones/grandstream-gxp16xx.md
+          - HT802 v2 ATA: guides/endpoints/hardphones/grandstream-ht802v2.md
         - OBiHai:
-          - OBi202: guides/endpoints/hardphones/obi-202.md
+          - OBi202 ATA: guides/endpoints/hardphones/obi-202.md
         - Polycom:
           - Polycom VVX-4xx/5xx Series: guides/endpoints/hardphones/polycom-vvx4xx.md
         - Yealink:
@@ -161,7 +163,7 @@ nav:
     - How to Contribute: wiki/contributing.md
     - Changelog: wiki/changelog.md
 
-  - ⬅️ Hams Over IP Website: https://hamsoverip.com
+  - Hams Over IP Website: https://hamsoverip.com
 
 
 extra:
