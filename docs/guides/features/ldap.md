@@ -4,6 +4,8 @@ status: new
 
 # Lightweight Directory Access Protocol (LDAP)
 
+!!! success "You can now get to this page using a shorter URL: [hamsoverip.github.io/ldap](https://hamsoverip.github.io/ldap)"
+
 Hams Over IP now supports a phone-based directory of HOIP users using LDAP which a large number of phones can support.  Whilst the implementation and usage of this directory differs between devices - sometimes significantly - the information needed to implement it is the same.  We've included phone-specific instructions below, but also the basic information so that you can set this up on a phone we haven't mentioned.
 
 ??? info "Basic LDAP details"
@@ -79,15 +81,15 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
     Corp Dir Name:          HOIP (you can choose your own value for this)
     Server:                 ldap.hamsoverip.com:389
     Search Base:            ou=people,dc=hamsoverip,dc=com
-    Auth Type:              None
+    Auth Type:              Simple
     Last Name Filter:       cn:(cn=$VALUE*)
     First Name Filter:      telephoneNumber:(telephoneNumber=*$VALUE*)
-    Display Attr:           a=cn,t=p;a=telephoneNumber
+    Display Attr:           a=cn;a=telephoneNumber,n=Phone,t=p
     ```
 
     Leave all other fields blank.
 
-    ![Image of a Cisco SPA525G2 web interface, showing LDAP settings](./images/ldap-cisco-525g.jpg "Image of a Cisco SPA525G2 web interface, showing LDAP settings")
+    ![Image of a Cisco SPA525G2 web interface, showing LDAP settings](./images/ldap-cisco-525g.png "Image of a Cisco SPA525G2 web interface, showing LDAP settings")
 
     **Implementation**
 
