@@ -1,5 +1,7 @@
 # Configure Busy Lamp Field (BLF)
 
+!!! success "You can now get to this page using a shorter URL: [hamsoverip.github.io/blf](https://hamsoverip.github.io/blf)"
+
 The Busy Lamp Field (BLF) is a function of Asterisk and some phones that allows the end user to program a speedial button on their phone to light based on the status of the line that the speeddial is set to connect to. If the line is busy - in other words, someone is using the line - it will glow red, otherwise it will glow green. This works for normal extensions and conference bridges. If someone is dialed into a conference, the light will be red, indicating someone is in the conference, otherwise it will glow green.
 
 !!! warning "Cross-server BLF"
