@@ -3,7 +3,7 @@
 ## Phone Features
 
 * [Busy Lamp Field (BLF)](./blf.md) - _what is BLF, and how to configure it_
-* [Lightweight Directory Access Protocol (LDAP)](./ldap.md) - _guides to setup LDAP on specific phone series and models_ 
+* [Lightweight Directory Access Protocol (LDAP)](./ldap.md) - _guides to setup LDAP on specific phone series and models_
 
 ## Codes
 

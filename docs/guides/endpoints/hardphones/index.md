@@ -12,14 +12,16 @@ We have the following Guides available now:
 * [SPA 508G](./cisco-508g.md)
 * [SPA 512G](./cisco-512g.md)
 * [SPA 525G/G2](./cisco-525g.md)
+* [Linksys SPA942](./cisco-linksys-spa942.md)
 
 ## Grandstream
 
 * [GXP162x](./grandstream-gxp16xx.md)
+* [HT802 v2 ATA](./grandstream-ht802v2.md)
 
 ## Obihai
 
-* [OBi 202 Adapter](./obi-202.md)
+* [OBi 202 ATA](./obi-202.md)
 
 ## Polycom
 

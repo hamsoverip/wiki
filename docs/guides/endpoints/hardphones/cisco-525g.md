@@ -57,9 +57,7 @@ Find the following fields on the `Ext` tab and configure accordingly.
 
 **DNS SRV Auto Prefix**: NO
 
-![Extenstion Part 1](https://user-images.githubusercontent.com/65520146/174689828-8d9bbc16-08a3-4f0c-903c-d59fd9e7b0c1.png)
-![Extenstion Part 2](https://user-images.githubusercontent.com/65520146/174689834-822579c8-d276-41db-aebc-496cfc401797.png)
+![Extension Part 1](https://user-images.githubusercontent.com/65520146/174689828-8d9bbc16-08a3-4f0c-903c-d59fd9e7b0c1.png)
+![Extension Part 2](https://user-images.githubusercontent.com/65520146/174689834-822579c8-d276-41db-aebc-496cfc401797.png)
 
-Written by Jeff N8EMA
-
-Last Updated: 2024-06-01 Dave M7TLB
+!!! note "Written by Jeff N8EMA, last updated 2024-06-01 Dave M7TLB"
