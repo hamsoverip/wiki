@@ -4,12 +4,11 @@ icon: material/home
 
 # Hams Over IP Wiki
 
-!["HamsOverIP logo"](https://hamsoverip.com/static/media/banner.fd512c01e82a6f4ed378.webp)
+![HamsOverIP logo](https://hamsoverip.com/static/media/banner.fd512c01e82a6f4ed378.webp "HamsOverIP logo")
 
-## Welcome to the wiki for the Hams Over IP VOIP Network
+**Hams Over IP** is a voice-over-IP service for the Ham Radio community.  Ham Radio Operators from all over the world have volunteered their time, skills, and resources to create and support this dynamic service. [More information...](./about.md)
 
-!!! tip "Looking for support?"
-    If you are looking for Support help, please check out the [Support Page](./guides/user/support.md)
+!!! tip "Quick links: [**Troubleshooting Wizard**](./guides/troubleshooting.md) | [**Getting Support**](./guides/user/support.md) | [**FAQ**](./guides/faq.md) | [**LDAP Guide**](./guides/features/ldap.md) | [**BLF Guide**](./guides/features/blf.md)"
 
 We welcome all officially-licensed Amateur Radio operators - regardless of location or nationality - to apply for an extension or trunk on this server.
 
@@ -45,4 +44,4 @@ We are of course looking for contributions to this wiki to expand the use of the
 
 ----
 
-!!! info "Last updated 2025-04-27 by Dave M7TLB"
+!!! info "Last updated 2025-07-29 Dave M7TLB"

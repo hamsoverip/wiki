@@ -6,7 +6,8 @@ Here, we've tried to provide you with a number of Guides to help you best use th
 
 * [Endpoints](../guides/endpoints/index.md) - _how to connect a telephony device to our network_
 * [PBX Trunks](../guides/pbx/index.md) - _how to connect a PBX to our network_
-* [RF Links](../guides/rf-links/configure-rf-links.md) - _how to connect an Allstar node to our network_
+* [RF Links](../guides/rf-links/index.md) - _how to connect an Allstar node to our network_
+* [Audio Feeds](../guides/audio-feeds/index.md) - _how to connect an audio feed to our network_
 
 * [Features](../guides/features/index.md) - _how to configure features like BLF, LDAP, etc_
 

@@ -66,10 +66,15 @@ markdown_extensions:
 
 
 nav:
-  - Welcome!: index.md
+  - Welcome!: 
+    - index.md
+    - About HOIP: about.md
+
 #  - Latest News: news.md
 
-  - FAQ: guides/faq.md
+  - FAQ: 
+    - guides/faq.md
+    - Troubleshooting: guides/troubleshooting.md
 
   - Getting Started:
     - guides/user/getting-started.md
@@ -79,8 +84,10 @@ nav:
 
   - Configuration Guides:
     - ./guides/index.md
+
     - Endpoints:
       - guides/endpoints/index.md
+
       - Hard Phones:
         - guides/endpoints/hardphones/index.md
         - Avaya:
@@ -100,11 +107,13 @@ nav:
           - Polycom VVX-4xx/5xx Series: guides/endpoints/hardphones/polycom-vvx4xx.md
         - Yealink:
           - Yealink T4 Series: guides/endpoints/hardphones/yealink-t4x.md
+
       - Soft Phones:
         - guides/endpoints/softphones/index.md
         - Groundwire: guides/endpoints/softphones/groundwire.md
         - Jami: guides/endpoints/softphones/jami.md
         - Zoiper: guides/endpoints/softphones/zoiper.md
+
     - PBX Trunks:
       - guides/pbx/index.md
       - Asterisk:
@@ -114,6 +123,7 @@ nav:
         - Configure FreePBX SIP Trunk: guides/pbx/freepbx/configure-sip-trunk.md
       - 3CX PBX:
         - Configure 3CX Trunk: guides/pbx/3cx/configure-3cx-trunk.md
+
     - RF Links:
       - guides/rf-links/index.md
       - Configure an RF Link: guides/rf-links/configure-rf-links.md
@@ -121,7 +131,11 @@ nav:
         - from HamVOIP: guides/rf-links/remove-sms-hamvoip.md
         - from ASL v1 & v2: guides/rf-links/remove-sms-asl-1-2.md
         - from ASL v3: guides/rf-links/remove-sms-asl-3.md
-#      - Configure Audio Services: other/configure-audio-feed.md
+
+    - Audio Feeds:
+      - guides/audio-feeds/index.md
+#      - Configure an Audio Feed: guides/audio-feeds/configure-audio-feed.md
+
     - Features:
       - guides/features/index.md
       - Busy Lamp Field (BLF): guides/features/blf.md
