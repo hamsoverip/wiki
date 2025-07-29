@@ -4,7 +4,7 @@ HOIP allows extensions to be tied to an Allstar connection to allow others to di
 
 Note that this does not enable Autopatch from the Allstar connection. This is a one way connection from HOIP to your Allstar system, basically a reverse autopatch if you will.
 
-All Allstar Link Extensions will be in the format of `15XXX`, `25XXX` or `35000`.  Check out the [RF Links List](../../reference/rf-links-list.md) for details of other Links on the system.
+All Allstar Link Extensions will be in the format of `15nnn`, `25nnn` or `35nnn`.  Check out the [RF Links List](../../reference/rf-links-list.md) for details of other Links on the system.
 
 ## Guides
 

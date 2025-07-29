@@ -9,12 +9,17 @@
         <h2>Welcome to the Troubleshooting Wizard</h2>
 
         **If you are finding that your device isn't registering properly with Hams Over IP, particularly if it's the first time you're attempting to register this device, step through this Wizard and follow the instructions on each step, as it may help you.**  
+
+        The first thing to do is check to make sure that your IP address isn't banned on the server.
+
+        <div style="float:right">[Launch IP Ban Checker :material-open-in-new:](https://helpdesk.hamsoverip.com/diy/ip-ban-checker/){ .md-button target="_blank" }</div>
+        <div style="clear:both"></div>
         
         ---
 
-        First, let's check some things on your device.
+        Is your device now successfully registered?
 
-        <div style="float:right">[Continue](#__tabbed_1_2){ .md-button .md-button--primary }</div>
+        <div style="float:left">[Start over](#__tabbed_1_1){ .md-button }</div><div style="float:right">[Yes](#__tabbed_1_14){ .md-button .md-button--primary }&nbsp;&nbsp;&nbsp;&nbsp;[No](#__tabbed_1_3){ .md-button .md-button--primary }</div>
 
     === "Device - 1"
 
@@ -132,10 +137,9 @@
 
         <h2>Network - step 2</h2>
 
-        **It's possible that your IP address may have been blocked by the server.  You can verify this [here (link to blocked IP page)](#).**
-        
-        You can wait for 30 minutes and try again to see if it works... otherwise you may need an admin to check the server logs to help understand what's going on.
+        **Reboot your router, this has been known to resolve some local network issues.**
 
+ 
         ---
 
         Is your device now successfully registered?
@@ -146,7 +150,7 @@
 
         <h2>Network - step 3</h2>
 
-        **Reboot your router, this has been known to resolve some local network issues.**
+        **Reboot your modem.**
 
         ---
 
