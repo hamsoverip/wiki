@@ -142,7 +142,7 @@ As the example pictured above, enter your information into the following fields:
 | Require SRTP (Radio Button): | No |
 | Server Auto Discovery: | Disable |
 | **AUTHENTICATION** ||
-| Use Login Credentials (Radio Button): | Enable |
+| Use Login Credentials (Radio Button): | Disable |
 | Domain: | This will be the domain name sent in your credentials email<br />(ex: `pbx-us1.hamsoverip.com`) |
 | User ID: | Enter your Extension from the credentials email. |
 | Password: | Enter your password from the credentials email. |
