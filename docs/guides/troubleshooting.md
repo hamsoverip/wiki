@@ -12,7 +12,7 @@
 
         The first thing to do is check to make sure that your IP address isn't banned on the server.
 
-        <div style="float:right">[Launch IP Ban Checker :material-open-in-new:](https://helpdesk.hamsoverip.com/diy/ip-ban-checker/){ .md-button target="_blank" }</div>
+        <div style="float:right">[Launch IP Ban Checker :material-open-in-new:](https://helpdesk.hamsoverip.com/diy/){ .md-button target="_blank" }</div>
         <div style="clear:both"></div>
         
         ---
