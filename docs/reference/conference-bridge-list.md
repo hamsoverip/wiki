@@ -18,15 +18,15 @@ To request a Conference Bridge, please go to the [Helpdesk](https://helpdesk.ham
 
 ## Conference Bridges
 
-| Extension | Name                        | Description                          | Type    | Owner Contact                                                      |
-| :-------: | --------------------------- | ------------------------------------ | :-----: | ------------------------------------------------------------------ |
-| **10000** | HAMS OVER IP ADMINS         | For use by the Admins of the Service | PRIVATE | HamsOverIP                                                         |
-| **10001** | PUBLIC 1                    | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **10002** | PUBLIC 2                    | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **10003** | PUBLIC 3                    | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **10004** | PUBLIC 4                    | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **10005** | PUBLIC 5                    | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **10006** | PUBLIC 6                    | Public Use                           | PUBLIC  | HamsOverIP                                                         |
+| Extension | Name                        | Description                          | Type    | Owner Contact                                                        |
+| :-------: | --------------------------- | ------------------------------------ | :-----: | -------------------------------------------------------------------- |
+| **10000** | HAMS OVER IP ADMINS         | For use by the Admins of the Service | PRIVATE | HamsOverIP                                                           |
+| **10001** | PUBLIC 1                    | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **10002** | PUBLIC 2                    | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **10003** | PUBLIC 3                    | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **10004** | PUBLIC 4                    | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **10005** | PUBLIC 5                    | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **10006** | PUBLIC 6                    | Public Use                           | PUBLIC  | HamsOverIP                                                           |
 | **10020** | THE GATHERING SPOT          |                                      | PUBLIC  | Mike, N8XYM<br />Ext: 100047<br />Email: <mike@n8xym.com>            |
 | **10021** | HURRICANE WATCH             |                                      | PUBLIC  | Jeff, N8EMA<br />Ext: 100002<br />Email: <jeff@n8ema.com>            |
 | **10022** | MOTOHAMS                    |                                      | PRIVATE | Stephen, K1LNX<br />Ext: 100069<br />Email: <k1lnx@k1lnx.net>        |
@@ -59,50 +59,50 @@ To request a Conference Bridge, please go to the [Helpdesk](https://helpdesk.ham
 | **10050** | TN STATEWIDE                |                                      | PUBLIC  | Stephen, K1LNX<br />Ext: 100069<br />Email: <k1lnx@k1lnx.net>        |
 | **10051** | WEST TN HAMS                |                                      | PUBLIC  | Stephen, K1LNX<br />Ext: 100069<br />Email: <k1lnx@k1lnx.net>        |
 | **10052** | ARVARF-VE                   |                                      | PRIVATE | John, WB5BHS<br />Ext: 100109<br />Email: <wb5bhs@gmail.com>         |
-| **10053** | DX TALK                     |                                      | PUBLIC  | William, KI5DQL<br />Ext: 100367                                   |
-| **10054** | DCARES                      |                                      | PRIVATE | Dan, W4WWF<br />Ext: 100079                                        |
-| **10055** | W0CDM-CONFRENCE             |                                      | PRIVATE | David, WD0HDR<br />Ext: 100352                                     |
-| **10056** | POTA CHAT                   |                                      | PRIVATE | Michael, N8MRC<br />Ext: 100239                                    |
-| **10057** | SE COLO EMCOMM              |                                      | PRIVATE | Riley, KC0YWX<br />Ext: 100372                                     |
-| **10058** | COLORADO STATEWIDE          |                                      | PUBLIC  | Riley, KC0YWX<br />Ext: 100372                                     |
-| **10059** | THE HAMS HANGOUT            |                                      | PUBLIC  | Michael, KF4BOG<br />Ext: 100015                                   |
-| **10060** | MDC ARES EMCOMM             |                                      | PUBLIC  |                                                                    |
-| **10061** | JOTA/JOTI                   |                                      | PUBLIC  | Jeff, WW4BSA<br />Ext: 100464                                      |
-| **10062** | FL OPARC                    |                                      | PUBLIC  | Jeff, WW4BSA<br />Ext: 100464                                      |
-| **10063** | FL CLAY ARES                |                                      | PRIVATE | Jeff, WW4BSA<br />Ext: 100464                                      |
-| **10064** | R10 AFMARS                  |                                      | PRIVATE | Rich, K7RFH<br />Ext: 100144                                       |
-| **10065** | CONVOCATION OF THE ANCIENTS |                                      | PRIVATE | Carter, KI5SR<br />Ext: 100288                                     |
-| **10066** | PARC VE TESTING GROUP       |                                      | PRIVATE | Gary, KA4KBX<br />Ext: 100887                                      |
-| **10067** | BM CANADA ADMINS            |                                      | PRIVATE | Benoit, VE2VB<br />Ext: 100807                                     |
-| **10068** | SIMPLEX                     |                                      | PRIVATE | Adam, N3NKI<br />Ext: 100101                                       |
-| **10069** | KENTUCKY STATEWIDE ARES     |                                      | PUBLIC  | Steven, W4WWS<br />Ext: 101029                                     |
-| **10070** | FBIARC                      |                                      | PRIVATE | Sea, W8FU<br />Ext: 101067                                         |
-| **10071** | CPT DON'S SPACE ODYSSEY     |                                      | PRIVATE | Don, W8CPT<br />Ext: 101060                                        |
-| **10072** | USHRC - N7HRC               |                                      | PRIVATE | Bob, W8UFO<br />Ext: 100762                                        |
-| **10073** | GRUMPY TECHS                |                                      | PRIVATE | Eric, W8EAP<br />Ext: 101070                                       |
-| **10074** | OHIO SEVERE WX              |                                      | PRIVATE | Beau, KD8FVV<br />Ext: 100119                                      |
-| **10075** | HISPANOS NETWORK            |                                      | PUBLIC  | Javier, K2PZB<br />Ext: 101133                                     |
-| **10387** | ET SKYWARN                  |                                      | PRIVATE | Jordan, K4AVG<br />Ext: 100005                                     |
-| **20000** | PBX-EU ADMIN OPS            | For use by the Admins of the Service | PUBLIC  | HamsOverIP                                                         |
-| **20001** | PUBLIC EU 1                 | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **20002** | PUBLIC EU 2                 | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **20003** | PUBLIC EU 3                 | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **20004** | HAMCAM INTERNATIONAL PUBLIC |                                      | PUBLIC  | <br />Ext: <br />Email:                                            |
+| **10053** | DX TALK                     |                                      | PUBLIC  | William, KI5DQL<br />Ext: 100367                                     |
+| **10054** | DCARES                      |                                      | PRIVATE | Dan, W4WWF<br />Ext: 100079                                          |
+| **10055** | W0CDM-CONFRENCE             |                                      | PRIVATE | David, WD0HDR<br />Ext: 100352                                       |
+| **10056** | POTA CHAT                   |                                      | PRIVATE | Michael, N8MRC<br />Ext: 100239                                      |
+| **10057** | SE COLO EMCOMM              |                                      | PRIVATE | Riley, KC0YWX<br />Ext: 100372                                       |
+| **10058** | COLORADO STATEWIDE          |                                      | PUBLIC  | Riley, KC0YWX<br />Ext: 100372                                       |
+| **10059** | THE HAMS HANGOUT            |                                      | PUBLIC  | Michael, KF4BOG<br />Ext: 100015                                     |
+| **10060** | MDC ARES EMCOMM             |                                      | PUBLIC  |                                                                      |
+| **10061** | JOTA/JOTI                   |                                      | PUBLIC  | Jeff, WW4BSA<br />Ext: 100464                                        |
+| **10062** | FL OPARC                    |                                      | PUBLIC  | Jeff, WW4BSA<br />Ext: 100464                                        |
+| **10063** | FL CLAY ARES                |                                      | PRIVATE | Jeff, WW4BSA<br />Ext: 100464                                        |
+| **10064** | R10 AFMARS                  |                                      | PRIVATE | Rich, K7RFH<br />Ext: 100144                                         |
+| **10065** | CONVOCATION OF THE ANCIENTS |                                      | PRIVATE | Carter, KI5SR<br />Ext: 100288                                       |
+| **10066** | PARC VE TESTING GROUP       |                                      | PRIVATE | Gary, KA4KBX<br />Ext: 100887                                        |
+| **10067** | BM CANADA ADMINS            |                                      | PRIVATE | Benoit, VE2VB<br />Ext: 100807                                       |
+| **10068** | SIMPLEX                     |                                      | PRIVATE | Adam, N3NKI<br />Ext: 100101                                         |
+| **10069** | KENTUCKY STATEWIDE ARES     |                                      | PUBLIC  | Steven, W4WWS<br />Ext: 101029                                       |
+| **10070** | FBIARC                      |                                      | PRIVATE | Sea, W8FU<br />Ext: 101067                                           |
+| **10071** | CPT DON'S SPACE ODYSSEY     |                                      | PRIVATE | Don, W8CPT<br />Ext: 101060                                          |
+| **10072** | USHRC - N7HRC               |                                      | PRIVATE | Bob, W8UFO<br />Ext: 100762                                          |
+| **10073** | GRUMPY TECHS                |                                      | PRIVATE | Eric, W8EAP<br />Ext: 101070                                         |
+| **10074** | OHIO SEVERE WX              |                                      | PRIVATE | Beau, KD8FVV<br />Ext: 100119                                        |
+| **10075** | HISPANOS NETWORK            |                                      | PUBLIC  | Javier, K2PZB<br />Ext: 101133                                       |
+| **10387** | ET SKYWARN                  |                                      | PRIVATE | Jordan, K4AVG<br />Ext: 100005                                       |
+| **20000** | PBX-EU ADMIN OPS            | For use by the Admins of the Service | PRIVATE | HamsOverIP                                                           |
+| **20001** | PUBLIC EU 1                 | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **20002** | PUBLIC EU 2                 | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **20003** | PUBLIC EU 3                 | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **20004** | HAMCAM INTERNATIONAL PUBLIC |                                      | PUBLIC  | <br />Ext: <br />Email:                                              |
 | **20022** | UK HAM RADIO                |                                      | PUBLIC  | Allan, G7VQV<br />Ext: 200035<br />Email: <g7vqv.allan@gmail.com>    |
 | **20023** | DV SCOTLAND GROUP           |                                      | PRIVATE | Andrew, MM0DXE <br />Ext: 200042<br />Email: <ai@st-m.co.uk>         |
 | **20024** | DV ELITE SPAIN              |                                      | PUBLIC  | Cesar, EA8CXN<br />Ext: 200066<br />Email: <contact@ea8cxn.es>       |
 | **20025** | FRANCE CNF VOIP             |                                      | PRIVATE | Sebastien, F8FFP<br />Ext: 200091<br />Email: <f8ffp@orange.fr>      |
-| **20026** | USKSIDEARC                  |                                      | PRIVATE |                                                                    |
-| **20027** | CROSS COUNTIES ARC          |                                      | PUBLIC  | Dave, M7TLB<br />Ext: 200034                                       |
-| **30000** | HOIP ADMIN OPS              | For use by the Admins of the Service | PRIVATE | HamsOverIP                                                         |
-| **30001** | AP PUBLIC 1                 | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **30002** | AP PUBLIC 2                 | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **30003** | AP PUBLIC 3                 | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **30004** | AP PUBLIC 4                 | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **30005** | AP PUBLIC 5                 | Public Use                           | PUBLIC  | HamsOverIP                                                         |
-| **30006** | OCEANIA                     |                                      | PUBLIC  |                                                                    |
-| **30007** | SOUTHLAND AREC ADMIN OPS    |                                      | PRIVATE |                                                                    |
+| **20026** | USKSIDEARC                  |                                      | PRIVATE |                                                                      |
+| **20027** | CROSS COUNTIES ARC          |                                      | PUBLIC  | Dave, M7TLB<br />Ext: 200034                                         |
+| **30000** | HOIP ADMIN OPS              | For use by the Admins of the Service | PRIVATE | HamsOverIP                                                           |
+| **30001** | AP PUBLIC 1                 | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **30002** | AP PUBLIC 2                 | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **30003** | AP PUBLIC 3                 | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **30004** | AP PUBLIC 4                 | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **30005** | AP PUBLIC 5                 | Public Use                           | PUBLIC  | HamsOverIP                                                           |
+| **30006** | OCEANIA                     |                                      | PUBLIC  |                                                                      |
+| **30007** | SOUTHLAND AREC ADMIN OPS    |                                      | PRIVATE |                                                                      |
 
 ---
 
-!!! info "Last updated 2025-07-22 Dave M7TLB"
+!!! note "Last updated 2025-08-02 Dave M7TLB"

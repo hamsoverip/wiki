@@ -15,4 +15,4 @@ Here, we've tried to provide you with a number of Guides to help you best use th
 
 This is by no means an exhaustive list... you can help us by [contributing](../wiki/contributing.md) a Guide where one doesn't already exist.
 
-!!! note "Last updated 2025-07-18 Dave M7TLB"
+!!! note "Last updated 2025-07-29 Dave M7TLB"
