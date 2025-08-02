@@ -2,6 +2,8 @@
 
 These are special commands that allow a user to do certain functions via Asterisk.
 
+!!! warning "Please note that not all of these features are available on the HOIP PBX servers"
+
 **Blacklist**  
 `*30` – Blacklist a number  
 `*32` – Blacklist the last caller  
@@ -54,4 +56,4 @@ These are special commands that allow a user to do certain functions via Asteris
 
 ----
 
-!!! info "Last Updated 2024-09-07"
+!!! note "Last updated 2025-08-02"
