@@ -7,14 +7,15 @@ theme:
   name: 'material'
   features:
     - content.code.copy
+    - content.footnote.tooltips
+    - content.tabs.linked
     - content.tooltips
     - navigation.indexes
-    - content.tabs.linked
     - navigation.tabs
     - navigation.tabs.sticky
-
   # features:
   #   - navigation.expand
+
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
@@ -42,6 +43,7 @@ markdown_extensions:
   - codehilite:
       guess_lang: false
   #- def_list
+  - footnotes
   - md_in_html
   - pymdownx.blocks.html
   - pymdownx.critic
@@ -64,13 +66,11 @@ markdown_extensions:
   - toc:
       permalink: true
 
-
 nav:
   - Welcome!: 
     - index.md
     - About HOIP: about.md
-
-#  - Latest News: news.md
+    - What's New?: whats-new.md
 
   - FAQ: 
     - guides/faq.md
@@ -80,6 +80,7 @@ nav:
     - guides/user/getting-started.md
     - Finding Help: guides/user/support.md
     - Joining our Chat Servers: guides/user/chat-services.md
+    - Discord Helpers: guides/user/discord-helpers.md
     - Our Social Media: guides/user/social-media.md
 
   - Configuration Guides:
