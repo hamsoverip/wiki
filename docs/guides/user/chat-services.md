@@ -4,11 +4,11 @@ Realtime communication is one of the keys off our organization. In addition to t
 
 Currently, we use the following platforms:
 
-* Discord _(primary)_
-* Telegram
-* Matrix
+* [Discord](#discord-server) _(primary)_
+* [Telegram](#telegram-group)
+* [Matrix](#matrix-room)
 
-At this time, the above three platforms are _not_ connected.  It's on our wishlist to get them connected once more, but there's usually someone around to help on all of them.
+At this time, only the Telegram group is bridged to the [:fontawesome-brands-discord: #lobby](https://discord.com/channels/966060559961296956/966806535466524714) channel of our Discord server.  The Matrix channel is still standalone, but there's usually someone around to help.
 
 <!--Keep in mind that all of these platforms are not setup as independent entities. These are all linked together as a way of extending the BYOD (Bring Your Own Device) ethos. In this case it's more of a Choose Your Own Platform kind of thing.-->
 
@@ -49,7 +49,7 @@ We also have a Telegram Group that users can use if they choose to.
 
 [:fontawesome-brands-telegram: Join our Telegram group :material-open-in-new:](https://t.me/hamsoverip){ target="_blank" }
 
-<!--This group is bridged into the [:fontawesome-brands-discord: #lobby](https://discord.com/channels/966060559961296956/966806535466524714) channel of the Discord server so that everyone in each group can participate in conversations or seek help.-->
+This group is bridged into the [:fontawesome-brands-discord: #lobby](https://discord.com/channels/966060559961296956/966806535466524714) channel of the Discord server so that everyone in each group can participate in conversations or seek help.
 
 ## Matrix Room
 
@@ -57,6 +57,10 @@ We also have a public room on the matrix.org public instance.
 
 [:simple-matrix: Join our Matrix room :material-open-in-new:](https://matrix.to/#/#hamsoverip:matrix.org){ target="_blank" }
 
+This room is currently standalone and _not_ bridged to our Discord or Telegram rooms.
+
 <!--This room is also bridged into our Discord server in the [:fontawesome-brands-discord: #lobby](https://discord.com/channels/966060559961296956/966806535466524714) channel.-->
 
-!!! note "Last updated 2025-07-29 Dave M7TLB"
+---
+
+!!! note "Last updated 2025-08-04 Dave M7TLB"
