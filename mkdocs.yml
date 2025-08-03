@@ -8,7 +8,7 @@ theme:
   features:
     - content.code.copy
     - content.footnote.tooltips
-    - content.tabs.linked
+    - content.tabs.link
     - content.tooltips
     - navigation.indexes
     - navigation.tabs

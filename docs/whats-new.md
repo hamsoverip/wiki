@@ -7,7 +7,12 @@ icon: material/newspaper-variant
 
 Here are the latest updates from the Wiki
 
-???+ info "2025-08-02"
+!!! info "2025-08-04"
+
+    * **Updated: [Chat Services](./guides/user/chat-services.md)** 
+        - our Telegram group is once more bridged to our Discord server.  See the updated page for further detail.
+
+!!! info "2025-08-02"
 
     * **New: [What's New?](./whats-new.md)** 
         - this page! Will diarise changes made to the Wiki and HOIP service
