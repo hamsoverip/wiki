@@ -7,6 +7,15 @@ icon: material/newspaper-variant
 
 Here are the latest updates from the Wiki
 
+!!! info "2025-08-05"
+
+    * **New: [Linphone](./guides/endpoints/softphones/linphone.md)**
+        - Configuration Guide for Linphone on Android
+    * **New: [Support Communication](./policies/support-communication.md)**
+        - Policy document on how to interact with the Technical Support team
+    * **New: [Request an Extension](./guides/user/request-extension.md)**
+        - User Guide on how to request an extension the correct way
+
 !!! info "2025-08-04"
 
     * **Updated: [Chat Services](./guides/user/chat-services.md)** 
