@@ -79,6 +79,7 @@ nav:
   - Getting Started:
     - guides/user/getting-started.md
     - Finding Help: guides/user/support.md
+    - Requesting an Extension: guides/user/request-extension.md
     - Joining our Chat Servers: guides/user/chat-services.md
     - Discord Helpers: guides/user/discord-helpers.md
     - Our Social Media: guides/user/social-media.md
@@ -113,6 +114,7 @@ nav:
         - guides/endpoints/softphones/index.md
         - Groundwire: guides/endpoints/softphones/groundwire.md
         - Jami: guides/endpoints/softphones/jami.md
+        - Linphone: guides/endpoints/softphones/linphone.md
         - Zoiper: guides/endpoints/softphones/zoiper.md
 
     - PBX Trunks:
@@ -167,6 +169,7 @@ nav:
     - policies/index.md
 #    - Terms of Service: General/coming-soon.md
 #    - User Agreement: General/coming-soon.md
+    - Support Communication: policies/support-communication.md
     - HOIP Allstar System Rules: policies/hoip-allstar.md
 
   - Files:
