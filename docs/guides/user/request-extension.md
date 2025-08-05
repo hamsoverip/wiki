@@ -15,56 +15,61 @@
 === "Asia/Pacific (IARU Region 3)"
 
 1. **Visit the Ticketing System**  
-    - Go to the [Helpdesk](https://helpdesk.hamsoverip.com/osticket/).
+    Go to the [Helpdesk](https://helpdesk.hamsoverip.com/osticket/).
 
 2. **Open a New Ticket**  
-    - In the top right corner, click the blue button labeled "**Open a New Ticket**".
+    In the top right corner, click the blue button labeled "**Open a New Ticket**".
 
-3. **Select Help Topic**  
+3. **Select the correct Help Topic**  
 
     <div class="tohide">
 
     === "Americas (IARU Region 2)"
-        - Locate the "**Help Topic**" dropdown menu and change the selection from "**General Inquiry**" to "**NEW EXTENSION REQUEST – AMERICAS**".
+        From the "**Help Topic**" dropdown menu, change the selection from "**General Inquiry**" to "**NEW EXTENSION REQUEST – AMERICAS**".
 
     === "Europe (IARU Region 1)"
-        - Locate the "**Help Topic**" dropdown menu and change the selection from "**General Inquiry**" to "**NEW EXTENSION REQUEST – EUROPE**".
+        From the "**Help Topic**" dropdown menu, change the selection from "**General Inquiry**" to "**NEW EXTENSION REQUEST – EUROPE**".
 
     === "Asia/Pacific (IARU Region 3)"
-        - Locate the "**Help Topic**" dropdown menu and change the selection from "**General Inquiry**" to "**NEW EXTENSION REQUEST – ASIA/PAC**".
+        From the "**Help Topic**" dropdown menu, change the selection from "**General Inquiry**" to "**NEW EXTENSION REQUEST – ASIA/PAC**".
 
     </div>
 
-4. **Complete the Form**
+4. **Fill out the form completely**
 
-    - Fill out **all required fields**.
+    Please complete **all required fields**, including.
+
+    - Your **DMR ID**
 
     <div class="tohide">
 
     === "Americas (IARU Region 2)"
-        - You **must provide** your **DMR ID** and an **official copy** of your **FCC Amateur Radio License** (reference copies or unofficial versions will not be accepted).
-        - **NOTE**: If you are **not** an Amateur Radio License holder of the USA, you will need to provide your official radio license as appropriate to your country.
+        - An **official copy** of your **FCC Amateur Radio License**  
+          _(Note: Reference copies or screenshots are not accepted.)_  
+          _If you are **not** an Amateur Radio License holder of the USA, you will need to provide your official radio license as appropriate to your country._  
 
     === "Europe (IARU Region 1)"
-        - You **must** provide your **DMR ID** and an **official copy** of your **Amateur Radio License**.
+        - An **official copy** of your **Amateur Radio License**.  
+          _(Note: Reference copies or screenshots are not accepted.)_
 
     === "Asia/Pacific (IARU Region 3)"
-        - You **must** provide your **DMR ID** and an **official copy** of your **Amateur Radio License**.
+        - An **official copy** of your **Amateur Radio License**.  
+          _(Note: Reference copies or screenshots are not accepted.)_
 
     </div>
 
-5. **If You Don’t Have a DMR ID**
-    <div class="tohide">
+---
 
-    === "Americas (IARU Region 2)"
-        - Visit [radioid.net](https://radioid.net) and apply for a DMR ID using your **official FCC Amateur Radio License**.
+**Don’t Have a DMR ID? No Problem!**
 
-    === "Europe (IARU Region 1)"
-        - Visit [radioid.net](https://radioid.net) and apply for a DMR ID using your **official Amateur Radio License**.
+Even if there’s no DMR coverage in your area - or you never plan to use DMR - you can (and should) still get a DMR ID at [radioid.net](https://radioid.net).
 
-    === "Asia/Pacific (IARU Region 3)"
-        - Visit [radioid.net](https://radioid.net) and apply for a DMR ID using your **official Amateur Radio License**.
+We use **RadioID.net** as our phonebook source, which means:
 
-    - Once your DMR ID is issued, return to Hams Over IP to complete the extension request.
+- Your contact info stays up to date
+- You can manage changes if you move or your license details change
+- It keeps our system running smoothly and helps others find you more easily
 
-!!! note "Last updated 2025-08-04 Gary KA4KBX"
+Once your DMR ID is issued, return to HamsoverIP and complete your ticket request.
+
+!!! note "Last updated 2025-08-05 Gary KA4KBX"
