@@ -51,4 +51,4 @@ If you have questions, comments or problems, please reach out to in one of the f
 - Discord:
 - Email:
 
-!!! note "Last updated 2025-07-22 Dave M7TLB"
+!!! note "Last updated 2025-07-22"
