@@ -73,10 +73,10 @@ Zoiper is available for download from: [https://www.zoiper.com/](https://www.zoi
         * Fill in the following:
 
             * `Account Name`: This is what you want to call the account. This can be anything, it is just a place holder to show the name of the account you are using. Suggested using your Extension Number.
-            * `Domain`: This is the domain and port number of the server sent to you in the crednetials email you received.
+            * `Domain`: This is the domain and port number of the server sent to you in the credentials email you received.
                 * Example: `pbx-us1.hamsoverip.com:5160`
             * `Username`: This is the extension in your credentials email.
-            * `Password`: This is the password in your crednetials email.
+            * `Password`: This is the password in your credentials email.
             * The rest of the fields/settings can be left at default.
 
         * Tap `Register`
