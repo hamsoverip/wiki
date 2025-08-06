@@ -4,6 +4,8 @@ icon: fontawesome/solid/circle-info
 
 # What is Hams Over IP?
 
+![HamsOverIP logo](https://hamsoverip.com/static/media/banner.fd512c01e82a6f4ed378.webp "HamsOverIP logo")
+
 Hams Over IP is a voice-over-IP service for the Ham Radio community. Ham Radio Operators from all over the world have volunteered their time, skills, and resources to create and support this dynamic service.
 
 ## What we offer

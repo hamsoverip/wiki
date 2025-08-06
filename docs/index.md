@@ -22,7 +22,7 @@ We are of course looking for contributions to this wiki to expand the use of the
 
     Questions about, or contributions/corrections to the Wiki?
 
-    - [:fontawesome-brands-discord: #wiki-chat](https://discord.com/channels/966060559961296956/975534734157443112) on our Discord server
+    - [:fontawesome-brands-discord: #wiki-chat :material-open-in-new:](https://discord.com/channels/966060559961296956/975534734157443112){ target="_blank" } on our Discord server
     - **Jesse, WH6AV**  
       :fontawesome-brands-discord: @wh6avjesse3115069  
       :fontawesome-solid-square-phone: 100000 (leave a voicemail if no answer)
@@ -41,7 +41,3 @@ We are of course looking for contributions to this wiki to expand the use of the
       :fontawesome-solid-square-phone: 100005 (leave a voicemail if no answer)
 
 </div>
-
-----
-
-!!! info "Last updated 2025-07-29 Dave M7TLB"
