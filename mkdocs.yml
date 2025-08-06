@@ -167,8 +167,7 @@ nav:
 
   - Policies:
     - policies/index.md
-#    - Terms of Service: General/coming-soon.md
-#    - User Agreement: General/coming-soon.md
+    - Code of Conduct: policies/code-of-conduct.md
     - Support Communication: policies/support-communication.md
     - HOIP Allstar System Rules: policies/hoip-allstar.md
 

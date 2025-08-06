@@ -7,6 +7,15 @@ icon: material/newspaper-variant
 
 Here are the latest updates from the Wiki
 
+!!! info "2025-08-06"
+
+    * **New feature: [Crosslink Lobby Chat](./guides/user/chat-services.md#crosslink-lobby-chat)**
+        - a new chat feature that allows you to communicate in our Discord server without actually having Discord!
+    * **New: [Code of Conduct](./policies/code-of-conduct.md)**
+        - this was created as a separate document from where it previously lived in the [Chat Services](./guides/user/chat-services.md) page
+    * **Updated: [Request an Extension](./guides/user/request-extension.md)**
+        - wording change around DMR ID being an optional element
+
 !!! info "2025-08-05"
 
     * **New: [Linphone](./guides/endpoints/softphones/linphone.md)**
@@ -36,19 +45,21 @@ Here are the latest updates from the Wiki
         - fixed an error that showed one of the admin rooms as PUBLIC
         - added a section at the top to show where problems should be reported
 
-??? info "2025-07-29"
+??? example "2025-07"
 
-    * **New: [What is Hams Over IP?](./about.md)**
-        - gives a breakdown of what Hams Over IP actually is as a service
-    * **New: [Audio Feeds](./guides/audio-feeds/index.md) Configuration Guide**
-        - very basic, top-level guide on how to set up an Audio Feed on the user's own PBX
-    
-    <hr />
+    !!! info "2025-07-29"
 
-    * **Updated: [Welcome!](./index.md) page**
-        - added a Quick Links nav bar, with links to some of the more popular Wiki pages
+        * **New: [What is Hams Over IP?](./about.md)**
+            - gives a breakdown of what Hams Over IP actually is as a service
+        * **New: [Audio Feeds](./guides/audio-feeds/index.md) Configuration Guide**
+            - very basic, top-level guide on how to set up an Audio Feed on the user's own PBX
+        
+        <hr />
 
-??? info "2025-07-28"
+        * **Updated: [Welcome!](./index.md) page**
+            - added a Quick Links nav bar, with links to some of the more popular Wiki pages
 
-    * **New: [Troubleshooting Wizard](./guides/troubleshooting.md)**
-        - new Troubleshooting Wizard to help users self-resolve the most common connection issues
+    !!! info "2025-07-28"
+
+        * **New: [Troubleshooting Wizard](./guides/troubleshooting.md)**
+            - new Troubleshooting Wizard to help users self-resolve the most common connection issues
