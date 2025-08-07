@@ -13,6 +13,7 @@ We have the following Guides available now:
 * [SPA 512G](./cisco-512g.md)
 * [SPA 525G/G2](./cisco-525g.md)
 * [Linksys SPA942](./cisco-linksys-spa942.md)
+* [8800 Series](./cisco-8800-series.md)
 
 ## Grandstream
 
