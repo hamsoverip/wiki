@@ -25,22 +25,22 @@ See the below screenshots for more settings and values.  Most of these values wi
 
 **1 of 5**
 
-![Screenshot of the web interface of the Grandstream HT802 v2 - 1 of 5](./images/hardphone-grandstream-ht802v2-1.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 1 of 5")
+![Screenshot of the web interface of the Grandstream HT802 v2 - 1 of 5](./images/grandstream-ht802v2-1.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 1 of 5")
 
 **2 of 5**
 
-![Screenshot of the web interface of the Grandstream HT802 v2 - 2 of 5](./images/hardphone-grandstream-ht802v2-2.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 2 of 5")
+![Screenshot of the web interface of the Grandstream HT802 v2 - 2 of 5](./images/grandstream-ht802v2-2.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 2 of 5")
 
 **3 of 5**
 
-![Screenshot of the web interface of the Grandstream HT802 v2 - 3 of 5](./images/hardphone-grandstream-ht802v2-3.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 3 of 5")
+![Screenshot of the web interface of the Grandstream HT802 v2 - 3 of 5](./images/grandstream-ht802v2-3.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 3 of 5")
 
 **4 of 5**
 
-![Screenshot of the web interface of the Grandstream HT802 v2 - 4 of 5](./images/hardphone-grandstream-ht802v2-4.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 4 of 5")
+![Screenshot of the web interface of the Grandstream HT802 v2 - 4 of 5](./images/grandstream-ht802v2-4.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 4 of 5")
 
 **5 of 5**
 
-![Screenshot of the web interface of the Grandstream HT802 v2 - 5 of 5](./images/hardphone-grandstream-ht802v2-5.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 5 of 5")
+![Screenshot of the web interface of the Grandstream HT802 v2 - 5 of 5](./images/grandstream-ht802v2-5.jpg "Screenshot of the web interface of the Grandstream HT802 v2 - 5 of 5")
 
 !!! note "Last updated 2025-07-27 by Brad N8PC"
