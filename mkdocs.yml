@@ -95,13 +95,16 @@ nav:
         - Avaya:
           - Avaya 96xx Series: guides/endpoints/hardphones/avaya-96xx.md
         - Cisco:
-          - Cisco 504G/514G: guides/endpoints/hardphones/cisco-504g.md
-          - Cisco 508G: guides/endpoints/hardphones/cisco-508g.md
-          - Cisco 512G: guides/endpoints/hardphones/cisco-512g.md
-          - Cisco 525g: guides/endpoints/hardphones/cisco-525g.md
-          - Cisco Linksys SPA942: guides/endpoints/hardphones/cisco-linksys-spa942.md
+          - WIP 310 Cordless: guides/endpoints/hardphones/cisco-wip310.md
+          - SPA 504G/514G: guides/endpoints/hardphones/cisco-504g.md
+          - SPA 508G: guides/endpoints/hardphones/cisco-508g.md
+          - SPA 512G: guides/endpoints/hardphones/cisco-512g.md
+          - SPA 525g: guides/endpoints/hardphones/cisco-525g.md
+          - 8000 Series: guides/endpoints/hardphones/cisco-88xx.md
+          - Linksys SPA 942: guides/endpoints/hardphones/cisco-linksys-spa942.md
         - Grandstream:
           - GXP16xx Series: guides/endpoints/hardphones/grandstream-gxp16xx.md
+          - GXP21xx Series: guides/endpoints/hardphones/grandstream-gxp21xx.md
           - HT802 v2 ATA: guides/endpoints/hardphones/grandstream-ht802v2.md
         - OBiHai:
           - OBi202 ATA: guides/endpoints/hardphones/obi-202.md

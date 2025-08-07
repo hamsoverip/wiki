@@ -8,15 +8,18 @@ We have the following Guides available now:
 
 ## Cisco
 
+* [WIP 310 Cordless](./cisco-wip310.md)
 * [SPA 504G/514G](./cisco-504g.md)
 * [SPA 508G](./cisco-508g.md)
 * [SPA 512G](./cisco-512g.md)
 * [SPA 525G/G2](./cisco-525g.md)
+* [8800 Series](./cisco-88xx.md)
 * [Linksys SPA942](./cisco-linksys-spa942.md)
 
 ## Grandstream
 
-* [GXP162x](./grandstream-gxp16xx.md)
+* [GXP16xx Series](./grandstream-gxp16xx.md)
+* [GXP21xx Series](./grandstream-gxp21xx.md)
 * [HT802 v2 ATA](./grandstream-ht802v2.md)
 
 ## Obihai
