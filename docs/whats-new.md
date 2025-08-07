@@ -7,6 +7,15 @@ icon: material/newspaper-variant
 
 Here are the latest updates from the Wiki
 
+!!! info "2025-08-07"
+
+    * **New: [Cisco 8800 Series](./guides/endpoints/hardphones/cisco-88xx.md)**
+        - new Configuration Guide for the Cisco 8800 Series phones - thanks to **Daniel W2DIY**!
+    * **New: [Cisco WIP 310 Cordless](./guides/endpoints/hardphones/cisco-wip310.md)**
+        - new Configuration Guide for the Cisco WIP 310 Cordless phone - thanks to **Brad N8PC**!
+    * **New: [Grandstream GXP21xx-series](./guides/endpoints/hardphones/grandstream-gxp21xx.md)**
+        - new Configuration Guide for the Grandstream GXP21xx Series phones - thanks to **Brad N8PC**!
+
 !!! info "2025-08-06"
 
     * **New feature: [Crosslink Lobby Chat](./guides/user/chat-services.md#crosslink-lobby-chat)**
