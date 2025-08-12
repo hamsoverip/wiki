@@ -181,8 +181,8 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
     Server Address:         207.246.98.219
     Port:                   389
     Base:                   ou=people,dc=hamsoverip,dc=com
-    LDAP Number Filter:     (|(telephoneNumber=%))
-    LDAP Name Filter:       (|(cn=%)(sn=%))
+    LDAP Number Filter:     ((telephoneNumber=%))
+    LDAP Name Filter:       ((cn=%)(sn=%))
     LDAP Version:           Version 3
     LDAP Name Attributes:   cn sn
     LDAP Number Attributes: telephoneNumber
