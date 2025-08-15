@@ -5,15 +5,11 @@ Realtime communication is one of the keys off our organization. In addition to t
 Currently, we use the following platforms:
 
 * [Discord](#discord-server) _(primary)_
-* [Telegram](#telegram-group)
+* [Telegram](#telegram-groups)
 * [Crosslink Lobby Chat](#crosslink-lobby-chat) _(if you don't have Discord or Telegram)_
 * [Matrix](#matrix-room)
 
-At this time, only the Telegram group is bridged to the [:fontawesome-brands-discord: #lobby](https://discord.com/channels/966060559961296956/966806535466524714) channel of our Discord server.  The Matrix channel is still standalone, but there's usually someone around to help.
-
 !!! warning "**Please observe our [Code of Conduct](../../policies/code-of-conduct.md) at all times whilst using any of these services**"
-
-<!--Keep in mind that all of these platforms are not setup as independent entities. These are all linked together as a way of extending the BYOD (Bring Your Own Device) ethos. In this case it's more of a Choose Your Own Platform kind of thing.-->
 
 ## Discord Server
 
@@ -32,27 +28,31 @@ After joining, we ask that you do a couple of things:
     * Change the field that says `Server Nickname`
     * If it says you need to pay for Discord Nitro, you are doing it wrong. Server Nicknames are free to set.
 
-## Telegram Group
+## Telegram Groups
 
-We also have a Telegram Group that users can use if they choose to.
+We also have a couple of Telegram Groups that users can use if they choose to.
 
-[:fontawesome-brands-telegram: Join our Telegram group :material-open-in-new:](https://t.me/hamsoverip){ target="_blank" }
+* [:fontawesome-brands-telegram: Official Telegram group :material-open-in-new:](https://t.me/hamsoverip){ target="_blank" }  
+  This group is standalone, and **not bridged** to any other room.
 
-This group is bridged into the [:fontawesome-brands-discord: #crosslink-lobby :material-open-in-new:](https://discord.com/channels/966060559961296956/1401835917773242378){ target="_blank" } channel of our Discord server so that everyone in each group can participate in conversations or seek help.
+* [:fontawesome-brands-telegram: HamsOverIP Crosslink Lobby :material-open-in-new:](https://t.me/+yWg1smGTdMI2NTUx){ target="_blank" }  
+  This group **is bridged** as part of the [Crosslink Lobby Chat](#crosslink-lobby-chat) system.
 
 ## Crosslink Lobby Chat
 
-We now have a brand-new [Crosslink Lobby Chat :material-open-in-new:](https://helpdesk.hamsoverip.com/crosslink/){ target="_blank" } which you can use if you don't use Discord.  Anything you type here will appear in the [:fontawesome-brands-discord: #crosslink-lobby :material-open-in-new:](https://discord.com/channels/966060559961296956/1401835917773242378){ target="_blank" } channel on our Discord server, and also in our [Telegram group](#telegram-group).
+We now have a brand-new [Crosslink Lobby Chat :material-open-in-new:](https://helpdesk.hamsoverip.com/crosslink/){ target="_blank" } which you can use if you don't use Discord or Telegram.  Anything you type here will also appear in (and vice versa):
 
-This channel is accessible to anyone who is in our Discord server, so please don't use it to share passwords or IP addresses.  If you require assistance from one of our amazing Support Team, put out a call in this chat then you can determine an alternative way to discuss your support issue.  Please be patient though!
+* [:fontawesome-brands-discord: #crosslink-lobby :material-open-in-new:](https://discord.com/channels/966060559961296956/1401835917773242378){ target="_blank" } channel on our Discord server
+* [:fontawesome-brands-telegram: HamsOverIP Crosslink Lobby :material-open-in-new:](https://t.me/+yWg1smGTdMI2NTUx){ target="_blank" } group on Telegram.
+
+This service is accessible to all regardless of which method you use, so please don't use it to share passwords or IP addresses.  If you require assistance from one of our amazing Support Team, put out a call in this chat then you can determine an alternative way to discuss your support issue.  Please be patient though!
 
 ## Matrix Room
 
 We also have a public room on the matrix.org public instance.
 
-[:simple-matrix: Join our Matrix room :material-open-in-new:](https://matrix.to/#/#hamsoverip:matrix.org){ target="_blank" }
-
-This room is currently standalone and _not_ bridged to our Discord or Telegram rooms.
+* [:simple-matrix: Join our Matrix room :material-open-in-new:](https://matrix.to/#/#hamsoverip:matrix.org){ target="_blank" }  
+   This room is standalone, and **not bridged** to any other room.
 
 <!--This room is also bridged into our Discord server in the [:fontawesome-brands-discord: #lobby](https://discord.com/channels/966060559961296956/966806535466524714) channel.-->
 
