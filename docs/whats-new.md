@@ -7,6 +7,18 @@ icon: material/newspaper-variant
 
 Here are the latest updates from the Wiki
 
+!!! info "2025-08-16"
+
+    * **Update: [Chat Services](./guides/user/chat-services.md)**
+        - added instructions relating to the new Telegram Crosslink Lobby room
+    * **Update: [OBi 202 Adapter](./guides/endpoints/hardphones/obi-202.md)**
+        - remove an obsolete link, and correct an error relating to SRTP - **thanks to Mauro AG7BI**
+    * **Update: [Remove SMS from ASL version 3.0](./guides/rf-links/remove-sms-asl-3.md)**
+        - couple of typos, a missing config item, and updated instructions - thanks to **Brad N8PC**
+    * **Update: [RF Links List](./reference/rf-links-list.md)**
+        - corrected incorrect entry, and updated one that had been reissued
+
+
 !!! info "2025-08-07"
 
     * **New: [Cisco 8800 Series](./guides/endpoints/hardphones/cisco-88xx.md)**
