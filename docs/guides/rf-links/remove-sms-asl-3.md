@@ -13,7 +13,7 @@ To create a private node for HamsOverIP on ASL3
 7. next select # 4 HUB w/no radio
 8. enter Callsign of the node or repeater
 9. now click on Update Node 1995
-10. you will not need to ener a node password
+10. you will not need to enter a node password
 11. you should have the following:
 
     - 1 Node number : 1995
@@ -25,7 +25,7 @@ To create a private node for HamsOverIP on ASL3
     - 7 Node access list : Open
     - 8 Interface Tune CLI
 
-12. select Back with arow keys
+12. select Back with arrow keys
 13. select #2 Restart Asterisk
 14. select #4 Update IAX port (make a note of it you will need it later)
 15. select &lt;Back&gt;
@@ -67,6 +67,9 @@ nano extensions.conf
 insert the following: We are still using 1995 as the node number
 
 ```ini
+[global]
+NODE2 = 1995  << add to the global stanza
+
 [hoipphone]
 exten => ${NODE2},1,Ringing()
 same => n,Wait(1)
@@ -84,14 +87,20 @@ same => n,Playback(rpt/connected)
 same => n,rpt(${NODE2}|P)
 ```
 
+Change numbers after `digits/` to your Allstar node number
+
 CTRL - X to exit
 Y for Yes and press enter to save it
 reboot for changes to take effect.
+
+You have offically setup your private node with no text messaging for HamsOverIP.
+
+Now follow the steps in our [configuration guide](./configure-rf-links.md) to create your Dial string, and then go to our [ticketing system :material-open-in-new:](https://helpdesk.hamsoverip.com/osticket/){ target="_blank" } and create a ticket for an RF Node number - Be Patient as this does take time.
 
 Please note: You will have to send a ticket in to HOIP to adjust your IAX2 String to now match to your new private node number. If you require guidance on the format of the IAX2 string, then please check our [configuration guide](./configure-rf-links.md).  Once that's done, test to confirm the SMS beacons are gone.
 
 Note: You will NOT see who is connected or hear the connection. This is normal.
 
-You will see on your Allmon3 or Supermon dashboards when someone Keys up on HamsOverIP when Connected to your node. With this setup you can drop the private node if a person is creating problems and reconnect it at a later time.
+You will see on your Allmon3 or Supermon dashboards when someone keys up on HamsOverIP when Connected to your node. With this setup you can drop the private node if a person is creating problems and reconnect it at a later time.
 
-!!! note "Last updated 2025-07-22 Brad N8PC"
+!!! note "Written by Brad N8PC, last updated 2025-08-16"

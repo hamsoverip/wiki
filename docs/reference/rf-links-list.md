@@ -51,13 +51,13 @@ To request an RF Link, please go to the [Helpdesk](https://helpdesk.hamsoverip.c
 | **15030** | K2HZE ALLSTAR 41605                          |  | Tom, K2HZE<br />Ext: 100345<br />Email: |
 | **15031** | K0NNK ALLSTAR 57686                          |  | Collin, K0NNK<br />Ext: 100251<br />Email: <k0nnk@qsl.net> |
 | **15032** | KZ4FOX ALLSTAR 547942                        |  | Mark, KZ4FOX<br />Ext: 100359<br />Email: <mark@kz4fox.com> |
-| **15033** | K0NNK ALLSTAR 57686                          |  | Collin, K0NNK<br />Ext: 100251<br />Email: <k0nnk@qsl.net> |
+| **15033** | N0EBB ALLSTAR 47734                          |  | Don, N0EBB<br />Ext: 100379<br />Email: |
 | **15034** | K9PSL ALLSTAR 431420                         |  | Paul, K9PSL<br />Ext: 100403<br />Email: <k9psl@yahoo.com> |
 | **15035** | J62DX ALLSTAR 1758                           |  | Frans, J62DX<br />Ext: 100425<br />Email: <j69ds@hotmail.com> |
 | **15036** | K4YWE ALLSTAR 54341                          |  | Danny, K4YWE<br />Ext: 100432<br />Email: <danny@wxmesg.com> |
 | **15037** | WA4KIK ALLSTAR 53812                         |  | Danny, K4YWE<br />Ext: 100432<br />Email: <danny@wxmesg.com> |
 | **15038** | KM4ECM ALLSTAR 41557                         |  | Ryan, KM4ECM<br />Ext: 100256<br />Email: <ryan@turnrye.com> |
-| **15039** | KF4BOG ALLSTAR 58098                         |  | Michael, KF4BOG<br />Ext: 100015<br />Email: <mikekf4bog@gmail.com> |
+| **15039** | Murphy Radio Network (MRN)                   | We are a growing Amateur Radio Network located in North Central Texas. This network (group) is in favor of supporting both Analog & Digital Modes. | Ron, KJ5APA<br />Ext: 101247<br />Email: <kj5apa@icloud.com> |
 | **15040** | KG4ORQ ALLSTAR 58088                         |  | David, KG4ORQ<br />Ext: 100426<br />Email: <dave9549@gmail.com> |
 | **15041** | WE0FUN ALLSTAR 28299                         |  | Jeff, K0JSC<br />Ext: 100125<br />Email: <info@we0fun.com> |
 | **15042** | N4LMC ALLSTAR 46077                          |  |  |
