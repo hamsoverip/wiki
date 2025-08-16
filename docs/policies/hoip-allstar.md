@@ -26,14 +26,14 @@ Also note that rules are subject to change as use of the system grows. Make sure
 
 ## Rules for use
 
-- All Amatuer Radio Rules apply for use of Radio Systems. (You must ID, leave space in between transmissions, don't quick key, etc)
+- All Amateur Radio Rules apply for use of Radio Systems. (You must ID, leave space in between transmissions, don't quick key, etc)
 - You may connect your RF Allstar node to the Hub if you like/have an Allstar node.
 - You may also connect your non-RF node to the system
 - Please do not connect Allstar nodes that already have a HOIP extension to the system.
 - Please do not connect to other major systems (HUBnet, PAPA, etc)
 - Do not cross connect this system with any conference bridges.
 - This system can also be used for Nets, however, these need to be cleared with to make sure there is not a conflict with scheduling. Preferably HOIP related/sponsored nets, but other nets will be considered.
-  - We will not link the system to other existing nets. There are other ways to connect to other nets out there. **IE:** We will not link the system to nets like the Alaska Morning Net or the East Coast Reflector Nets, etc.
+- We will not link the system to other existing nets. There are other ways to connect to other nets out there. **IE:** We will not link the system to nets like the Alaska Morning Net or the East Coast Reflector Nets, etc.
 <!--- I hate to put this out there since we are all adults, however, abuse of the system and disregard for Radio Regulations (in any country) along with not following the rules of the system will result in removal of access to the Discord voice channel as well as blocked access via other means to the node and no reconsideration will be given. Since this is currently being run under my callsign (), I will not allow problems to arrise. Consider this your **one** and **only** warning.
 -->
 <!--## To use the Discord Channel
@@ -52,3 +52,4 @@ If you have questions, comments or problems, please reach out to in one of the f
 - Email:
 
 !!! note "Last updated 2025-07-22"
+
