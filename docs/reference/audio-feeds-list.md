@@ -26,7 +26,7 @@ To request an Audio Feed, please go to the [Helpdesk](https://helpdesk.hamsoveri
 | Extension | Name                                | Owner Contact | &nbsp;                                  | Status [^1]        |
 | :-------: | ----------------------------------- | ------------- | --------------------------------------- | :----------------: |
 | **90002** | NEWSLINE CENTER                     | Steve, K4KSA  | :fontawesome-solid-square-phone: 100001 | :white_check_mark: |
-| **90003** | VARIOUS AUDIO FEEDS                 | Travis, W4TII | :fontawesome-solid-square-phone: 100189 | :x:                |
+| **90003** | VARIOUS AUDIO FEEDS                 | Travis, W4TII | :fontawesome-solid-square-phone: 100189 | :white_check_mark: |
 | **90004** | REGGAE 1                            | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 | :white_check_mark: |
 | **90005** | REGGAE 2                            | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 | :white_check_mark: |
 | **90006** | TOP 80's 2                          | Jesse, WH6AV  | :fontawesome-solid-square-phone: 100000 | :white_check_mark: |
@@ -41,9 +41,14 @@ To request an Audio Feed, please go to the [Helpdesk](https://helpdesk.hamsoveri
 | **90025** | TOLEDO, OH POLICE DISPATCH          | Scott, N1OF   | :fontawesome-solid-square-phone: 101566 | :x:                |
 | **90026** | LINUX IN THE HAM SHACK              | Russ, K5TUX   | :fontawesome-solid-square-phone: 100200 | :white_check_mark: |
 | **90027** | TRI-COUNTY SCANNER                  | John, N2YP    | :fontawesome-solid-square-phone: 101843 | :x:                |
+| **90028** | Art Bell Archives                   | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
+| **90029** | Ground Zero Radio                   | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
+| **90030** | Sci-Fi Radio                        | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
+| **90031** | Old Time Radio                      | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
+| **90032** | WTRSFM.COM Rock Radio               | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
 
 ---
 
-!!! note "Last updated 2025-08-02 Dave M7TLB"
+!!! note "Last updated 2025-08-19 Aaron WT8X"
 
 [^1]: Last Known Status is accurate as of last page update
