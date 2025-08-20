@@ -46,9 +46,11 @@ To request an Audio Feed, please go to the [Helpdesk](https://helpdesk.hamsoveri
 | **90030** | Sci-Fi Radio                        | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
 | **90031** | Old Time Radio                      | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
 | **90032** | WTRSFM.COM Rock Radio               | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
+| **90033** | Opie And Anthony                    | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
+| **90034** | BBC World Radio                     | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
 
 ---
 
-!!! note "Last updated 2025-08-19 Aaron WT8X"
+!!! note "Last updated 2025-08-20 Aaron WT8X"
 
 [^1]: Last Known Status is accurate as of last page update
