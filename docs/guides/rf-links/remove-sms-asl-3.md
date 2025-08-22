@@ -72,19 +72,17 @@ NODE2 = 1995  << add to the global stanza
 
 [hoipphone]
 exten => ${NODE2},1,Ringing()
-same => n,Wait(1)
-same => n,Answer()
-same => n,Playback(rpt/node)
-same => n,Playback(digits/4)
-same => n,Playback(digits/5)
-same => n,Playback(digits/7)
-same => n,Playback(digits/4)
-same => n,Playback(digits/3)
-same => n,Playback(digits/2)
-same => n,Playback(rpt/connected)
-; same => n,Set(CALLSIGN=HOIP-${CALLERID(name)})
-; same => n,rpt(${NODE2}|P|${CALLSIGN})
-same => n,rpt(${NODE2}|P)
+        same => n,Wait(1)
+        same => n,Answer()
+        same => n,Playback(rpt/node)
+        same => n,Playback(digits/4)
+        same => n,Playback(digits/5)
+        same => n,Playback(digits/7)
+        same => n,Playback(digits/4)
+        same => n,Playback(digits/3)
+        same => n,Playback(digits/2)
+        same => n,Playback(rpt/connected)
+        same => n,rpt(${NODE2}|P)
 ```
 
 Change numbers after `digits/` to your Allstar node number
