@@ -48,6 +48,9 @@ To request an Audio Feed, please go to the [Helpdesk](https://helpdesk.hamsoveri
 | **90032** | WTRSFM.COM Rock Radio               | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
 | **90033** | Opie And Anthony                    | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
 | **90034** | BBC World Radio                     | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
+| **90035** | Kansas City Air Traffic             | Steven, N0KQG | :fontawesome-solid-square-phone: 102767 | :white_check_mark: |
+| **90036** | St. Louis Area Marine               | Steven, N0KQG | :fontawesome-solid-square-phone: 102767 | :white_check_mark: |
+
 
 ---
 
