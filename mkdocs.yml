@@ -201,6 +201,7 @@ extra:
 
 
 plugins: 
+  - search
   - redirects:
       redirect_maps:
         "endpoints/index.md": "guides/endpoints/index.md"
