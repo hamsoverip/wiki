@@ -81,6 +81,8 @@ There are two methods around this. One is simple, and the other one took me 45 m
 - Navigate to **Voice → Regional**
 - Locate `Vertical Service Activation Codes`
 - Set `Call Pickup Code` : `(blank)` or a different extention that doesn't conflict
+- Navigate to **Voice → Phone**
+- Set `Voice Mail Number` : `*97`
 - Click **Submit All Changes**
 
 Once configured, pressing the voicemail button will:
@@ -90,7 +92,7 @@ Once configured, pressing the voicemail button will:
 
 ### Method 2 [COMPLICATED (BUT WORKS)]
 
-Instead, you should use `*98`. When you dial `*98`, the HOIP server asks you to **enter your extension number** and then your voicemail password. By default, this requires two steps every time you access voicemail.
+Since `*97` conflicts, you can use `*98` instead. When you dial `*98`, the HOIP server asks you to **enter your extension number** and then your **voicemail password**. By default, this requires two steps every time you access voicemail.
 
 If you are okay with entering your extension number and voicemail password everytime, then you can do the following:
 
@@ -98,7 +100,15 @@ If you are okay with entering your extension number and voicemail password every
 - Set `Voice Mail Number` : `*98`
 - Click **Submit All Changes**
 
-If you would like to automatically have your extension number and voicemail password entered when you click the voicemail button, continue reading.
+Once configured, pressing the voicemail button will:
+
+1. Dial `*98`  
+2. Prompt you to enter your extension number followed by `#`
+   - All you will hear is the automated voice repeat "Comedian Mail - Mailbox" until this step is completed. 
+4. Prompt you to enter your voicemail password followed by `#`
+5. Connect you directly to your voicemail
+
+If you would like to automatically have your extension number and voicemail password entered when you click the voicemail button using this method, continue reading.
 
 ### Automating Extension Entry with a Dial String
 
