@@ -50,6 +50,7 @@ To request an Audio Feed, please go to the [Helpdesk](https://helpdesk.hamsoveri
 | **90034** | BBC World Radio                     | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
 | **90035** | Kansas City Air Traffic             | Steven, N0KQG | :fontawesome-solid-square-phone: 102767 | :white_check_mark: |
 | **90036** | St. Louis Area Marine               | Steven, N0KQG | :fontawesome-solid-square-phone: 102767 | :white_check_mark: |
+| **90037** | Huntsville, AL Police Department    | Aaron, WT8X   | :fontawesome-solid-square-phone: 101072 | :white_check_mark: |
 
 
 ---
