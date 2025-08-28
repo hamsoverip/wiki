@@ -2,9 +2,9 @@
 icon: material/home
 ---
 
-# Hams Over IP Wiki
+![HamsOverIP logo](./files/hoip-banner.webp "HamsOverIP logo")
 
-![HamsOverIP logo](https://hamsoverip.com/static/media/banner.fd512c01e82a6f4ed378.webp "HamsOverIP logo")
+# Hams Over IP Wiki
 
 **Hams Over IP** is a voice-over-IP service for the Ham Radio community.  Ham Radio Operators from all over the world have volunteered their time, skills, and resources to create and support this dynamic service. [More information...](./about.md)
 
@@ -36,8 +36,8 @@ We are of course looking for contributions to this wiki to expand the use of the
 
     - [:material-help-box: Getting support](./guides/user/support.md) in the first instance  
       Help Topic: Website Issues & Suggestions
-    - **Jordan, K4AVG**  
-      :fontawesome-brands-discord: @k4avg  
+    - **Jordan, NA4WX**  
+      :fontawesome-brands-discord: @na4wx  
       :fontawesome-solid-square-phone: 100005 (leave a voicemail if no answer)
 
 </div>
