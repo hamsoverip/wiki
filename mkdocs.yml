@@ -5,6 +5,8 @@ repo_url: https://github.com/hamsoverip/wiki
 
 theme:
   name: 'material'
+  favicon: files/hoip-logo.webp
+  logo: files/hoip-logo.webp
   features:
     - content.code.copy
     - content.footnote.tooltips
@@ -22,15 +24,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: light
-      primary: 'amber'
-      accent: 'orange'
+      primary: 'indigo'
+      accent: 'indigo'
       toggle:
         icon: material/toggle-switch-off-outline
         name: Embrace the dark side
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: 'deep orange'
-      accent: 'amber'
+      primary: 'indigo'
+      accent: 'indigo'
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
