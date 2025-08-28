@@ -7,6 +7,11 @@ icon: material/newspaper-variant
 
 Here are the latest updates from the Wiki
 
+!!! info "2025-08-28"
+
+    * **Update: [Wiki](./index.md)**
+        - updated Wiki theme and logo/icons to match new branding
+
 !!! info "2025-08-25"
 
     * **Update: [Wiki](./index.md)**
