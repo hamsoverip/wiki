@@ -102,8 +102,10 @@ nav:
           - SPA 508G: guides/endpoints/hardphones/cisco-508g.md
           - SPA 512G: guides/endpoints/hardphones/cisco-512g.md
           - SPA 525g: guides/endpoints/hardphones/cisco-525g.md
-          - 8000 Series: guides/endpoints/hardphones/cisco-88xx.md
+          - 8800 Series: guides/endpoints/hardphones/cisco-88xx.md
           - Linksys SPA 942: guides/endpoints/hardphones/cisco-linksys-spa942.md
+        - Fanvil:
+          - X210/X210-V2: guides/endpoints/hardphones/fanvil-x210.md
         - Grandstream:
           - GXP16xx Series: guides/endpoints/hardphones/grandstream-gxp16xx.md
           - GXP21xx Series: guides/endpoints/hardphones/grandstream-gxp21xx.md
