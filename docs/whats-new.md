@@ -15,9 +15,6 @@ Here are the latest updates from the Wiki
     * **Update: [OBi 202 Adapter](./guides/endpoints/hardphones/obi-202.md)**
         - added a couple of missing steps from the configuration, and an associated screenshot to show the steps - thanks to **Brad N8PC**
 
-    * **Update: [FreePBX/Asterisk Feature Codes](./guides/features/pbx-feature-codes.md)
-        - removed the reference to `7777` as that has apparently not worked since FreePBX 15 - thanks to 
-
 !!! info "2025-08-28"
 
     * **Update: [Wiki](./index.md)**
