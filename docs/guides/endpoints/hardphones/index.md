@@ -16,6 +16,10 @@ We have the following Guides available now:
 * [8800 Series](./cisco-88xx.md)
 * [Linksys SPA942](./cisco-linksys-spa942.md)
 
+## Fanvil
+
+* [X210/X210-V2](./fanvil-x210.md)
+
 ## Grandstream
 
 * [GXP16xx Series](./grandstream-gxp16xx.md)
