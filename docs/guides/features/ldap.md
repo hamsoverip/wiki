@@ -54,13 +54,13 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
     4. When in the **Phone** option, scroll down to **LDAP Corporate Directory Search**.
     5. Enter the following as shown here:
 
-        - **LDAP Dir Enable** select Yes
-        - **LDAP Server** is `ldap.hamsoverip.com`
+        - **LDAP Dir Enable** select: `Yes`
+        - **LDAP Server** is: `ldap.hamsoverip.com:389`
         - In **LDAP Search Base**, enter the following: `ou=people,dc=hamsoverip,dc=com`
         - In **LDAP Display Atts**, enter: `a=sn,a=cn,t=p;a=telephoneNumber`
         - In **LDAP Last Name Filter**, enter: `cn:(cn=$VALUE*)`
-        - Under **LDAP Corp Dir Name**, enter `HOIP`
-        - Under **LDAP Auth Method**, pick Simple
+        - Under **LDAP Corp Dir Name**, enter: `HOIP Phonebook`
+        - Under **LDAP Auth Method**, pick: `Simple`
         - Under **LDAP First Name Filter** is: `cn`
 
     6. After entering all the information as shown here, click on [Submit All Changes].
