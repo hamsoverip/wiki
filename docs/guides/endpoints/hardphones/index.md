@@ -20,6 +20,10 @@ We have the following Guides available now:
 
 * [X210/X210-V2](./fanvil-x210.md)
 
+# FRITZ!Box
+
+* [7390](./fritzbox-7390.md)
+
 ## Grandstream
 
 * [GXP16xx Series](./grandstream-gxp16xx.md)
