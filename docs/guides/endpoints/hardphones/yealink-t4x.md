@@ -46,7 +46,7 @@ Under the **Dsskey** tab, select the **Line Key** area that you want to program,
 
 ### Verizon Models
 
-If you find a Verizon OneTalk version, you can convert it to work with any other SIP provider by following these directions: https://extramile-tech.com/setting-a-verizon-onetalk-phone-back-to-yealink-firmware/
+If you find a Verizon OneTalk version, you can convert it to work with any other SIP provider by following these directions: https://vwdmi.com/setting-a-verizon-onetalk-phone-back-to-yealink-firmware/
 
 ### Screen Capture
 
@@ -68,3 +68,4 @@ You can enable or disable the popups on the screen.  I prefer "no popups".
 ----
 
 !!! info "Last updated 2022-11-25 by Charlie KE8QLV"
+
