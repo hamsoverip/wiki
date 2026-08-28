@@ -5,6 +5,7 @@ We have the following Guides available now:
 ## Asterisk
 
 * [IAX Trunk](./asterisk/configure-iax-trunk.md)
+* [PJSIP Trunk](./asterisk/configure-pjsip-trunk.md)
 
 ## FreePBX
 

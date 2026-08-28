@@ -16,4 +16,4 @@ We have the following Guides available now:
 
 This is by no means an exhaustive list... you can help us by [contributing](../../../wiki/contributing.md) a Guide where one doesn't already exist.
 
-!!! info "Last updated 2025-07-14 by Dave M7TLB"
+!!! info "Last updated 2026-08-29 by Dave M9TLB"

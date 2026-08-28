@@ -123,6 +123,7 @@ same => n,Hangup()
 This concludes a very basic config of asterisk using a pjsip trunk and you can expand on it with voicemail, ringing out to multiple phones, and more, all beyond the scope of this guide.
 
 You should now be able to make and recieve calls across your HOIP Trunk. I recommend making a call to a test numbers while running the asterisk CLI so you can confirm everything is working.
+
 ----
 
-!!! info "Last Updated 2026-01-10 By Ada, KQ4IDU"
+!!! info "Last Updated 2026-01-10 By Ada KQ4IDU"

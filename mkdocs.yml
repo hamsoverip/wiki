@@ -104,9 +104,13 @@ nav:
           - SPA 525g: guides/endpoints/hardphones/cisco-525g.md
           - 8800 Series: guides/endpoints/hardphones/cisco-88xx.md
           - Linksys SPA 942: guides/endpoints/hardphones/cisco-linksys-spa942.md
+          - Linksys SPA 3102: guides/endpoints/hardphones/cisco-linksys-spa3102.md
+        - FRITZ!Box:
+          - 7390: guides/endpoints/hardphones/fritzbox-7390.md
         - Fanvil:
           - X210/X210-V2: guides/endpoints/hardphones/fanvil-x210.md
         - Grandstream:
+          - GXP14xx Series: guides/endpoints/hardphones/grandstream-gxp14xx.md
           - GXP16xx Series: guides/endpoints/hardphones/grandstream-gxp16xx.md
           - GXP21xx Series: guides/endpoints/hardphones/grandstream-gxp21xx.md
           - HT802 v2 ATA: guides/endpoints/hardphones/grandstream-ht802v2.md
@@ -116,9 +120,11 @@ nav:
           - Polycom VVX-4xx/5xx Series: guides/endpoints/hardphones/polycom-vvx4xx.md
         - Yealink:
           - Yealink T4 Series: guides/endpoints/hardphones/yealink-t4x.md
+          - Yealink T5 Series: guides/endpoints/hardphones/yealink-t5x.md
 
       - Soft Phones:
         - guides/endpoints/softphones/index.md
+        - baresip: guides/endpoints/softphones/baresip.md
         - Groundwire: guides/endpoints/softphones/groundwire.md
         - Jami: guides/endpoints/softphones/jami.md
         - Linphone: guides/endpoints/softphones/linphone.md
@@ -128,6 +134,7 @@ nav:
       - guides/pbx/index.md
       - Asterisk:
         - Configure Asterisk IAX Trunk: guides/pbx/asterisk/configure-iax-trunk.md
+        - Configure Asterisk PJSIP Trunk: guides/pbx/asterisk/configure-pjsip-trunk.md
       - FreePBX: 
         - Configure FreePBX IAX Trunk: guides/pbx/freepbx/configure-iax-trunk.md
         - Configure FreePBX SIP Trunk: guides/pbx/freepbx/configure-sip-trunk.md

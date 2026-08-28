@@ -1,4 +1,4 @@
-# Yealink T5X Series of Phones
+# Yealink T5x Series of Phones
 
 [![T54](https://charliemckinley.com/images/T54W-Front-1.jpg "T54")](https://charliemckinley.com/images/T54W-Front-1.jpg "T54")[![T58](https://charliemckinley.com/images/yealink-SIP-T58W.jpg "T58")](https://charliemckinley.com/images/yealink-SIP-T58W.jpg "T58")
 
@@ -46,11 +46,11 @@ Under the **Dsskey** tab, select the **Line Key** area that you want to program,
 
 ### Verizon Models
 
-If you find a Verizon OneTalk version, you can convert it to work with any other SIP provider by following these directions: https://vwdmi.com/setting-a-verizon-onetalk-phone-back-to-yealink-firmware/
+If you find a Verizon OneTalk version, you can convert it to work with any other SIP provider by following [these directions](https://vwdmi.com/setting-a-verizon-onetalk-phone-back-to-yealink-firmware/).
 
 ### Screen Capture
 
-In the Web GUI, click on the **Features** tab, then on **Remote Control**, in the **Action URI Allow IP List** field enter in the IP address of the device you want to allow to capture the screenshots or the word **any** to allow all devices to capture.  Then go to http://xxx.xxx.xxx.xxx/screencapture (where xxx.xxx.xxx.xxx is the IP address of your phone)
+In the Web GUI, click on the **Features** tab, then on **Remote Control**, in the **Action URI Allow IP List** field enter in the IP address of the device you want to allow to capture the screenshots or the word **any** to allow all devices to capture.  Then go to `http://xxx.xxx.xxx.xxx/screencapture` (where `xxx.xxx.xxx.xxx` is the IP address of your phone)
 
 [![T58](https://charliemckinley.com/images/T58ScreenCapture.png "T58")](https://charliemckinley.com/images/T58ScreenCapture.png "T58")
 
@@ -67,4 +67,4 @@ You can enable or disable the popups on the screen.  I prefer "no popups".
 
 ----
 
-!!! info "Last updated 2026-2-21 by Charlie KE8QLV"
+!!! info "Last updated 2026-02-21 by Charlie KE8QLV"
