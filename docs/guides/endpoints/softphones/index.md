@@ -6,6 +6,7 @@ We have the following Guides available now:
 
 ## Guides
 
+* [baresip](./baresip.md)
 * [Groundwire](./groundwire.md)
 * [Jami](./jami.md)
 * [Linphone](./linphone.md)
