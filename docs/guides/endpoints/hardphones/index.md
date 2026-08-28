@@ -15,6 +15,7 @@ We have the following Guides available now:
 * [SPA 525G/G2](./cisco-525g.md)
 * [8800 Series](./cisco-88xx.md)
 * [Linksys SPA942](./cisco-linksys-spa942.md)
+* [Linksys SPA-3102](./cisco-linksys-spa3102.md)
 
 ## Fanvil
 
