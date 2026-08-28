@@ -14,19 +14,20 @@ We have the following Guides available now:
 * [SPA 512G](./cisco-512g.md)
 * [SPA 525G/G2](./cisco-525g.md)
 * [8800 Series](./cisco-88xx.md)
-* [Linksys SPA942](./cisco-linksys-spa942.md)
-* [Linksys SPA-3102](./cisco-linksys-spa3102.md)
+* [Linksys SPA 942](./cisco-linksys-spa942.md)
+* [Linksys SPA 3102](./cisco-linksys-spa3102.md)
 
 ## Fanvil
 
 * [X210/X210-V2](./fanvil-x210.md)
 
-# FRITZ!Box
+## FRITZ!Box
 
 * [7390](./fritzbox-7390.md)
 
 ## Grandstream
 
+* [GXP14xx Series](./grandstream-gxp14xx.md)
 * [GXP16xx Series](./grandstream-gxp16xx.md)
 * [GXP21xx Series](./grandstream-gxp21xx.md)
 * [HT802 v2 ATA](./grandstream-ht802v2.md)
@@ -42,9 +43,10 @@ We have the following Guides available now:
 ## Yealink
 
 * [T4x Series](./yealink-t4x.md)
+* [T5x Series](./yealink-t5x.md)
 
 ---
 
 This is by no means an exhaustive list... you can help us by [contributing](../../../wiki/contributing.md) a Guide where one doesn't already exist.
 
-!!! info "Last updated 2025-07-14 by Dave M7TLB"
+!!! info "Last updated 2026-08-29 by Dave M9TLB"

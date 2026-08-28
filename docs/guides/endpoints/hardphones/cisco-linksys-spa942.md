@@ -1,4 +1,4 @@
-# Cisco Linksys SPA942
+# Cisco Linksys SPA 942
 
 Your Cisco IP Phone provides a web interface for the phone user that allows you to configure some features of your phone by using a web browser.
 

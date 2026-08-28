@@ -1,4 +1,4 @@
-# Grandstream GXP1400-series
+# Grandstream GXP14xx-series
 
 Configuring the Grandstream GXP1400-series on the HOIP network and how I got it to work.  These instructions are based heavily on referencing the GXP16xx-series guide on this site; however, there are some differences. I will also quote his guide directly at times as he did a good job describing a lot of things.
 
@@ -57,26 +57,26 @@ The phone was a little stubborn at first, but getting it up and running really w
     3. Click on Update and then Reboot.
     4. Check your sound quality. Dial 3194 for echo test. You should hear your voice after you speak some words. Your voice should be clear without distortions.
 
-8. On the main menu webpage, select the "Settings” and then "Basic Settings" tab. 
+8. On the main menu webpage, select the "Settings” and then "Basic Settings" tab.
     1. At “Internet protocol” select “Prefer IPv4”.
     2. At “IPv4 Address” click on the “DHCP” switch.
     3. Click on Update and then Reboot.
     4. NOTE: your ISP or home router might demand a static IP address or, use IPV6, different subnet mask etc. If so, find your network settings and fill in the required fields.
-	
+
 9. Click on the  “Accounts” tab.
     1. Change the “Account Active” switch for the account you have configured to “ON”.
 
-10. Wait for a while (some say at least half an hour) to let the phone register on the HOIP network. Note: leave the phone alone. 
+10. Wait for a while (some say at least half an hour) to let the phone register on the HOIP network. Note: leave the phone alone.
 
 ## Testing the phone/set up voicemail/finding numbers to call
 
-1. Go to the "Status tab. Be sure that the “Registered” section under the account you are using says "Account #: Registered. 
+1. Go to the "Status tab. Be sure that the “Registered” section under the account you are using says "Account #: Registered.
 
 2. Call your own number, the phone should ring, the line icon should flash. End the call.
 
 3. There is no “Voicemail” button on the phone. Dial *97 to set it up and also to retrieve voicemails.  It will walk you through it.First time use you will be greeted by the voice mail server prompting you to set it up (your away message, pin code etc). Note: your pin code is your phone number. Change it to something different.
 
-4. The HOIP phonebook can be found here: [hamsoverIP.com/phonebook](https://hamsoverIP.com/phonebook)
+4. The HOIP phonebook can be found here: [hamsoverip.com/phonebook](https://hamsoverip.com/phonebook)
 
 ## Making a backup of the phone configuration
 
@@ -86,7 +86,7 @@ There isn't really a good way to back up the phone configuration that I've found
 
 _Before_ you call the admins for help
 
-1. The admins will ask for your public IP address to diagnose the issue. You can find it at [helpdesk.hamsoverIP.com/diy](https://helpdesk.hamsoverIP.com/diy/)
+1. The admins will ask for your public IP address to diagnose the issue. You can find it at [helpdesk.hamsoverip.com/diy](https://helpdesk.hamsoverip.com/diy/)
 
 2. Make screenshots of the phone's settings webpages and have them handy to send them.
 
