@@ -30,6 +30,12 @@ Here are the latest updates from the Wiki
     * **New: [Grandstream GXP14xx-series](./guides/endpoints/hardphones/grandstream-gxp14xx.md)**
         - new Configuration Guide for Grandstream GXP14xx-series - thanks to **Stephen KY4G**
 
+    * **Updated: [Avaya 96xx Series Phones](./guides/endpoints/hardphones/avaya-96xx.md)**
+        - added a tip to use an earlier firmware in case phone doesn't register - thanks to **Robert W5JXN**
+
+    * **Update: [Lightweight Directory Access Protocol (LDAP)](./guides/features/ldap.md)**
+        - added a tip to add a configuration in cases where unauthenticated LDAP fails on a Yealink device - thanks to **Frank 2E0FJL**
+
 ??? example "2025-11"
 
     !!! info "2025-11-09"
