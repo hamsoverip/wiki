@@ -200,7 +200,7 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
 
 ## Yealink
 
-??? abstract "Fanvil (generic)"
+??? abstract "Yealink (generic)"
 
     **Parameters**
 
@@ -224,7 +224,7 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
     LDAP SORTING RESULTS:           DISABLED
     ```
 
-    **How to configure LDAP directory on Yaelink phone**
+    **How to configure LDAP directory on Yealink phone**
     
     1. Log into phone with IP ADDRESS and click on DIRECTORY TAB.
     2. Click on LDAP on left siide then select ENABLED from DROP DOWN of ENABLE LDAP.
@@ -233,7 +233,16 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
     5. Select DIRECTORY and choose HOIP and press ENTER.
     6. Type in partial callsign or name.
 
-    !!! note "Last updated 2025-07-23 Jesse WH6AV"
+    !!! tip Newer Yealink devices
+        Some newer Yealinks do not support unauthenticated LDAP out of the box.  If you get an error relating to LDAP authentication, you may need to specify the following configuration using a provisioning server:
+
+        ```
+        ldap.anonymous_bind_operation.enable=1
+        ```
+
+        Thanks to **Frank 2E0FJL** for the tip here.
+
+    !!! note "Last updated 2026-08-29 by Dave M9TLB"
 
 ---
 
