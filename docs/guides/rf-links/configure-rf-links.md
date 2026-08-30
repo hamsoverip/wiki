@@ -58,7 +58,7 @@ Please use an IAX client and test your credentials that you used for HOIP from o
 
 Once you have your node configured, you will need to request an ALLSTAR-Link Extension on the HOIP system through the HOIP ticketing system.
 
-* Go to [https://hamsoverip.com/](https://hamsoverip.com/) and click "Request a Line".
+* Go to [https://helpdesk.hamsoverip.com/osticket/](https://helpdesk.hamsoverip.com/osticket/) and click "Request a Line".
 * If you have an account, sign in
 * Select `Open a New Ticket`.
 * Fill out the Contact Information Part of the Ticket.
