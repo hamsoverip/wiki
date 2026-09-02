@@ -2,23 +2,24 @@
 
 ## About MicroSIP
 
-MicroSIP (https://www.microsip.org) is an open source and portable SIP softphone for Windows. It is also compatible with Linux and MacOS by using Wine.
+MicroSIP ([microsip.org](https://www.microsip.org)) is an open source and portable SIP softphone for Windows. It is also compatible with Linux and MacOS by using Wine.
 
 It uses a very small footprint and memory usage, making it really convenient for ham radio shack computers that are being used for multitasking with other tools.
 
 ## Usage Instructions
 
-1. Download MicroSIP, either the Install version or the ZIP portable version from https://www.microsip.org/downloads.
+1. Download MicroSIP, either the Install version or the ZIP portable version from [microsip.org/downloads](https://www.microsip.org/downloads).
     * Note: There is a regular and a lite version. The only difference between them is that the regular version supports SIP Video (which HOIP doesn't support, but other SIP services support)
 
-1. Install MicroSIP or decompress the portable ZIP file to a convenient location.
-1. Run it by finding MicroSIP or running the EXE file.
-1. By default, the softphone just starts up, without any accounts added.
+2. Install MicroSIP or decompress the portable ZIP file to a convenient location.
+3. Run it by finding MicroSIP or running the EXE file.
+4. By default, the softphone just starts up, without any accounts added.
 
-![Screenshot of the main MicroSIP window](./images/microsip-mainwindow.png "Screenshot of the main MicroSIP window")
+    ![Screenshot of the main MicroSIP window](./images/microsip-mainwindow.png "Screenshot of the main MicroSIP window")
+
 5. Click the *Down arrow button* atop the MicroSIP window, and select the **Add account...** menu option. A new window will appear.
 
-![Screenshot of the Account MicroSIP window](./images/microsip-accountwindow.png "Screenshot of the Account MicroSIP window"){ height="50%" width="50%" }
+    ![Screenshot of the Account MicroSIP window](./images/microsip-accountwindow.png "Screenshot of the Account MicroSIP window"){ height="50%" width="50%" }
 
 6. Insert the following information:
 
@@ -72,3 +73,5 @@ By clicking the *Down arrow button* in the main MicroSIP window, and clicking th
 You can actually stop MicroSIP from autostarting automatically when you login to your computer from this window.
 
 For safety sake, we recommend not to change any of these options, except Ringtone, Ring Device, Speaker and Microphone.
+
+!!! note "Written by Juan HK4H, last updated 2026-09-02 Jesse WH8AV"
