@@ -15,8 +15,7 @@ It uses a very small footprint and memory usage, making it really convenient for
 1. Run it by finding MicroSIP or running the EXE file.
 1. By default, the softphone just starts up, without any accounts added.
 
-![Screenshot of the main MicroSIP window](./images/microsip-mainwindow.png "Screenshot of the main MicroSIP window"){ height="50%" width="50%" }
-
+![Screenshot of the main MicroSIP window](./images/microsip-mainwindow.png "Screenshot of the main MicroSIP window")
 5. Click the *Down arrow button* atop the MicroSIP window, and select the **Add account...** menu option. A new window will appear.
 
 ![Screenshot of the Account MicroSIP window](./images/microsip-accountwindow.png "Screenshot of the Account MicroSIP window"){ height="50%" width="50%" }
@@ -40,7 +39,7 @@ If any configuration is missing or your password is wrong, it will let you know 
 
 ### Example account configuration
 
-![Screenshot of an example account in MicroSIP](./images/microsip-accountwithdetails.png "Screenshot of an example account in MicroSIP"){ height="50%" width="50%" }
+![Screenshot of an example account in MicroSIP](./images/microsip-accountwithdetails.png "Screenshot of an example account in MicroSIP")
 
 ## Dialing
 
