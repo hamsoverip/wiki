@@ -68,7 +68,7 @@ If you want MicroSIP to immediately pick up your phone calls, you can activate t
 
 By clicking the *Down arrow button* in the main MicroSIP window, and clicking the **Settings** option, you can configure more options, including selecting a proper ringtone, what sound device to use for the Ringtone, or the actual call, among many many other options, including Call Recording.
 
-![Screenshot of the Settings window in MicroSIP](./images/microsip-settingswindow.png "Screenshot of Settings window in MicroSIP"){ height="50%" width="50%" }
+![Screenshot of the Settings window in MicroSIP](./images/microsip-settingswindow.png "Screenshot of Settings window in MicroSIP")
 
 You can actually stop MicroSIP from autostarting automatically when you login to your computer from this window.
 
