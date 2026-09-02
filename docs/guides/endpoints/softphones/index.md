@@ -10,8 +10,9 @@ We have the following Guides available now:
 * [Groundwire](./groundwire.md)
 * [Jami](./jami.md)
 * [Linphone](./linphone.md)
-* [Zoiper](./zoiper.md)
 * [Microsip](./microsip.md)
+* [Zoiper](./zoiper.md)
+
 
 ---
 
