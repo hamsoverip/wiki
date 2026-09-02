@@ -11,6 +11,7 @@ We have the following Guides available now:
 * [Jami](./jami.md)
 * [Linphone](./linphone.md)
 * [Zoiper](./zoiper.md)
+* [Microsip](./microsip.md)
 
 ---
 
