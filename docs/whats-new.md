@@ -7,34 +7,43 @@ icon: material/newspaper-variant
 
 Here are the latest updates from the Wiki
 
-!!! info "2026-08-29"
+???+ example "2026-09"
 
-    * **New: [Yealink T5x Series of Phones](./guides/endpoints/hardphones/yealink-t5x.md)**
-        - new Configuration Guide for Yealink T5x Series phones - thanks to **Charlie KE8QLV**
+    !!! info "2026-09-02"
 
-    * **Updated: [Yealink T4x Series of Phones](./guides/endpoints/hardphones/yealink-t4x.md)**
-        - updated a broken link in the Configuration Guide - thanks to **Charlie KE8QLV**
-        
-    * **New: [Configuring an asterisk SIP Trunk for HOIP](./guides/pbx/asterisk/configure-pjsip-trunk.md)**
-        - new Configuration Guide for PJSIP on Asterisk - thanks to **Ada KQ4IDU**
+        * **New: [MicroSIP](./guides/endpoints/softphones/microsip.md)**
+            - new Configuration Guide for MicroSIP - thanks to **Juan HK4H** 
 
-    * **New: [Cisco Linksys SPA 3102](./guides/endpoints/hardphones/cisco-linksys-spa3102.md)**
-        - new Configuration Guide for Cisco Linksys SPA 3102 - thanks to **Olivier VK7SHM**
+???+ example "2026-08"
 
-    * **New: [FRITZ!Box 7390](./guides/endpoints/hardphones/fritzbox-7390.md)**
-        - new Configuration Guide for FRITZ!Box 7390 - thanks to **Olivier VK7SHM**
+    !!! info "2026-08-29"
 
-    * **New: [baresip](./guides/endpoints/softphones/baresip.md)**
-        - new Configuration Guide for baresip - thanks to **Olivier VK7SHM**
+        * **New: [Yealink T5x Series of Phones](./guides/endpoints/hardphones/yealink-t5x.md)**
+            - new Configuration Guide for Yealink T5x Series phones - thanks to **Charlie KE8QLV**
 
-    * **New: [Grandstream GXP14xx-series](./guides/endpoints/hardphones/grandstream-gxp14xx.md)**
-        - new Configuration Guide for Grandstream GXP14xx-series - thanks to **Stephen KY4G**
+        * **Updated: [Yealink T4x Series of Phones](./guides/endpoints/hardphones/yealink-t4x.md)**
+            - updated a broken link in the Configuration Guide - thanks to **Charlie KE8QLV**
+            
+        * **New: [Configuring an asterisk SIP Trunk for HOIP](./guides/pbx/asterisk/configure-pjsip-trunk.md)**
+            - new Configuration Guide for PJSIP on Asterisk - thanks to **Ada KQ4IDU**
 
-    * **Updated: [Avaya 96xx Series Phones](./guides/endpoints/hardphones/avaya-96xx.md)**
-        - added a tip to use an earlier firmware in case phone doesn't register - thanks to **Robert W5JXN**
+        * **New: [Cisco Linksys SPA 3102](./guides/endpoints/hardphones/cisco-linksys-spa3102.md)**
+            - new Configuration Guide for Cisco Linksys SPA 3102 - thanks to **Olivier VK7SHM**
 
-    * **Update: [Lightweight Directory Access Protocol (LDAP)](./guides/features/ldap.md)**
-        - added a tip to add a configuration in cases where unauthenticated LDAP fails on a Yealink device - thanks to **Frank 2E0FJL**
+        * **New: [FRITZ!Box 7390](./guides/endpoints/hardphones/fritzbox-7390.md)**
+            - new Configuration Guide for FRITZ!Box 7390 - thanks to **Olivier VK7SHM**
+
+        * **New: [baresip](./guides/endpoints/softphones/baresip.md)**
+            - new Configuration Guide for baresip - thanks to **Olivier VK7SHM**
+
+        * **New: [Grandstream GXP14xx-series](./guides/endpoints/hardphones/grandstream-gxp14xx.md)**
+            - new Configuration Guide for Grandstream GXP14xx-series - thanks to **Stephen KY4G**
+
+        * **Updated: [Avaya 96xx Series Phones](./guides/endpoints/hardphones/avaya-96xx.md)**
+            - added a tip to use an earlier firmware in case phone doesn't register - thanks to **Robert W5JXN**
+
+        * **Update: [Lightweight Directory Access Protocol (LDAP)](./guides/features/ldap.md)**
+            - added a tip to add a configuration in cases where unauthenticated LDAP fails on a Yealink device - thanks to **Frank 2E0FJL**
 
 ??? example "2025-11"
 

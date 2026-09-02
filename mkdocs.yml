@@ -128,6 +128,7 @@ nav:
         - Groundwire: guides/endpoints/softphones/groundwire.md
         - Jami: guides/endpoints/softphones/jami.md
         - Linphone: guides/endpoints/softphones/linphone.md
+        - MicroSIP: guides/endpoints/softphones/microsip.md
         - Zoiper: guides/endpoints/softphones/zoiper.md
 
     - PBX Trunks:
