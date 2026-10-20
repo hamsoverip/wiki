@@ -83,7 +83,7 @@ Hams Over IP now supports a phone-based directory of HOIP users using LDAP which
     Search Base:            ou=people,dc=hamsoverip,dc=com
     Auth Type:              Simple
     Last Name Filter:       cn:(cn=$VALUE*)
-    First Name Filter:      telephoneNumber:(telephoneNumber=*$VALUE*)
+    First Name Filter:      telephoneNumber:(telephoneNumber=$VALUE*)
     Display Attr:           a=cn;a=telephoneNumber,n=Phone,t=p
     ```
 
